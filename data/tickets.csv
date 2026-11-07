@@ -1,0 +1,24 @@
+ticket_id,connector_id,category,opened,status
+TK0001,CN0002,Wrong payout amount,2026-10-25,Open
+TK0002,CN0014,Wrong payout amount,2026-10-18,Open
+TK0003,CN0028,Wrong payout amount,2026-10-19,Open
+TK0004,CN0052,App login,2026-10-23,Open
+TK0005,CN0062,Wrong payout amount,2026-10-25,Open
+TK0006,CN0081,Wrong payout amount,2026-10-24,Open
+TK0007,CN0084,Wrong payout amount,2026-10-14,Open
+TK0008,CN0086,App login,2026-10-20,Open
+TK0009,CN0088,Payout delay,2026-10-14,Open
+TK0010,CN0096,Lead stuck,2026-10-27,Open
+TK0011,CN0100,App login,2026-10-15,Open
+TK0012,CN0103,Lead stuck,2026-10-20,Open
+TK0013,CN0107,Lead stuck,2026-10-28,Open
+TK0014,CN0113,App login,2026-10-22,Open
+TK0015,CN0118,Lead stuck,2026-10-17,Open
+TK0016,CN0120,App login,2026-10-20,Open
+TK0017,CN0127,Payout delay,2026-10-25,Open
+TK0018,CN0134,Lead stuck,2026-10-22,Open
+TK0019,CN0135,App login,2026-10-17,Open
+TK0020,CN0164,Payout delay,2026-10-18,Open
+TK0021,CN0210,Lead stuck,2026-10-21,Open
+TK0022,CN0236,Wrong payout amount,2026-10-25,Open
+TK0023,CN0238,Lead stuck,2026-10-27,Open

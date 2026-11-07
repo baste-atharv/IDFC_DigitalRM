@@ -1,0 +1,241 @@
+connector_id,name,archetype,rm_id,rm_name,city,language,digital_maturity,joined,last_lead,app_opens_14d,rm_touches_30d,preferred_hour,consent_whatsapp,latent_engagement
+CN0001,Imran Pawar,Clinic / pharmacy owner,RM01,Rahul Deshmukh,Nashik,mr,Medium,2025-11-28,2026-10-31,5,2,16,True,0.693
+CN0002,Arvind Reddy,Car dealer sales executive,RM02,Priya Iyer,Chennai,ta,Medium,2025-03-31,2026-09-10,2,2,12,True,0.32
+CN0003,Venkat Shaikh,Real-estate broker,RM03,Amit Sharma,Jaipur,en,Medium,2026-02-19,2026-11-01,7,3,13,True,0.683
+CN0004,Fatima Mehta,Real-estate broker,RM04,Sneha Kulkarni,Pune,mr,Low,2026-09-13,2026-10-29,8,0,19,True,0.449
+CN0005,Sameer More,Coaching institute owner,RM05,Farhan Qureshi,Lucknow,hi,Medium,2025-10-19,2026-09-20,3,1,16,True,0.466
+CN0006,Pooja Jain,Shop owner / trader,RM06,Arjun Reddy,Hyderabad,en,Medium,2026-10-25,,3,0,13,False,0.299
+CN0007,Kavita Ansari,Shop owner / trader,RM01,Rahul Deshmukh,Nashik,en,High,2026-07-11,2026-10-22,3,0,19,True,0.288
+CN0008,Sunita Mehta,Coaching institute owner,RM02,Priya Iyer,Chennai,ta,Medium,2025-05-22,2026-10-20,1,3,11,True,0.123
+CN0009,Prakash Ansari,Car dealer sales executive,RM03,Amit Sharma,Jaipur,hi,Medium,2026-03-09,2026-09-25,13,1,10,True,0.987
+CN0010,Venkat Verma,Insurance advisor,RM04,Sneha Kulkarni,Pune,mr,Medium,2025-06-21,2026-10-28,8,1,16,False,0.662
+CN0011,Sameer Jain,Insurance advisor,RM05,Farhan Qureshi,Lucknow,hi,High,2025-10-10,2026-10-28,7,2,11,False,0.666
+CN0012,Kavita Rao,Shop owner / trader,RM06,Arjun Reddy,Hyderabad,en,Low,2026-07-06,2026-10-04,2,3,12,True,0.131
+CN0013,Shabana Khan,Shop owner / trader,RM01,Rahul Deshmukh,Nashik,hi,Low,2025-03-31,2026-10-05,7,2,18,True,0.432
+CN0014,Rohit Shinde,Car dealer sales executive,RM02,Priya Iyer,Chennai,ta,High,2025-05-04,2026-10-17,6,1,16,False,0.191
+CN0015,Mahesh Jain,CA / tax consultant,RM03,Amit Sharma,Jaipur,hi,High,2026-06-01,2026-09-05,2,0,10,True,0.189
+CN0016,Vikram Khan,CA / tax consultant,RM04,Sneha Kulkarni,Pune,mr,High,2026-06-08,2026-10-29,9,0,13,True,0.421
+CN0017,Deepa Mehta,Coaching institute owner,RM05,Farhan Qureshi,Lucknow,en,Medium,2024-11-16,2026-08-24,5,0,11,True,0.292
+CN0018,Harish Jain,Real-estate broker,RM06,Arjun Reddy,Hyderabad,te,Low,2026-10-12,2026-10-29,4,4,13,True,0.365
+CN0019,Arvind Ansari,Clinic / pharmacy owner,RM01,Rahul Deshmukh,Nashik,mr,Low,2025-09-05,2026-10-19,4,0,12,False,0.212
+CN0020,Srinivas Kale,Car dealer sales executive,RM02,Priya Iyer,Chennai,ta,High,2024-11-22,2026-09-03,10,3,19,True,0.57
+CN0021,Rekha Pawar,Clinic / pharmacy owner,RM03,Amit Sharma,Jaipur,en,Low,2025-03-03,2026-10-16,5,2,11,True,0.499
+CN0022,Manoj Naidu,Insurance advisor,RM04,Sneha Kulkarni,Pune,mr,Low,2026-01-12,2026-09-25,7,3,19,True,0.476
+CN0023,Deepa Naidu,Coaching institute owner,RM05,Farhan Qureshi,Lucknow,hi,Medium,2025-06-14,2026-10-28,8,1,11,True,0.59
+CN0024,Pooja Jain,Insurance advisor,RM06,Arjun Reddy,Hyderabad,en,Low,2025-04-04,2026-10-26,6,3,10,True,0.657
+CN0025,Nikhil Shaikh,Insurance advisor,RM01,Rahul Deshmukh,Nashik,hi,Medium,2024-12-27,2026-10-15,3,1,16,True,0.275
+CN0026,Anita Shinde,Shop owner / trader,RM02,Priya Iyer,Chennai,ta,Medium,2025-07-28,2026-10-02,5,0,10,True,0.317
+CN0027,Nandini Naidu,Shop owner / trader,RM03,Amit Sharma,Jaipur,hi,Low,2025-01-30,2026-06-28,3,2,12,True,0.098
+CN0028,Rizwan Mehta,Coaching institute owner,RM04,Sneha Kulkarni,Pune,en,High,2025-02-26,2026-10-26,9,0,13,True,0.562
+CN0029,Arvind Shaikh,CA / tax consultant,RM05,Farhan Qureshi,Lucknow,hi,Low,2026-10-08,2026-11-02,10,2,18,True,0.673
+CN0030,Suresh More,Clinic / pharmacy owner,RM06,Arjun Reddy,Hyderabad,en,Low,2026-06-14,2026-09-08,1,2,10,True,0.322
+CN0031,Suresh Naidu,Clinic / pharmacy owner,RM01,Rahul Deshmukh,Nashik,hi,Low,2025-12-26,2026-09-29,5,0,12,True,0.325
+CN0032,Meera Joshi,Shop owner / trader,RM02,Priya Iyer,Chennai,ta,Low,2025-05-03,2026-09-13,10,0,16,True,0.244
+CN0033,Jyoti Naidu,CA / tax consultant,RM03,Amit Sharma,Jaipur,hi,Low,2025-10-18,2026-10-28,5,1,17,True,0.489
+CN0034,Nikhil Rao,Clinic / pharmacy owner,RM04,Sneha Kulkarni,Pune,mr,Medium,2024-12-07,2026-10-04,1,0,16,True,0.058
+CN0035,Nikhil Jain,Shop owner / trader,RM05,Farhan Qureshi,Lucknow,hi,Medium,2024-11-15,2026-10-24,3,4,16,True,0.359
+CN0036,Nikhil Shaikh,CA / tax consultant,RM06,Arjun Reddy,Hyderabad,en,Low,2026-05-11,2026-10-07,6,1,13,True,0.532
+CN0037,Suresh Iyer,Real-estate broker,RM01,Rahul Deshmukh,Nashik,mr,High,2025-08-02,2026-10-31,10,4,13,False,0.751
+CN0038,Jyoti Reddy,Clinic / pharmacy owner,RM02,Priya Iyer,Chennai,ta,Low,2025-02-01,2026-10-20,7,1,18,True,0.458
+CN0039,Shabana Iyer,CA / tax consultant,RM03,Amit Sharma,Jaipur,hi,High,2026-01-03,2026-10-12,10,2,13,True,0.812
+CN0040,Shabana Patil,Coaching institute owner,RM04,Sneha Kulkarni,Pune,en,Medium,2025-11-06,2026-10-18,4,2,16,True,0.396
+CN0041,Kavita Joshi,Clinic / pharmacy owner,RM05,Farhan Qureshi,Lucknow,hi,Low,2026-07-04,2026-09-10,5,0,12,True,0.24
+CN0042,Nikhil Shaikh,CA / tax consultant,RM06,Arjun Reddy,Hyderabad,en,High,2025-05-14,2026-09-24,1,0,16,True,0.368
+CN0043,Imran Ansari,Car dealer sales executive,RM01,Rahul Deshmukh,Nashik,en,Medium,2026-03-08,2026-11-01,7,5,11,True,0.485
+CN0044,Kavita Verma,Real-estate broker,RM02,Priya Iyer,Chennai,en,High,2026-09-09,2026-10-06,4,0,10,True,0.432
+CN0045,Rekha Patil,Car dealer sales executive,RM03,Amit Sharma,Jaipur,hi,Medium,2026-07-09,2026-09-30,2,0,18,True,0.115
+CN0046,Srinivas Joshi,CA / tax consultant,RM04,Sneha Kulkarni,Pune,mr,Low,2026-09-02,2026-10-17,4,2,18,True,0.502
+CN0047,Vikram Iyer,Coaching institute owner,RM05,Farhan Qureshi,Lucknow,en,Low,2026-02-12,2026-09-26,7,2,12,True,0.405
+CN0048,Sameer Rao,Coaching institute owner,RM06,Arjun Reddy,Hyderabad,te,Low,2025-04-12,2026-11-01,14,0,12,True,0.875
+CN0049,Rohit Ansari,Clinic / pharmacy owner,RM01,Rahul Deshmukh,Nashik,mr,High,2025-09-16,2026-10-22,10,3,18,True,0.474
+CN0050,Kavita Gupta,CA / tax consultant,RM02,Priya Iyer,Chennai,en,Medium,2026-05-06,2026-10-31,3,2,17,True,0.348
+CN0051,Rizwan Reddy,Car dealer sales executive,RM03,Amit Sharma,Jaipur,en,High,2026-07-11,,0,2,17,False,0.123
+CN0052,Lakshmi More,Coaching institute owner,RM04,Sneha Kulkarni,Pune,mr,Low,2025-03-01,2026-11-01,7,3,13,True,0.804
+CN0053,Rohit Jain,Car dealer sales executive,RM05,Farhan Qureshi,Lucknow,hi,Medium,2026-01-22,2026-10-31,11,1,16,True,0.983
+CN0054,Kavita Khan,Car dealer sales executive,RM06,Arjun Reddy,Hyderabad,en,Medium,2025-08-25,2026-10-24,14,1,13,True,0.879
+CN0055,Suresh More,Insurance advisor,RM01,Rahul Deshmukh,Nashik,mr,Medium,2025-12-29,2026-09-27,4,0,13,True,0.325
+CN0056,Meera Gupta,Car dealer sales executive,RM02,Priya Iyer,Chennai,ta,Low,2026-03-25,2026-10-24,7,3,16,False,0.838
+CN0057,Vikram Ansari,Real-estate broker,RM03,Amit Sharma,Jaipur,hi,Low,2025-03-22,2026-05-27,6,0,18,True,0.131
+CN0058,Ganesh Ansari,Coaching institute owner,RM04,Sneha Kulkarni,Pune,mr,Low,2026-10-08,2026-10-29,0,2,11,True,0.537
+CN0059,Jyoti Shinde,Car dealer sales executive,RM05,Farhan Qureshi,Lucknow,hi,High,2025-06-09,2026-09-29,7,5,18,True,0.819
+CN0060,Deepa Khan,Clinic / pharmacy owner,RM06,Arjun Reddy,Hyderabad,te,Medium,2026-10-23,2026-11-02,1,1,10,True,0.055
+CN0061,Imran Khan,CA / tax consultant,RM01,Rahul Deshmukh,Nashik,en,Medium,2025-06-09,2026-10-12,5,3,19,True,0.578
+CN0062,Sachin More,Shop owner / trader,RM02,Priya Iyer,Chennai,ta,Low,2025-04-08,2026-09-06,2,0,19,True,0.199
+CN0063,Sunita Reddy,CA / tax consultant,RM03,Amit Sharma,Jaipur,en,Low,2025-08-25,2026-10-10,2,1,12,True,0.524
+CN0064,Arvind More,Coaching institute owner,RM04,Sneha Kulkarni,Pune,mr,Low,2025-05-06,2026-10-10,1,0,11,True,0.141
+CN0065,Deepa Pawar,Real-estate broker,RM05,Farhan Qureshi,Lucknow,hi,Medium,2026-10-05,2026-10-30,0,0,10,True,0.14
+CN0066,Pooja Patil,Car dealer sales executive,RM06,Arjun Reddy,Hyderabad,en,Medium,2025-11-05,2026-08-28,3,0,17,True,0.187
+CN0067,Lakshmi Pawar,Car dealer sales executive,RM01,Rahul Deshmukh,Nashik,hi,Low,2025-01-11,2026-10-21,4,0,10,True,0.234
+CN0068,Shabana Ansari,Real-estate broker,RM02,Priya Iyer,Chennai,en,Medium,2026-10-31,2026-11-02,5,0,12,True,0.292
+CN0069,Nikhil Kale,CA / tax consultant,RM03,Amit Sharma,Jaipur,hi,Low,2025-03-18,2026-10-28,2,1,16,True,0.147
+CN0070,Harish Shaikh,Coaching institute owner,RM04,Sneha Kulkarni,Pune,en,Low,2026-02-05,2026-09-25,8,1,11,False,0.465
+CN0071,Manoj Kumar,Shop owner / trader,RM05,Farhan Qureshi,Lucknow,hi,Low,2025-06-28,2026-11-01,12,1,12,True,0.59
+CN0072,Lakshmi Verma,Clinic / pharmacy owner,RM06,Arjun Reddy,Hyderabad,te,Low,2025-10-22,2026-09-25,4,3,18,True,0.389
+CN0073,Prakash More,Insurance advisor,RM01,Rahul Deshmukh,Nashik,hi,Low,2026-10-30,2026-10-31,2,0,16,True,0.094
+CN0074,Harish Mehta,Insurance advisor,RM02,Priya Iyer,Chennai,ta,Low,2026-07-19,2026-10-29,5,1,16,False,0.391
+CN0075,Kavita Shaikh,Car dealer sales executive,RM03,Amit Sharma,Jaipur,hi,High,2025-04-27,2026-10-13,2,1,16,False,0.167
+CN0076,Meera Iyer,Coaching institute owner,RM04,Sneha Kulkarni,Pune,mr,Medium,2026-01-22,2026-10-25,3,1,17,False,0.375
+CN0077,Arvind Jain,Coaching institute owner,RM05,Farhan Qureshi,Lucknow,hi,Medium,2026-04-20,2026-10-14,2,3,18,True,0.255
+CN0078,Karthik Reddy,Real-estate broker,RM06,Arjun Reddy,Hyderabad,te,High,2026-09-26,2026-10-07,7,1,16,True,0.551
+CN0079,Suresh Kumar,Car dealer sales executive,RM01,Rahul Deshmukh,Nashik,mr,Medium,2026-10-31,,4,2,19,True,0.25
+CN0080,Vikram Pawar,Real-estate broker,RM02,Priya Iyer,Chennai,ta,Low,2025-09-10,2026-08-02,1,3,10,True,0.076
+CN0081,Kavita Ansari,CA / tax consultant,RM03,Amit Sharma,Jaipur,hi,Medium,2025-10-18,2026-10-11,2,1,16,True,0.241
+CN0082,Harish Shaikh,Insurance advisor,RM04,Sneha Kulkarni,Pune,mr,Medium,2025-01-17,2026-10-29,4,1,18,True,0.352
+CN0083,Meera Patil,Real-estate broker,RM05,Farhan Qureshi,Lucknow,en,Low,2025-03-24,2026-08-02,4,0,11,True,0.227
+CN0084,Kavita Gupta,Shop owner / trader,RM06,Arjun Reddy,Hyderabad,te,Low,2026-09-10,,3,1,11,True,0.083
+CN0085,Fatima More,Clinic / pharmacy owner,RM01,Rahul Deshmukh,Nashik,mr,Medium,2025-05-01,2026-10-26,9,0,17,True,0.552
+CN0086,Harish Gupta,Shop owner / trader,RM02,Priya Iyer,Chennai,en,Medium,2026-03-12,2026-08-14,5,1,13,True,0.111
+CN0087,Sunita Kumar,CA / tax consultant,RM03,Amit Sharma,Jaipur,hi,Medium,2025-03-29,2026-10-05,3,1,10,True,0.205
+CN0088,Fatima Shaikh,Real-estate broker,RM04,Sneha Kulkarni,Pune,mr,Low,2025-12-17,2026-10-24,9,0,13,True,0.678
+CN0089,Srinivas Pawar,Clinic / pharmacy owner,RM05,Farhan Qureshi,Lucknow,en,Low,2025-03-16,2026-10-28,11,0,10,False,0.502
+CN0090,Rekha Kale,Car dealer sales executive,RM06,Arjun Reddy,Hyderabad,te,High,2026-07-29,2026-10-12,7,1,10,True,0.379
+CN0091,Kavita Ansari,Clinic / pharmacy owner,RM01,Rahul Deshmukh,Nashik,hi,Medium,2026-07-30,2026-10-10,12,1,13,True,0.458
+CN0092,Nikhil Shinde,CA / tax consultant,RM02,Priya Iyer,Chennai,ta,High,2026-08-01,2026-10-04,6,1,13,True,0.509
+CN0093,Nikhil Patil,CA / tax consultant,RM03,Amit Sharma,Jaipur,hi,Medium,2025-06-29,2026-10-05,11,2,19,True,0.64
+CN0094,Usha Kale,Shop owner / trader,RM04,Sneha Kulkarni,Pune,mr,Medium,2024-12-27,2026-10-23,5,3,10,True,0.484
+CN0095,Sachin Rao,Real-estate broker,RM05,Farhan Qureshi,Lucknow,en,Low,2025-09-08,2026-10-17,8,2,16,True,0.49
+CN0096,Ganesh Iyer,Real-estate broker,RM06,Arjun Reddy,Hyderabad,te,Low,2026-10-29,2026-11-01,1,0,13,True,0.088
+CN0097,Harish Iyer,Car dealer sales executive,RM01,Rahul Deshmukh,Nashik,mr,Low,2025-08-09,2026-11-02,11,3,16,True,0.836
+CN0098,Vikram Patil,Real-estate broker,RM02,Priya Iyer,Chennai,ta,Low,2025-07-07,2026-07-19,2,0,10,True,0.126
+CN0099,Sunita Kumar,Clinic / pharmacy owner,RM03,Amit Sharma,Jaipur,en,High,2024-12-14,2026-08-25,2,0,19,True,0.333
+CN0100,Suresh Naidu,CA / tax consultant,RM04,Sneha Kulkarni,Pune,en,Low,2026-05-18,2026-10-16,8,4,18,True,0.441
+CN0101,Jyoti Verma,CA / tax consultant,RM05,Farhan Qureshi,Lucknow,hi,Low,2025-03-26,2026-09-21,11,2,11,True,0.689
+CN0102,Sunita Ansari,CA / tax consultant,RM06,Arjun Reddy,Hyderabad,en,Low,2026-02-28,2026-10-18,2,2,17,True,0.236
+CN0103,Srinivas Iyer,Shop owner / trader,RM01,Rahul Deshmukh,Nashik,hi,Low,2025-03-27,2026-10-16,8,2,18,True,0.788
+CN0104,Sachin Mehta,Real-estate broker,RM02,Priya Iyer,Chennai,en,Low,2025-11-17,2026-10-31,6,0,12,True,0.499
+CN0105,Suresh Pawar,Real-estate broker,RM03,Amit Sharma,Jaipur,en,Low,2026-03-28,2026-10-29,5,0,16,True,0.46
+CN0106,Nikhil Khan,Clinic / pharmacy owner,RM04,Sneha Kulkarni,Pune,mr,Low,2025-08-29,2026-10-24,5,0,18,True,0.357
+CN0107,Usha Iyer,Insurance advisor,RM05,Farhan Qureshi,Lucknow,hi,High,2025-01-09,2026-10-02,2,0,17,True,0.278
+CN0108,Shabana Kale,Clinic / pharmacy owner,RM06,Arjun Reddy,Hyderabad,en,Low,2025-06-06,2026-08-16,5,1,16,True,0.212
+CN0109,Imran Joshi,Car dealer sales executive,RM01,Rahul Deshmukh,Nashik,hi,High,2025-10-11,2026-10-06,8,0,19,True,0.674
+CN0110,Mahesh Patil,CA / tax consultant,RM02,Priya Iyer,Chennai,ta,Low,2025-12-10,2026-10-15,8,0,19,False,0.373
+CN0111,Prakash Naidu,Clinic / pharmacy owner,RM03,Amit Sharma,Jaipur,hi,Medium,2025-03-11,2026-09-26,9,4,19,True,0.421
+CN0112,Jyoti Gupta,Car dealer sales executive,RM04,Sneha Kulkarni,Pune,mr,Low,2025-11-13,2026-10-05,3,2,12,True,0.528
+CN0113,Karthik Ansari,CA / tax consultant,RM05,Farhan Qureshi,Lucknow,en,Low,2025-07-26,2026-10-25,6,2,16,True,0.977
+CN0114,Srinivas Patil,Clinic / pharmacy owner,RM06,Arjun Reddy,Hyderabad,te,Low,2024-12-31,2026-10-22,6,3,16,True,0.663
+CN0115,Fatima Gupta,Coaching institute owner,RM01,Rahul Deshmukh,Nashik,mr,Medium,2025-10-04,2026-10-12,6,2,19,True,0.573
+CN0116,Karthik Rao,Real-estate broker,RM02,Priya Iyer,Chennai,en,Low,2026-08-04,2026-09-29,3,2,19,True,0.489
+CN0117,Nandini Jain,Real-estate broker,RM03,Amit Sharma,Jaipur,hi,Medium,2025-12-25,2026-10-30,7,4,16,True,0.954
+CN0118,Deepa Ansari,Insurance advisor,RM04,Sneha Kulkarni,Pune,mr,Low,2026-04-03,2026-10-12,5,1,16,False,0.455
+CN0119,Manoj Ansari,Coaching institute owner,RM05,Farhan Qureshi,Lucknow,hi,Low,2026-05-31,2026-10-28,6,1,10,True,0.364
+CN0120,Arvind Pawar,Shop owner / trader,RM06,Arjun Reddy,Hyderabad,te,High,2026-10-31,2026-11-02,6,1,19,True,0.186
+CN0121,Rekha More,Real-estate broker,RM01,Rahul Deshmukh,Nashik,hi,Low,2025-05-08,2026-10-02,9,3,19,True,0.647
+CN0122,Shabana Mehta,Real-estate broker,RM02,Priya Iyer,Chennai,en,Low,2024-12-06,2026-10-19,3,0,13,True,0.263
+CN0123,Meera Verma,Clinic / pharmacy owner,RM03,Amit Sharma,Jaipur,hi,Medium,2025-05-18,2026-10-14,8,0,10,True,0.504
+CN0124,Imran Shaikh,Clinic / pharmacy owner,RM04,Sneha Kulkarni,Pune,mr,Low,2024-12-24,2026-10-23,5,3,12,True,0.392
+CN0125,Sameer Khan,Car dealer sales executive,RM05,Farhan Qureshi,Lucknow,hi,Low,2026-08-02,2026-10-31,6,1,12,True,0.232
+CN0126,Suresh Kale,Coaching institute owner,RM06,Arjun Reddy,Hyderabad,en,Medium,2025-10-14,2026-10-03,6,2,12,True,0.856
+CN0127,Sachin Jain,Real-estate broker,RM01,Rahul Deshmukh,Nashik,mr,Low,2025-02-04,2026-10-19,5,1,17,True,0.316
+CN0128,Arvind Patil,Car dealer sales executive,RM02,Priya Iyer,Chennai,ta,Medium,2026-01-08,2026-10-19,1,1,11,True,0.334
+CN0129,Sunita Kale,Clinic / pharmacy owner,RM03,Amit Sharma,Jaipur,hi,Low,2026-04-07,2026-09-21,5,1,19,True,0.452
+CN0130,Lakshmi More,Insurance advisor,RM04,Sneha Kulkarni,Pune,mr,Medium,2025-12-08,2026-09-24,9,1,10,True,0.316
+CN0131,Usha Khan,CA / tax consultant,RM05,Farhan Qureshi,Lucknow,en,Low,2024-12-26,2026-09-18,2,1,13,True,0.253
+CN0132,Suresh Verma,Insurance advisor,RM06,Arjun Reddy,Hyderabad,en,Medium,2026-03-19,2026-10-31,6,1,18,True,0.775
+CN0133,Pooja Ansari,Real-estate broker,RM01,Rahul Deshmukh,Nashik,hi,Medium,2025-08-25,2026-08-17,4,1,13,True,0.308
+CN0134,Venkat Jain,Insurance advisor,RM02,Priya Iyer,Chennai,ta,Low,2025-01-28,2026-10-21,10,1,12,True,0.71
+CN0135,Pooja Jain,Real-estate broker,RM03,Amit Sharma,Jaipur,hi,Low,2025-07-09,2026-11-02,13,1,19,True,0.976
+CN0136,Srinivas Shinde,Clinic / pharmacy owner,RM04,Sneha Kulkarni,Pune,mr,Low,2026-10-15,2026-10-25,11,2,19,True,0.617
+CN0137,Anita Shinde,CA / tax consultant,RM05,Farhan Qureshi,Lucknow,en,Low,2026-01-07,,3,0,17,True,0.219
+CN0138,Kavita Kumar,Insurance advisor,RM06,Arjun Reddy,Hyderabad,te,Medium,2026-03-19,2026-09-22,1,1,10,True,0.599
+CN0139,Rizwan Mehta,Insurance advisor,RM01,Rahul Deshmukh,Nashik,mr,Medium,2026-01-12,2026-10-27,13,2,17,True,0.819
+CN0140,Sameer Khan,Clinic / pharmacy owner,RM02,Priya Iyer,Chennai,ta,Medium,2025-06-15,2026-09-08,7,0,17,True,0.334
+CN0141,Nandini Reddy,Coaching institute owner,RM03,Amit Sharma,Jaipur,en,Medium,2026-03-22,2026-10-14,2,0,16,False,0.23
+CN0142,Meera Rao,Clinic / pharmacy owner,RM04,Sneha Kulkarni,Pune,mr,High,2025-08-01,2026-10-30,5,3,10,True,0.85
+CN0143,Srinivas Khan,Shop owner / trader,RM05,Farhan Qureshi,Lucknow,en,Low,2026-04-14,2026-10-18,5,1,13,True,0.193
+CN0144,Fatima Mehta,Shop owner / trader,RM06,Arjun Reddy,Hyderabad,te,Medium,2024-12-29,2026-11-02,2,2,11,True,0.139
+CN0145,Deepa Kale,Coaching institute owner,RM01,Rahul Deshmukh,Nashik,hi,Medium,2025-05-06,2026-10-26,4,1,17,True,0.413
+CN0146,Karthik Kumar,Shop owner / trader,RM02,Priya Iyer,Chennai,ta,Low,2025-11-07,2026-10-26,9,4,16,True,0.79
+CN0147,Sameer Shaikh,Shop owner / trader,RM03,Amit Sharma,Jaipur,en,Low,2026-10-02,2026-10-29,1,0,12,True,0.38
+CN0148,Sunita Naidu,Coaching institute owner,RM04,Sneha Kulkarni,Pune,en,High,2025-12-19,2026-10-02,3,1,12,True,0.193
+CN0149,Anita Iyer,Clinic / pharmacy owner,RM05,Farhan Qureshi,Lucknow,hi,Medium,2026-06-14,2026-10-17,5,3,11,True,0.444
+CN0150,Rizwan Joshi,Real-estate broker,RM06,Arjun Reddy,Hyderabad,en,Low,2025-01-07,2026-10-28,3,0,19,True,0.442
+CN0151,Rekha Iyer,Real-estate broker,RM01,Rahul Deshmukh,Nashik,hi,Medium,2025-11-13,2026-10-27,6,3,11,True,0.903
+CN0152,Arvind Khan,Clinic / pharmacy owner,RM02,Priya Iyer,Chennai,ta,Low,2025-07-05,2026-09-25,4,0,19,True,0.376
+CN0153,Sameer Gupta,Coaching institute owner,RM03,Amit Sharma,Jaipur,hi,High,2026-06-03,2026-10-29,2,2,16,False,0.211
+CN0154,Lakshmi Mehta,CA / tax consultant,RM04,Sneha Kulkarni,Pune,mr,Low,2026-03-08,2026-10-12,7,1,12,True,0.409
+CN0155,Srinivas Naidu,Coaching institute owner,RM05,Farhan Qureshi,Lucknow,hi,Low,2026-05-18,2026-11-01,4,2,16,True,0.211
+CN0156,Venkat Ansari,Insurance advisor,RM06,Arjun Reddy,Hyderabad,te,Low,2025-11-28,2026-10-22,7,2,16,True,0.383
+CN0157,Mahesh Reddy,Insurance advisor,RM01,Rahul Deshmukh,Nashik,en,Low,2025-12-16,2026-10-27,3,0,13,True,0.126
+CN0158,Prakash More,Coaching institute owner,RM02,Priya Iyer,Chennai,ta,Low,2025-10-27,2026-09-03,3,0,10,True,0.096
+CN0159,Sachin Shinde,Insurance advisor,RM03,Amit Sharma,Jaipur,hi,Low,2026-01-07,2026-10-02,8,1,12,True,0.57
+CN0160,Nandini Pawar,Real-estate broker,RM04,Sneha Kulkarni,Pune,mr,Low,2026-10-18,,10,3,18,True,0.998
+CN0161,Rohit More,Insurance advisor,RM05,Farhan Qureshi,Lucknow,en,Low,2025-04-11,2026-10-14,4,4,11,True,0.476
+CN0162,Arvind Kumar,Coaching institute owner,RM06,Arjun Reddy,Hyderabad,te,Low,2024-11-18,2026-10-20,2,3,18,False,0.366
+CN0163,Sachin Ansari,Shop owner / trader,RM01,Rahul Deshmukh,Nashik,mr,Medium,2026-05-11,2026-10-31,3,4,16,True,0.575
+CN0164,Kavita Shaikh,CA / tax consultant,RM02,Priya Iyer,Chennai,ta,Low,2026-02-08,2026-09-08,1,0,13,True,0.046
+CN0165,Ganesh Khan,Coaching institute owner,RM03,Amit Sharma,Jaipur,hi,Medium,2026-02-03,2026-10-27,5,1,11,False,0.246
+CN0166,Karthik Gupta,Insurance advisor,RM04,Sneha Kulkarni,Pune,en,High,2026-10-18,2026-10-27,5,2,11,True,0.313
+CN0167,Meera Joshi,Coaching institute owner,RM05,Farhan Qureshi,Lucknow,hi,Low,2026-07-23,2026-10-14,4,1,16,True,0.242
+CN0168,Lakshmi Khan,Car dealer sales executive,RM06,Arjun Reddy,Hyderabad,te,High,2026-02-22,2026-10-26,7,0,17,True,0.762
+CN0169,Lakshmi Iyer,Coaching institute owner,RM01,Rahul Deshmukh,Nashik,mr,Medium,2025-09-14,2026-10-27,4,2,18,True,0.191
+CN0170,Usha Mehta,Shop owner / trader,RM02,Priya Iyer,Chennai,ta,Low,2025-10-21,2026-09-11,3,0,17,True,0.232
+CN0171,Kavita Gupta,Insurance advisor,RM03,Amit Sharma,Jaipur,hi,High,2024-11-16,2026-05-12,1,1,12,True,0.072
+CN0172,Deepa Reddy,Shop owner / trader,RM04,Sneha Kulkarni,Pune,en,Low,2025-10-07,2026-10-23,7,2,19,True,0.474
+CN0173,Fatima Kumar,Real-estate broker,RM05,Farhan Qureshi,Lucknow,hi,Low,2025-12-20,2026-09-28,6,0,16,True,0.526
+CN0174,Arvind Ansari,Shop owner / trader,RM06,Arjun Reddy,Hyderabad,en,Low,2025-04-17,2026-08-13,13,1,10,True,0.823
+CN0175,Vikram Joshi,Car dealer sales executive,RM01,Rahul Deshmukh,Nashik,hi,Low,2026-03-29,2026-09-25,3,2,10,True,0.247
+CN0176,Rekha Iyer,Coaching institute owner,RM02,Priya Iyer,Chennai,ta,High,2026-01-12,2026-10-20,10,1,17,True,0.59
+CN0177,Arvind Mehta,Real-estate broker,RM03,Amit Sharma,Jaipur,hi,High,2025-06-08,2026-10-05,7,3,11,True,0.613
+CN0178,Pooja Reddy,Clinic / pharmacy owner,RM04,Sneha Kulkarni,Pune,mr,Low,2026-02-22,2026-06-30,7,0,18,False,0.131
+CN0179,Fatima Mehta,Clinic / pharmacy owner,RM05,Farhan Qureshi,Lucknow,en,Medium,2025-05-23,2026-10-19,1,0,12,True,0.221
+CN0180,Rekha Verma,Clinic / pharmacy owner,RM06,Arjun Reddy,Hyderabad,te,Medium,2026-09-20,2026-10-26,5,0,17,True,0.142
+CN0181,Kavita More,Shop owner / trader,RM01,Rahul Deshmukh,Nashik,hi,Medium,2025-09-19,2026-06-05,1,1,18,True,0.119
+CN0182,Sameer Jain,CA / tax consultant,RM02,Priya Iyer,Chennai,ta,Low,2026-08-15,2026-09-08,4,1,19,True,0.368
+CN0183,Anita Shaikh,Coaching institute owner,RM03,Amit Sharma,Jaipur,hi,Low,2026-01-03,2026-09-29,4,1,19,True,0.335
+CN0184,Arvind Mehta,Real-estate broker,RM04,Sneha Kulkarni,Pune,en,Medium,2025-07-27,2026-10-27,2,1,13,True,0.253
+CN0185,Kavita Jain,Shop owner / trader,RM05,Farhan Qureshi,Lucknow,hi,Low,2024-12-03,2026-09-25,6,0,16,True,0.515
+CN0186,Venkat Rao,Coaching institute owner,RM06,Arjun Reddy,Hyderabad,te,Medium,2026-07-01,2026-10-19,7,4,12,True,0.385
+CN0187,Deepa Kumar,Shop owner / trader,RM01,Rahul Deshmukh,Nashik,mr,Low,2026-10-30,2026-11-01,2,1,17,True,0.063
+CN0188,Arvind Verma,Car dealer sales executive,RM02,Priya Iyer,Chennai,ta,Medium,2025-04-10,2026-08-09,1,0,11,True,0.331
+CN0189,Sachin Gupta,Insurance advisor,RM03,Amit Sharma,Jaipur,en,Low,2026-01-31,2026-10-28,1,1,17,True,0.251
+CN0190,Anita Shaikh,Shop owner / trader,RM04,Sneha Kulkarni,Pune,mr,Medium,2024-12-25,2026-10-24,8,1,16,True,0.567
+CN0191,Nikhil Kumar,Clinic / pharmacy owner,RM05,Farhan Qureshi,Lucknow,hi,Low,2024-12-03,2026-11-02,3,0,18,True,0.386
+CN0192,Mahesh Naidu,Insurance advisor,RM06,Arjun Reddy,Hyderabad,te,Medium,2026-08-25,2026-09-29,2,2,10,True,0.258
+CN0193,Rizwan Jain,CA / tax consultant,RM01,Rahul Deshmukh,Nashik,hi,High,2026-02-24,2026-10-30,5,1,11,True,0.569
+CN0194,Arvind More,Coaching institute owner,RM02,Priya Iyer,Chennai,en,Low,2026-10-18,2026-11-02,4,2,16,True,0.405
+CN0195,Rekha Gupta,Car dealer sales executive,RM03,Amit Sharma,Jaipur,hi,Medium,2026-06-30,2026-10-25,11,5,18,True,0.723
+CN0196,Arvind Iyer,Shop owner / trader,RM04,Sneha Kulkarni,Pune,en,Low,2026-10-10,2026-10-29,5,4,17,True,0.528
+CN0197,Nandini Jain,CA / tax consultant,RM05,Farhan Qureshi,Lucknow,hi,High,2025-03-22,2026-11-01,11,0,18,False,0.683
+CN0198,Rizwan Shaikh,Shop owner / trader,RM06,Arjun Reddy,Hyderabad,te,High,2026-05-12,2026-10-23,10,3,12,True,0.648
+CN0199,Jyoti Gupta,Insurance advisor,RM01,Rahul Deshmukh,Nashik,mr,Medium,2025-01-18,2026-06-11,3,3,12,True,0.173
+CN0200,Harish Rao,Coaching institute owner,RM02,Priya Iyer,Chennai,en,Medium,2025-11-26,2026-09-15,2,1,12,False,0.075
+CN0201,Rekha Patil,Real-estate broker,RM03,Amit Sharma,Jaipur,en,Low,2026-10-15,,0,1,13,True,0.214
+CN0202,Rohit Mehta,CA / tax consultant,RM04,Sneha Kulkarni,Pune,en,High,2025-04-22,,0,1,12,False,0.055
+CN0203,Usha Verma,Insurance advisor,RM05,Farhan Qureshi,Lucknow,en,Medium,2025-10-21,2026-10-29,1,2,12,True,0.387
+CN0204,Kavita Jain,Insurance advisor,RM06,Arjun Reddy,Hyderabad,en,Low,2025-05-12,2026-10-30,9,1,19,True,0.638
+CN0205,Pooja Shinde,Coaching institute owner,RM01,Rahul Deshmukh,Nashik,mr,Medium,2025-09-04,2026-10-31,10,2,12,True,0.676
+CN0206,Harish Reddy,Coaching institute owner,RM02,Priya Iyer,Chennai,en,Medium,2026-02-24,2026-09-15,4,0,17,True,0.236
+CN0207,Sameer Shinde,Insurance advisor,RM03,Amit Sharma,Jaipur,en,High,2025-08-18,2026-10-25,7,0,19,True,0.181
+CN0208,Nikhil Pawar,Car dealer sales executive,RM04,Sneha Kulkarni,Pune,mr,High,2024-11-16,2026-10-28,12,3,13,True,0.862
+CN0209,Ganesh Reddy,Insurance advisor,RM05,Farhan Qureshi,Lucknow,hi,Low,2025-05-28,2026-08-27,8,1,17,True,0.377
+CN0210,Fatima Mehta,CA / tax consultant,RM06,Arjun Reddy,Hyderabad,en,Low,2025-07-07,2026-09-12,1,0,10,True,0.069
+CN0211,Arvind Kale,Real-estate broker,RM01,Rahul Deshmukh,Nashik,mr,Medium,2026-02-23,2026-11-01,4,1,19,True,0.554
+CN0212,Sachin Reddy,Car dealer sales executive,RM02,Priya Iyer,Chennai,en,Medium,2026-10-01,2026-10-31,11,3,10,True,0.748
+CN0213,Manoj Shaikh,CA / tax consultant,RM03,Amit Sharma,Jaipur,en,Medium,2024-12-15,2026-11-01,9,2,10,True,0.681
+CN0214,Srinivas Rao,Car dealer sales executive,RM04,Sneha Kulkarni,Pune,mr,Medium,2026-04-30,2026-10-29,4,2,13,True,0.633
+CN0215,Suresh Khan,CA / tax consultant,RM05,Farhan Qureshi,Lucknow,hi,Medium,2026-04-11,2026-09-01,1,0,12,True,0.23
+CN0216,Sunita Khan,Clinic / pharmacy owner,RM06,Arjun Reddy,Hyderabad,te,Medium,2025-10-07,2026-10-28,4,2,17,True,0.514
+CN0217,Karthik Gupta,Insurance advisor,RM01,Rahul Deshmukh,Nashik,en,Medium,2025-07-06,2026-09-10,1,1,18,True,0.385
+CN0218,Sameer Reddy,Insurance advisor,RM02,Priya Iyer,Chennai,ta,Low,2025-05-21,2026-10-31,2,3,10,True,0.332
+CN0219,Meera Iyer,Real-estate broker,RM03,Amit Sharma,Jaipur,en,High,2025-04-18,2026-08-28,0,3,13,True,0.175
+CN0220,Mahesh Reddy,CA / tax consultant,RM04,Sneha Kulkarni,Pune,mr,Medium,2025-07-03,2026-10-29,9,3,11,True,0.637
+CN0221,Rohit Naidu,CA / tax consultant,RM05,Farhan Qureshi,Lucknow,en,Low,2025-05-22,2026-10-20,6,2,10,True,0.566
+CN0222,Harish Joshi,Insurance advisor,RM06,Arjun Reddy,Hyderabad,te,High,2026-03-12,2026-11-02,16,4,13,True,0.961
+CN0223,Vikram Khan,Shop owner / trader,RM01,Rahul Deshmukh,Nashik,hi,High,2026-06-11,2026-10-17,3,5,13,True,0.361
+CN0224,Rekha Gupta,Real-estate broker,RM02,Priya Iyer,Chennai,ta,Low,2025-03-23,2026-11-02,2,1,13,True,0.316
+CN0225,Srinivas Joshi,CA / tax consultant,RM03,Amit Sharma,Jaipur,hi,Medium,2025-03-31,2026-09-08,2,1,12,True,0.147
+CN0226,Mahesh Mehta,Clinic / pharmacy owner,RM04,Sneha Kulkarni,Pune,mr,Medium,2025-07-12,2026-10-19,7,1,16,True,0.354
+CN0227,Sunita Ansari,Clinic / pharmacy owner,RM05,Farhan Qureshi,Lucknow,en,Low,2026-09-05,2026-10-12,3,0,19,False,0.149
+CN0228,Pooja Kumar,Clinic / pharmacy owner,RM06,Arjun Reddy,Hyderabad,te,Low,2025-09-26,2026-10-09,7,1,19,False,0.567
+CN0229,Srinivas Shaikh,Clinic / pharmacy owner,RM01,Rahul Deshmukh,Nashik,en,High,2025-10-28,2026-09-22,5,1,10,True,0.254
+CN0230,Deepa Naidu,Real-estate broker,RM02,Priya Iyer,Chennai,en,Medium,2026-10-02,2026-10-19,5,2,11,True,0.412
+CN0231,Nandini Kumar,Coaching institute owner,RM03,Amit Sharma,Jaipur,hi,High,2026-09-11,2026-10-16,3,2,10,True,0.195
+CN0232,Deepa Kale,Real-estate broker,RM04,Sneha Kulkarni,Pune,en,Low,2025-10-23,2026-10-26,5,2,11,True,0.691
+CN0233,Sachin More,Real-estate broker,RM05,Farhan Qureshi,Lucknow,hi,High,2025-09-08,2026-06-01,1,2,11,True,0.143
+CN0234,Anita Ansari,Coaching institute owner,RM06,Arjun Reddy,Hyderabad,en,Medium,2026-08-09,2026-08-14,6,0,11,True,0.79
+CN0235,Vikram More,Coaching institute owner,RM01,Rahul Deshmukh,Nashik,mr,Low,2026-09-29,2026-10-31,8,2,17,True,0.465
+CN0236,Usha Kumar,Insurance advisor,RM02,Priya Iyer,Chennai,ta,Low,2026-04-05,2026-10-11,10,2,19,False,0.685
+CN0237,Lakshmi Reddy,Clinic / pharmacy owner,RM03,Amit Sharma,Jaipur,en,High,2026-10-09,2026-10-22,12,3,18,True,0.818
+CN0238,Venkat Jain,Real-estate broker,RM04,Sneha Kulkarni,Pune,en,Low,2026-08-18,2026-09-21,4,2,13,True,0.149
+CN0239,Rizwan Reddy,CA / tax consultant,RM05,Farhan Qureshi,Lucknow,en,Medium,2024-11-13,2026-10-22,4,0,13,True,0.198
+CN0240,Lakshmi Patil,Coaching institute owner,RM06,Arjun Reddy,Hyderabad,te,Medium,2025-05-11,2026-10-10,12,2,11,True,0.867

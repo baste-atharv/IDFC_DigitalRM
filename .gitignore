@@ -1,0 +1,12 @@
+# local Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+# never commit keys
+.saathi_keys.env
+.streamlit/secrets.toml
+.env
+# runtime output
+logs/
+audio_cache/
+data/raft_dataset.jsonl

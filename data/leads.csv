@@ -1,0 +1,2126 @@
+lead_id,connector_id,product,customer,amount,submitted,stage,pending_item,days_in_stage
+LD00001,CN0001,Professional Loan,Rohit J.,1530000,2026-07-31,Disbursed,,4
+LD00002,CN0001,Professional Loan,Mahesh R.,2450000,2026-07-24,Disbursed,,8
+LD00003,CN0001,Business Loan,Shabana R.,640000,2026-08-09,Disbursed,,11
+LD00004,CN0001,Professional Loan,Rohit P.,2770000,2026-04-25,Rejected,,9
+LD00005,CN0001,Professional Loan,Kavita I.,2370000,2026-10-31,Documents pending,Last 3 months bank statement,11
+LD00006,CN0001,Personal Loan,Rohit V.,330000,2026-09-17,Disbursed,,6
+LD00007,CN0001,Personal Loan,Nikhil P.,970000,2026-08-24,Disbursed,,2
+LD00008,CN0001,Personal Loan,Nandini J.,900000,2026-09-01,Disbursed,,6
+LD00009,CN0001,Professional Loan,Suresh V.,2180000,2026-06-12,Sanctioned,,10
+LD00010,CN0001,Professional Loan,Shabana V.,2800000,2026-04-14,Disbursed,,5
+LD00011,CN0001,Professional Loan,Kavita P.,2250000,2026-04-01,Rejected,,6
+LD00012,CN0001,Personal Loan,Nandini J.,1090000,2026-03-15,Disbursed,,5
+LD00013,CN0001,Business Loan,Rizwan P.,2700000,2026-08-28,Disbursed,,1
+LD00014,CN0001,Professional Loan,Rizwan V.,600000,2026-03-11,Disbursed,,10
+LD00015,CN0001,Personal Loan,Nikhil I.,1080000,2026-03-27,Disbursed,,1
+LD00016,CN0001,Professional Loan,Rizwan I.,1030000,2026-06-11,Rejected,,1
+LD00017,CN0001,Professional Loan,Jyoti P.,2170000,2026-06-24,Disbursed,,6
+LD00018,CN0001,Professional Loan,Shabana M.,1720000,2026-04-21,Disbursed,,7
+LD00019,CN0001,Professional Loan,Jyoti K.,2050000,2026-06-15,Rejected,,11
+LD00020,CN0001,Professional Loan,Kavita I.,2850000,2026-09-26,Sanctioned,,5
+LD00021,CN0001,Business Loan,Anita I.,2230000,2026-08-10,Rejected,,11
+LD00022,CN0002,Used Car Loan,Vikram P.,310000,2026-09-10,Rejected,,6
+LD00023,CN0002,Two-Wheeler Loan,Kavita M.,100000,2026-07-08,Disbursed,,4
+LD00024,CN0002,Used Car Loan,Sunita J.,420000,2026-04-06,Disbursed,,1
+LD00025,CN0002,Personal Loan,Suresh K.,1150000,2026-03-15,Rejected,,1
+LD00026,CN0002,Two-Wheeler Loan,Sunita K.,130000,2026-08-08,Disbursed,,4
+LD00027,CN0002,Two-Wheeler Loan,Sachin I.,160000,2026-05-20,Disbursed,,4
+LD00028,CN0002,Two-Wheeler Loan,Nikhil R.,180000,2026-08-04,Disbursed,,11
+LD00029,CN0002,Used Car Loan,Sameer K.,320000,2026-08-17,Disbursed,,11
+LD00030,CN0002,Used Car Loan,Jyoti S.,620000,2026-09-08,Disbursed,,7
+LD00031,CN0003,Loan Against Property,Prakash J.,5970000,2026-06-23,Disbursed,,3
+LD00032,CN0003,Home Loan,Deepa K.,6560000,2026-05-20,Disbursed,,0
+LD00033,CN0003,Loan Against Property,Srinivas S.,7910000,2026-10-30,Submitted,,4
+LD00034,CN0003,Home Loan,Usha K.,4970000,2026-11-01,Documents pending,Last 3 months bank statement,7
+LD00035,CN0003,Loan Against Property,Nandini A.,3230000,2026-07-30,Disbursed,,11
+LD00036,CN0003,Home Loan,Usha S.,8020000,2026-09-19,Disbursed,,6
+LD00037,CN0003,Home Loan,Pooja K.,8960000,2026-03-22,Disbursed,,1
+LD00038,CN0003,Home Loan,Pooja R.,2340000,2026-08-21,Sanctioned,,9
+LD00039,CN0003,Home Loan,Ganesh S.,8560000,2026-03-23,Disbursed,,9
+LD00040,CN0003,Home Loan,Suresh M.,3810000,2026-05-12,Disbursed,,2
+LD00041,CN0003,Home Loan,Harish R.,7390000,2026-05-21,Disbursed,,6
+LD00042,CN0003,Personal Loan,Prakash J.,230000,2026-09-27,Disbursed,,0
+LD00043,CN0003,Home Loan,Vikram P.,5340000,2026-09-04,Rejected,,2
+LD00044,CN0003,Loan Against Property,Arvind K.,5750000,2026-04-10,Disbursed,,7
+LD00045,CN0003,Home Loan,Prakash V.,2500000,2026-07-19,Rejected,,3
+LD00046,CN0004,Personal Loan,Anita P.,1030000,2026-10-06,Disbursed,,6
+LD00047,CN0004,Loan Against Property,Arvind K.,2460000,2026-10-29,Sanctioned,,8
+LD00048,CN0004,Personal Loan,Suresh M.,370000,2026-09-18,Documents pending,Last 3 months bank statement,3
+LD00049,CN0004,Home Loan,Jyoti A.,3350000,2026-10-17,Disbursed,,3
+LD00050,CN0004,Loan Against Property,Harish K.,3690000,2026-10-08,Sanctioned,,7
+LD00051,CN0005,Personal Loan,Nandini S.,840000,2026-07-12,Rejected,,1
+LD00052,CN0005,Personal Loan,Sachin M.,1100000,2026-09-20,Documents pending,Last 3 months bank statement,3
+LD00053,CN0005,Education Loan,Sunita I.,380000,2026-04-09,Disbursed,,11
+LD00054,CN0005,Personal Loan,Karthik R.,810000,2026-07-23,Sanctioned,,1
+LD00055,CN0005,Education Loan,Anita P.,1660000,2026-05-16,Disbursed,,2
+LD00056,CN0005,Education Loan,Anita R.,2240000,2026-07-11,Rejected,,3
+LD00057,CN0007,Business Loan,Venkat M.,830000,2026-10-22,Rejected,,8
+LD00058,CN0007,Business Loan,Pooja M.,1830000,2026-09-02,Disbursed,,0
+LD00059,CN0007,Personal Loan,Rekha S.,990000,2026-08-27,Disbursed,,5
+LD00060,CN0007,Business Loan,Imran P.,1970000,2026-09-30,Disbursed,,10
+LD00061,CN0007,Credit Card,Usha G.,0,2026-07-24,Rejected,,2
+LD00062,CN0008,Education Loan,Fatima M.,2180000,2026-10-20,Documents pending,Last 3 months bank statement,0
+LD00063,CN0008,Education Loan,Prakash S.,790000,2026-05-29,Disbursed,,9
+LD00064,CN0008,Education Loan,Imran P.,2130000,2026-04-07,Rejected,,0
+LD00065,CN0008,Personal Loan,Arvind S.,1020000,2026-10-20,Rejected,,0
+LD00066,CN0008,Education Loan,Pooja K.,1790000,2026-08-22,Rejected,,5
+LD00067,CN0008,Education Loan,Pooja V.,2480000,2026-05-10,Disbursed,,8
+LD00068,CN0008,Personal Loan,Ganesh J.,930000,2026-05-22,Disbursed,,4
+LD00069,CN0008,Personal Loan,Pooja G.,320000,2026-08-03,Disbursed,,4
+LD00070,CN0008,Education Loan,Srinivas S.,1510000,2026-09-13,Disbursed,,9
+LD00071,CN0008,Education Loan,Nandini A.,1310000,2026-08-26,Disbursed,,1
+LD00072,CN0009,Used Car Loan,Shabana R.,660000,2026-08-06,Disbursed,,0
+LD00073,CN0009,Personal Loan,Usha A.,390000,2026-09-25,Rejected,,8
+LD00074,CN0009,Used Car Loan,Lakshmi J.,1080000,2026-08-09,Disbursed,,4
+LD00075,CN0009,Two-Wheeler Loan,Nikhil K.,90000,2026-06-12,Disbursed,,11
+LD00076,CN0009,Two-Wheeler Loan,Sachin A.,180000,2026-05-06,Rejected,,4
+LD00077,CN0009,Used Car Loan,Sachin K.,690000,2026-04-22,Disbursed,,7
+LD00078,CN0009,Used Car Loan,Nandini M.,620000,2026-06-17,Disbursed,,9
+LD00079,CN0009,Used Car Loan,Pooja J.,1130000,2026-03-15,Rejected,,5
+LD00080,CN0009,Used Car Loan,Mahesh I.,910000,2026-07-21,Disbursed,,3
+LD00081,CN0009,Used Car Loan,Lakshmi J.,1080000,2026-08-04,Sanctioned,,4
+LD00082,CN0009,Used Car Loan,Arvind K.,610000,2026-05-28,Rejected,,1
+LD00083,CN0009,Used Car Loan,Rohit R.,350000,2026-06-25,Rejected,,5
+LD00084,CN0009,Personal Loan,Ganesh G.,1120000,2026-09-17,Disbursed,,8
+LD00085,CN0009,Two-Wheeler Loan,Nikhil R.,60000,2026-03-26,Disbursed,,5
+LD00086,CN0009,Two-Wheeler Loan,Rekha R.,160000,2026-03-18,Rejected,,4
+LD00087,CN0009,Used Car Loan,Suresh K.,340000,2026-07-26,Disbursed,,4
+LD00088,CN0010,Education Loan,Rekha J.,1380000,2026-07-17,Disbursed,,7
+LD00089,CN0010,Personal Loan,Srinivas S.,490000,2026-06-22,Rejected,,5
+LD00090,CN0010,Personal Loan,Mahesh R.,880000,2026-06-16,Rejected,,7
+LD00091,CN0010,Credit Card,Usha M.,0,2026-06-11,Rejected,,3
+LD00092,CN0010,Personal Loan,Karthik A.,870000,2026-06-15,Rejected,,3
+LD00093,CN0010,Personal Loan,Ganesh R.,860000,2026-09-25,Sanctioned,,6
+LD00094,CN0010,Credit Card,Sameer A.,0,2026-03-16,Rejected,,3
+LD00095,CN0010,Education Loan,Shabana N.,2200000,2026-05-23,Disbursed,,10
+LD00096,CN0010,Home Loan,Rekha J.,2220000,2026-10-28,Documents pending,Last 3 months bank statement,3
+LD00097,CN0010,Credit Card,Rekha P.,0,2026-08-26,Disbursed,,3
+LD00098,CN0010,Credit Card,Sachin K.,0,2026-08-31,Rejected,,8
+LD00099,CN0011,Education Loan,Vikram S.,800000,2026-08-14,Disbursed,,3
+LD00100,CN0011,Personal Loan,Usha P.,660000,2026-06-27,Disbursed,,1
+LD00101,CN0011,Credit Card,Usha R.,0,2026-03-24,Disbursed,,5
+LD00102,CN0011,Education Loan,Nikhil J.,1830000,2026-08-24,Rejected,,8
+LD00103,CN0011,Credit Card,Anita P.,0,2026-04-25,Disbursed,,11
+LD00104,CN0011,Credit Card,Sunita K.,0,2026-08-19,Sanctioned,,10
+LD00105,CN0011,Credit Card,Karthik K.,0,2026-10-28,Documents pending,Last 3 months bank statement,4
+LD00106,CN0011,Credit Card,Pooja J.,0,2026-08-28,Disbursed,,5
+LD00107,CN0011,Home Loan,Sunita K.,5440000,2026-08-18,Disbursed,,1
+LD00108,CN0011,Home Loan,Karthik R.,6870000,2026-06-08,Disbursed,,10
+LD00109,CN0011,Personal Loan,Anita P.,210000,2026-08-23,Disbursed,,5
+LD00110,CN0011,Education Loan,Suresh N.,1830000,2026-05-23,Rejected,,4
+LD00111,CN0011,Personal Loan,Rohit R.,220000,2026-09-15,Disbursed,,0
+LD00112,CN0011,Credit Card,Suresh P.,0,2026-10-03,Disbursed,,9
+LD00113,CN0011,Credit Card,Rizwan K.,0,2026-09-14,Rejected,,3
+LD00114,CN0011,Personal Loan,Lakshmi G.,200000,2026-09-02,Rejected,,10
+LD00115,CN0011,Personal Loan,Prakash K.,760000,2026-06-24,Disbursed,,5
+LD00116,CN0011,Personal Loan,Imran R.,200000,2026-05-08,Disbursed,,7
+LD00117,CN0011,Credit Card,Pooja K.,0,2026-08-08,Disbursed,,1
+LD00118,CN0011,Education Loan,Rekha I.,430000,2026-04-06,Rejected,,6
+LD00119,CN0012,Business Loan,Anita P.,2350000,2026-10-04,Login,,10
+LD00120,CN0013,Personal Loan,Manoj V.,340000,2026-04-16,Disbursed,,8
+LD00121,CN0013,Business Loan,Shabana R.,2050000,2026-08-21,Disbursed,,2
+LD00122,CN0013,Two-Wheeler Loan,Vikram S.,150000,2026-03-16,Disbursed,,4
+LD00123,CN0013,Business Loan,Kavita I.,3060000,2026-03-09,Sanctioned,,11
+LD00124,CN0013,Business Loan,Arvind R.,2810000,2026-06-23,Disbursed,,8
+LD00125,CN0013,Two-Wheeler Loan,Lakshmi P.,120000,2026-10-05,Disbursed,,0
+LD00126,CN0013,Two-Wheeler Loan,Deepa K.,160000,2026-07-17,Rejected,,8
+LD00127,CN0013,Personal Loan,Harish J.,240000,2026-04-17,Disbursed,,9
+LD00128,CN0013,Business Loan,Sameer S.,2080000,2026-05-21,Disbursed,,4
+LD00129,CN0013,Business Loan,Mahesh S.,680000,2026-08-30,Disbursed,,3
+LD00130,CN0013,Two-Wheeler Loan,Sunita P.,130000,2026-09-09,Rejected,,2
+LD00131,CN0013,Credit Card,Fatima M.,0,2026-05-01,Disbursed,,8
+LD00132,CN0014,Personal Loan,Shabana J.,700000,2026-10-17,Sanctioned,,1
+LD00133,CN0014,Two-Wheeler Loan,Mahesh K.,70000,2026-05-28,Disbursed,,9
+LD00134,CN0014,Personal Loan,Sachin K.,1160000,2026-09-02,Disbursed,,6
+LD00135,CN0014,Two-Wheeler Loan,Ganesh I.,180000,2026-08-08,Disbursed,,11
+LD00136,CN0014,Used Car Loan,Prakash J.,680000,2026-06-13,Disbursed,,7
+LD00137,CN0014,Two-Wheeler Loan,Manoj J.,190000,2026-04-17,Disbursed,,5
+LD00138,CN0014,Personal Loan,Nandini K.,560000,2026-06-23,Disbursed,,10
+LD00139,CN0014,Used Car Loan,Rizwan J.,790000,2026-04-13,Disbursed,,2
+LD00140,CN0015,Loan Against Property,Sachin V.,3220000,2026-06-09,Disbursed,,9
+LD00141,CN0015,Loan Against Property,Kavita A.,7940000,2026-09-05,Disbursed,,11
+LD00142,CN0016,Business Loan,Sachin M.,1050000,2026-10-17,Login,,6
+LD00143,CN0016,Personal Loan,Imran K.,1150000,2026-10-12,Sanctioned,,6
+LD00144,CN0016,Business Loan,Suresh G.,1280000,2026-10-17,Disbursed,,3
+LD00145,CN0016,Business Loan,Manoj R.,3190000,2026-06-29,Disbursed,,3
+LD00146,CN0016,Loan Against Property,Vikram M.,2700000,2026-09-21,Login,,11
+LD00147,CN0016,Business Loan,Arvind J.,1460000,2026-06-27,Rejected,,1
+LD00148,CN0016,Business Loan,Prakash K.,1110000,2026-06-30,Sanctioned,,5
+LD00149,CN0016,Business Loan,Imran P.,2000000,2026-08-11,Disbursed,,2
+LD00150,CN0016,Loan Against Property,Venkat R.,5260000,2026-09-27,Disbursed,,10
+LD00151,CN0016,Business Loan,Pooja R.,1190000,2026-07-23,Rejected,,2
+LD00152,CN0016,Personal Loan,Suresh M.,870000,2026-10-22,Documents pending,Last 3 months bank statement,4
+LD00153,CN0016,Business Loan,Manoj A.,2600000,2026-10-29,Documents pending,Last 3 months bank statement,7
+LD00154,CN0016,Professional Loan,Rekha I.,1850000,2026-10-27,Disbursed,,7
+LD00155,CN0017,Personal Loan,Usha J.,880000,2026-07-13,Sanctioned,,6
+LD00156,CN0017,Education Loan,Anita K.,740000,2026-08-24,Disbursed,,4
+LD00157,CN0017,Personal Loan,Nikhil K.,250000,2026-07-14,Rejected,,11
+LD00158,CN0017,Personal Loan,Karthik G.,350000,2026-03-16,Disbursed,,11
+LD00159,CN0018,Loan Against Property,Rekha R.,2890000,2026-10-19,Login,,5
+LD00160,CN0018,Home Loan,Rekha K.,8840000,2026-10-14,Rejected,,1
+LD00161,CN0018,Personal Loan,Nandini M.,960000,2026-10-29,Submitted,,9
+LD00162,CN0019,Professional Loan,Suresh M.,2020000,2026-08-20,Disbursed,,2
+LD00163,CN0019,Professional Loan,Nikhil M.,620000,2026-05-24,Disbursed,,11
+LD00164,CN0019,Business Loan,Kavita P.,1550000,2026-04-02,Disbursed,,8
+LD00165,CN0019,Professional Loan,Manoj R.,2580000,2026-10-19,Documents pending,Last 3 months bank statement,11
+LD00166,CN0020,Personal Loan,Imran G.,740000,2026-05-06,Rejected,,2
+LD00167,CN0020,Used Car Loan,Suresh P.,850000,2026-05-22,Disbursed,,10
+LD00168,CN0020,Used Car Loan,Arvind K.,570000,2026-06-07,Sanctioned,,9
+LD00169,CN0020,Used Car Loan,Manoj J.,950000,2026-06-21,Disbursed,,6
+LD00170,CN0020,Used Car Loan,Rizwan S.,770000,2026-07-06,Disbursed,,4
+LD00171,CN0020,Used Car Loan,Suresh M.,920000,2026-06-06,Disbursed,,10
+LD00172,CN0020,Used Car Loan,Kavita R.,520000,2026-08-17,Rejected,,0
+LD00173,CN0020,Used Car Loan,Harish V.,930000,2026-06-09,Disbursed,,5
+LD00174,CN0020,Two-Wheeler Loan,Imran I.,170000,2026-04-20,Disbursed,,5
+LD00175,CN0020,Two-Wheeler Loan,Rohit N.,130000,2026-04-20,Disbursed,,6
+LD00176,CN0020,Two-Wheeler Loan,Sachin K.,130000,2026-04-24,Sanctioned,,7
+LD00177,CN0020,Two-Wheeler Loan,Venkat J.,70000,2026-05-25,Disbursed,,2
+LD00178,CN0020,Used Car Loan,Rekha R.,1120000,2026-08-16,Disbursed,,4
+LD00179,CN0020,Used Car Loan,Rohit P.,1100000,2026-08-12,Disbursed,,11
+LD00180,CN0020,Used Car Loan,Usha S.,1180000,2026-05-24,Rejected,,0
+LD00181,CN0020,Used Car Loan,Shabana P.,990000,2026-09-03,Rejected,,2
+LD00182,CN0021,Personal Loan,Fatima V.,510000,2026-06-16,Rejected,,5
+LD00183,CN0021,Professional Loan,Nikhil S.,2140000,2026-03-09,Rejected,,1
+LD00184,CN0021,Professional Loan,Srinivas R.,2920000,2026-09-26,Login,,6
+LD00185,CN0021,Business Loan,Prakash K.,920000,2026-10-16,Disbursed,,7
+LD00186,CN0021,Professional Loan,Meera V.,1880000,2026-05-25,Disbursed,,2
+LD00187,CN0022,Personal Loan,Rekha S.,280000,2026-07-31,Disbursed,,10
+LD00188,CN0022,Education Loan,Fatima P.,1020000,2026-07-14,Disbursed,,9
+LD00189,CN0022,Credit Card,Nandini M.,0,2026-09-25,Rejected,,8
+LD00190,CN0022,Education Loan,Jyoti J.,2120000,2026-08-12,Rejected,,1
+LD00191,CN0022,Education Loan,Suresh K.,370000,2026-04-23,Disbursed,,8
+LD00192,CN0022,Education Loan,Ganesh P.,1300000,2026-08-21,Disbursed,,6
+LD00193,CN0022,Personal Loan,Sunita J.,730000,2026-08-15,Disbursed,,9
+LD00194,CN0022,Home Loan,Fatima I.,5540000,2026-06-05,Rejected,,3
+LD00195,CN0022,Credit Card,Deepa V.,0,2026-07-20,Disbursed,,5
+LD00196,CN0022,Personal Loan,Ganesh R.,1170000,2026-06-16,Rejected,,0
+LD00197,CN0022,Credit Card,Pooja P.,0,2026-08-27,Disbursed,,4
+LD00198,CN0022,Home Loan,Usha K.,7650000,2026-06-17,Rejected,,10
+LD00199,CN0022,Personal Loan,Prakash S.,490000,2026-06-26,Disbursed,,3
+LD00200,CN0022,Credit Card,Vikram S.,0,2026-05-15,Disbursed,,2
+LD00201,CN0023,Personal Loan,Shabana A.,900000,2026-06-05,Rejected,,2
+LD00202,CN0023,Education Loan,Usha J.,1540000,2026-10-01,Rejected,,8
+LD00203,CN0023,Personal Loan,Venkat N.,640000,2026-10-27,Submitted,,6
+LD00204,CN0023,Education Loan,Fatima S.,1210000,2026-06-14,Rejected,,10
+LD00205,CN0023,Education Loan,Rizwan V.,1530000,2026-09-01,Disbursed,,0
+LD00206,CN0023,Personal Loan,Arvind S.,870000,2026-07-19,Disbursed,,1
+LD00207,CN0023,Personal Loan,Nikhil G.,360000,2026-06-12,Rejected,,4
+LD00208,CN0023,Personal Loan,Fatima G.,690000,2026-06-09,Rejected,,9
+LD00209,CN0023,Education Loan,Suresh J.,2120000,2026-06-12,Disbursed,,8
+LD00210,CN0023,Education Loan,Sunita M.,2120000,2026-04-23,Disbursed,,5
+LD00211,CN0023,Personal Loan,Nandini G.,440000,2026-05-28,Sanctioned,,6
+LD00212,CN0023,Education Loan,Usha A.,2050000,2026-06-15,Disbursed,,2
+LD00213,CN0023,Personal Loan,Rohit K.,990000,2026-10-28,Submitted,,2
+LD00214,CN0024,Home Loan,Mahesh G.,2420000,2026-08-11,Disbursed,,4
+LD00215,CN0024,Education Loan,Deepa J.,1840000,2026-07-06,Rejected,,11
+LD00216,CN0024,Education Loan,Sunita N.,1510000,2026-06-25,Disbursed,,10
+LD00217,CN0024,Personal Loan,Manoj I.,380000,2026-10-24,Sanctioned,,0
+LD00218,CN0024,Home Loan,Suresh R.,8370000,2026-10-26,Login,,9
+LD00219,CN0024,Education Loan,Meera R.,2170000,2026-06-15,Disbursed,,7
+LD00220,CN0024,Education Loan,Imran G.,2190000,2026-03-31,Rejected,,6
+LD00221,CN0024,Credit Card,Ganesh P.,0,2026-09-20,Disbursed,,4
+LD00222,CN0024,Education Loan,Anita N.,1930000,2026-03-22,Rejected,,9
+LD00223,CN0024,Personal Loan,Karthik R.,870000,2026-06-04,Disbursed,,5
+LD00224,CN0024,Personal Loan,Suresh J.,210000,2026-09-20,Rejected,,4
+LD00225,CN0024,Credit Card,Sunita J.,0,2026-09-19,Sanctioned,,6
+LD00226,CN0024,Education Loan,Manoj J.,1300000,2026-06-02,Disbursed,,11
+LD00227,CN0024,Personal Loan,Usha S.,280000,2026-05-17,Disbursed,,4
+LD00228,CN0024,Personal Loan,Manoj P.,360000,2026-04-08,Disbursed,,6
+LD00229,CN0024,Credit Card,Venkat A.,0,2026-03-31,Rejected,,4
+LD00230,CN0024,Credit Card,Lakshmi R.,0,2026-09-01,Disbursed,,8
+LD00231,CN0024,Personal Loan,Anita A.,610000,2026-04-20,Rejected,,9
+LD00232,CN0024,Credit Card,Sachin A.,0,2026-03-29,Rejected,,0
+LD00233,CN0024,Personal Loan,Sunita V.,740000,2026-10-22,Submitted,,2
+LD00234,CN0025,Credit Card,Nandini M.,0,2026-09-01,Disbursed,,1
+LD00235,CN0025,Credit Card,Vikram I.,0,2026-06-13,Disbursed,,7
+LD00236,CN0025,Credit Card,Venkat P.,0,2026-08-14,Sanctioned,,6
+LD00237,CN0025,Credit Card,Srinivas S.,0,2026-10-15,Rejected,,10
+LD00238,CN0025,Credit Card,Manoj V.,0,2026-05-26,Disbursed,,9
+LD00239,CN0025,Personal Loan,Pooja V.,830000,2026-06-28,Disbursed,,5
+LD00240,CN0026,Two-Wheeler Loan,Usha I.,200000,2026-06-14,Disbursed,,3
+LD00241,CN0026,Business Loan,Srinivas S.,3820000,2026-09-07,Disbursed,,3
+LD00242,CN0026,Two-Wheeler Loan,Prakash P.,170000,2026-07-27,Sanctioned,,10
+LD00243,CN0026,Personal Loan,Jyoti I.,490000,2026-03-24,Rejected,,9
+LD00244,CN0026,Two-Wheeler Loan,Anita I.,120000,2026-04-10,Rejected,,2
+LD00245,CN0026,Business Loan,Mahesh M.,2470000,2026-03-23,Disbursed,,8
+LD00246,CN0026,Personal Loan,Sachin A.,810000,2026-10-02,Login,,2
+LD00247,CN0027,Business Loan,Nikhil K.,3190000,2026-03-23,Rejected,,6
+LD00248,CN0027,Personal Loan,Sameer M.,860000,2026-03-11,Disbursed,,10
+LD00249,CN0027,Business Loan,Suresh M.,2240000,2026-06-28,Disbursed,,5
+LD00250,CN0027,Personal Loan,Vikram J.,590000,2026-06-07,Disbursed,,3
+LD00251,CN0027,Business Loan,Meera K.,500000,2026-03-27,Sanctioned,,0
+LD00252,CN0028,Personal Loan,Usha K.,270000,2026-07-01,Disbursed,,9
+LD00253,CN0028,Education Loan,Nikhil A.,320000,2026-08-03,Rejected,,0
+LD00254,CN0028,Education Loan,Harish P.,640000,2026-09-12,Disbursed,,7
+LD00255,CN0028,Education Loan,Venkat P.,2320000,2026-07-02,Disbursed,,5
+LD00256,CN0028,Education Loan,Srinivas A.,1000000,2026-10-09,Disbursed,,2
+LD00257,CN0028,Education Loan,Rizwan V.,1910000,2026-08-18,Disbursed,,6
+LD00258,CN0028,Personal Loan,Usha M.,300000,2026-05-13,Rejected,,2
+LD00259,CN0028,Education Loan,Mahesh A.,320000,2026-10-24,Submitted,,1
+LD00260,CN0028,Personal Loan,Kavita G.,890000,2026-06-15,Sanctioned,,2
+LD00261,CN0028,Personal Loan,Suresh J.,280000,2026-08-12,Rejected,,10
+LD00262,CN0028,Education Loan,Suresh K.,1810000,2026-03-16,Rejected,,6
+LD00263,CN0028,Personal Loan,Suresh S.,1130000,2026-10-26,Submitted,,5
+LD00264,CN0028,Education Loan,Fatima P.,2480000,2026-05-12,Disbursed,,10
+LD00265,CN0028,Personal Loan,Fatima K.,1100000,2026-06-28,Disbursed,,10
+LD00266,CN0028,Education Loan,Srinivas K.,1430000,2026-04-04,Disbursed,,10
+LD00267,CN0028,Personal Loan,Lakshmi M.,520000,2026-04-14,Rejected,,11
+LD00268,CN0028,Personal Loan,Nandini S.,1050000,2026-10-15,Disbursed,,5
+LD00269,CN0029,Professional Loan,Sunita G.,2740000,2026-10-26,Submitted,,6
+LD00270,CN0029,Professional Loan,Usha P.,2910000,2026-10-09,Login,,3
+LD00271,CN0029,Business Loan,Nandini M.,2730000,2026-11-02,Submitted,,7
+LD00272,CN0029,Business Loan,Prakash J.,2060000,2026-10-19,Submitted,,7
+LD00273,CN0030,Personal Loan,Pooja P.,390000,2026-07-06,Sanctioned,,10
+LD00274,CN0030,Personal Loan,Fatima V.,230000,2026-07-06,Rejected,,10
+LD00275,CN0030,Professional Loan,Sunita K.,710000,2026-07-20,Disbursed,,0
+LD00276,CN0030,Business Loan,Jyoti G.,2630000,2026-06-27,Sanctioned,,4
+LD00277,CN0030,Professional Loan,Sunita I.,2430000,2026-06-19,Disbursed,,2
+LD00278,CN0030,Business Loan,Nandini I.,3830000,2026-09-08,Disbursed,,7
+LD00279,CN0031,Business Loan,Suresh V.,1900000,2026-05-23,Disbursed,,1
+LD00280,CN0031,Professional Loan,Venkat M.,720000,2026-05-22,Rejected,,8
+LD00281,CN0031,Professional Loan,Shabana K.,570000,2026-06-07,Rejected,,10
+LD00282,CN0031,Professional Loan,Suresh V.,1530000,2026-04-14,Disbursed,,0
+LD00283,CN0031,Professional Loan,Imran S.,770000,2026-09-29,Sanctioned,,6
+LD00284,CN0031,Personal Loan,Shabana R.,520000,2026-09-06,Disbursed,,10
+LD00285,CN0031,Business Loan,Pooja M.,2720000,2026-09-28,Sanctioned,,5
+LD00286,CN0031,Professional Loan,Shabana R.,1280000,2026-07-28,Sanctioned,,0
+LD00287,CN0031,Personal Loan,Ganesh K.,1040000,2026-06-23,Rejected,,8
+LD00288,CN0031,Business Loan,Sunita S.,2440000,2026-04-23,Disbursed,,7
+LD00289,CN0032,Business Loan,Venkat M.,1180000,2026-05-18,Rejected,,5
+LD00290,CN0032,Two-Wheeler Loan,Rekha J.,180000,2026-07-26,Disbursed,,5
+LD00291,CN0032,Two-Wheeler Loan,Kavita M.,130000,2026-09-13,Rejected,,1
+LD00292,CN0032,Business Loan,Fatima N.,3750000,2026-08-23,Disbursed,,7
+LD00293,CN0033,Professional Loan,Ganesh J.,2580000,2026-10-28,Login,,9
+LD00294,CN0033,Business Loan,Suresh P.,2910000,2026-09-25,Sanctioned,,5
+LD00295,CN0033,Business Loan,Shabana M.,2560000,2026-03-25,Disbursed,,10
+LD00296,CN0033,Business Loan,Anita G.,3880000,2026-04-20,Disbursed,,11
+LD00297,CN0033,Professional Loan,Suresh J.,2750000,2026-06-07,Disbursed,,4
+LD00298,CN0033,Professional Loan,Kavita G.,1810000,2026-04-30,Disbursed,,7
+LD00299,CN0033,Business Loan,Meera S.,860000,2026-04-01,Disbursed,,4
+LD00300,CN0033,Loan Against Property,Sachin P.,6890000,2026-10-09,Sanctioned,,4
+LD00301,CN0033,Business Loan,Imran S.,2240000,2026-09-18,Documents pending,Last 3 months bank statement,5
+LD00302,CN0033,Loan Against Property,Jyoti I.,2090000,2026-05-14,Disbursed,,11
+LD00303,CN0033,Professional Loan,Usha G.,2010000,2026-09-29,Sanctioned,,7
+LD00304,CN0033,Business Loan,Lakshmi A.,3810000,2026-08-11,Rejected,,5
+LD00305,CN0033,Business Loan,Srinivas S.,870000,2026-06-15,Rejected,,7
+LD00306,CN0033,Professional Loan,Sameer N.,860000,2026-08-30,Rejected,,2
+LD00307,CN0033,Professional Loan,Prakash K.,1860000,2026-03-22,Disbursed,,2
+LD00308,CN0034,Business Loan,Vikram G.,510000,2026-07-20,Disbursed,,5
+LD00309,CN0034,Professional Loan,Harish J.,2950000,2026-10-04,Rejected,,8
+LD00310,CN0034,Professional Loan,Manoj P.,1280000,2026-09-12,Rejected,,3
+LD00311,CN0035,Business Loan,Srinivas R.,850000,2026-05-12,Disbursed,,6
+LD00312,CN0035,Personal Loan,Shabana G.,520000,2026-10-10,Sanctioned,,11
+LD00313,CN0035,Business Loan,Harish S.,1600000,2026-10-24,Documents pending,Last 3 months bank statement,5
+LD00314,CN0035,Two-Wheeler Loan,Suresh S.,70000,2026-04-30,Disbursed,,10
+LD00315,CN0035,Business Loan,Shabana V.,3660000,2026-08-04,Sanctioned,,2
+LD00316,CN0035,Credit Card,Deepa N.,0,2026-08-08,Sanctioned,,2
+LD00317,CN0035,Business Loan,Arvind R.,2720000,2026-05-30,Rejected,,9
+LD00318,CN0035,Two-Wheeler Loan,Ganesh I.,140000,2026-06-02,Rejected,,3
+LD00319,CN0035,Personal Loan,Pooja S.,1190000,2026-07-21,Rejected,,9
+LD00320,CN0035,Business Loan,Srinivas P.,2930000,2026-06-26,Rejected,,5
+LD00321,CN0035,Business Loan,Vikram R.,3180000,2026-06-22,Disbursed,,4
+LD00322,CN0036,Business Loan,Mahesh K.,1270000,2026-06-10,Sanctioned,,11
+LD00323,CN0036,Business Loan,Meera K.,2960000,2026-08-17,Rejected,,6
+LD00324,CN0036,Business Loan,Rohit K.,970000,2026-05-27,Rejected,,4
+LD00325,CN0036,Professional Loan,Karthik S.,2060000,2026-09-05,Disbursed,,4
+LD00326,CN0036,Professional Loan,Suresh R.,1450000,2026-10-07,Rejected,,10
+LD00327,CN0036,Professional Loan,Fatima N.,2730000,2026-06-20,Sanctioned,,6
+LD00328,CN0036,Business Loan,Rizwan M.,3450000,2026-09-07,Disbursed,,11
+LD00329,CN0036,Personal Loan,Ganesh A.,620000,2026-07-15,Rejected,,11
+LD00330,CN0036,Business Loan,Rohit P.,2670000,2026-08-15,Disbursed,,11
+LD00331,CN0036,Business Loan,Ganesh P.,3470000,2026-07-01,Rejected,,0
+LD00332,CN0037,Home Loan,Usha I.,6530000,2026-05-13,Disbursed,,5
+LD00333,CN0037,Home Loan,Manoj R.,8570000,2026-03-16,Disbursed,,0
+LD00334,CN0037,Loan Against Property,Rekha K.,2260000,2026-04-19,Rejected,,10
+LD00335,CN0037,Home Loan,Manoj M.,7900000,2026-10-31,Submitted,,6
+LD00336,CN0037,Home Loan,Kavita N.,4720000,2026-10-13,Disbursed,,1
+LD00337,CN0037,Home Loan,Srinivas I.,2080000,2026-09-03,Disbursed,,5
+LD00338,CN0037,Home Loan,Manoj R.,7810000,2026-06-11,Sanctioned,,9
+LD00339,CN0037,Loan Against Property,Rizwan K.,3730000,2026-06-21,Disbursed,,6
+LD00340,CN0037,Home Loan,Sunita M.,8240000,2026-07-16,Rejected,,1
+LD00341,CN0037,Home Loan,Sachin S.,5540000,2026-07-08,Sanctioned,,1
+LD00342,CN0037,Home Loan,Meera G.,3790000,2026-10-07,Sanctioned,,7
+LD00343,CN0037,Home Loan,Arvind M.,2240000,2026-04-24,Disbursed,,4
+LD00344,CN0037,Home Loan,Mahesh R.,2410000,2026-05-26,Disbursed,,0
+LD00345,CN0037,Home Loan,Sachin V.,8660000,2026-04-27,Rejected,,1
+LD00346,CN0038,Professional Loan,Kavita M.,1190000,2026-08-22,Disbursed,,5
+LD00347,CN0038,Professional Loan,Pooja J.,1110000,2026-10-20,Sanctioned,,6
+LD00348,CN0038,Business Loan,Prakash P.,3220000,2026-05-13,Rejected,,9
+LD00349,CN0038,Personal Loan,Manoj R.,260000,2026-06-09,Rejected,,9
+LD00350,CN0038,Personal Loan,Anita N.,540000,2026-05-13,Sanctioned,,3
+LD00351,CN0038,Professional Loan,Harish N.,2950000,2026-03-12,Disbursed,,9
+LD00352,CN0038,Personal Loan,Meera I.,1030000,2026-05-08,Disbursed,,7
+LD00353,CN0038,Professional Loan,Fatima N.,2830000,2026-07-28,Disbursed,,10
+LD00354,CN0038,Business Loan,Usha S.,2960000,2026-03-23,Disbursed,,11
+LD00355,CN0038,Personal Loan,Nikhil P.,530000,2026-07-30,Rejected,,6
+LD00356,CN0038,Professional Loan,Jyoti R.,1300000,2026-03-08,Sanctioned,,5
+LD00357,CN0039,Loan Against Property,Karthik R.,7200000,2026-09-22,Sanctioned,,8
+LD00358,CN0039,Professional Loan,Arvind P.,2970000,2026-04-23,Disbursed,,2
+LD00359,CN0039,Business Loan,Usha K.,2990000,2026-09-26,Rejected,,0
+LD00360,CN0039,Professional Loan,Rohit M.,2620000,2026-06-24,Rejected,,0
+LD00361,CN0039,Professional Loan,Venkat M.,770000,2026-07-23,Rejected,,1
+LD00362,CN0039,Loan Against Property,Suresh S.,4070000,2026-06-10,Disbursed,,5
+LD00363,CN0039,Professional Loan,Anita S.,800000,2026-07-06,Disbursed,,2
+LD00364,CN0039,Personal Loan,Srinivas P.,490000,2026-08-28,Rejected,,7
+LD00365,CN0039,Professional Loan,Fatima M.,590000,2026-08-27,Rejected,,6
+LD00366,CN0039,Business Loan,Pooja J.,1100000,2026-07-17,Disbursed,,1
+LD00367,CN0039,Business Loan,Rizwan G.,2160000,2026-10-12,Login,,1
+LD00368,CN0039,Business Loan,Prakash P.,2350000,2026-03-30,Sanctioned,,8
+LD00369,CN0040,Education Loan,Rekha J.,2370000,2026-09-27,Disbursed,,6
+LD00370,CN0040,Personal Loan,Sameer R.,630000,2026-10-18,Documents pending,Last 3 months bank statement,4
+LD00371,CN0040,Education Loan,Venkat R.,600000,2026-07-29,Rejected,,10
+LD00372,CN0040,Education Loan,Shabana J.,480000,2026-05-24,Rejected,,4
+LD00373,CN0040,Education Loan,Mahesh G.,700000,2026-03-23,Disbursed,,0
+LD00374,CN0040,Personal Loan,Rekha M.,760000,2026-10-18,Sanctioned,,10
+LD00375,CN0040,Education Loan,Fatima P.,370000,2026-03-27,Disbursed,,8
+LD00376,CN0041,Business Loan,Srinivas M.,1010000,2026-09-09,Disbursed,,9
+LD00377,CN0041,Professional Loan,Srinivas J.,1860000,2026-07-31,Disbursed,,11
+LD00378,CN0041,Professional Loan,Harish M.,1260000,2026-09-10,Disbursed,,11
+LD00379,CN0041,Professional Loan,Karthik K.,1440000,2026-08-15,Rejected,,11
+LD00380,CN0042,Professional Loan,Imran R.,2020000,2026-03-08,Disbursed,,3
+LD00381,CN0042,Professional Loan,Prakash S.,2610000,2026-04-09,Rejected,,0
+LD00382,CN0042,Loan Against Property,Kavita V.,3860000,2026-08-08,Disbursed,,7
+LD00383,CN0042,Professional Loan,Venkat P.,1010000,2026-09-24,Documents pending,Last 3 months bank statement,5
+LD00384,CN0042,Business Loan,Jyoti J.,2080000,2026-09-19,Login,,7
+LD00385,CN0042,Business Loan,Sameer R.,1710000,2026-03-26,Disbursed,,8
+LD00386,CN0042,Personal Loan,Ganesh V.,640000,2026-06-09,Rejected,,6
+LD00387,CN0042,Business Loan,Jyoti P.,3020000,2026-08-24,Disbursed,,3
+LD00388,CN0043,Two-Wheeler Loan,Karthik G.,70000,2026-04-11,Disbursed,,5
+LD00389,CN0043,Two-Wheeler Loan,Sunita G.,70000,2026-03-12,Disbursed,,7
+LD00390,CN0043,Two-Wheeler Loan,Srinivas M.,70000,2026-05-19,Sanctioned,,11
+LD00391,CN0043,Used Car Loan,Rohit N.,1060000,2026-06-14,Rejected,,9
+LD00392,CN0043,Two-Wheeler Loan,Pooja K.,180000,2026-08-01,Sanctioned,,1
+LD00393,CN0043,Used Car Loan,Suresh S.,450000,2026-07-17,Rejected,,3
+LD00394,CN0043,Two-Wheeler Loan,Prakash P.,120000,2026-09-10,Disbursed,,10
+LD00395,CN0043,Used Car Loan,Nikhil S.,680000,2026-06-16,Disbursed,,9
+LD00396,CN0043,Two-Wheeler Loan,Rizwan P.,130000,2026-08-03,Disbursed,,4
+LD00397,CN0043,Two-Wheeler Loan,Harish J.,80000,2026-03-09,Sanctioned,,7
+LD00398,CN0043,Used Car Loan,Vikram M.,540000,2026-11-01,Documents pending,Last 3 months bank statement,6
+LD00399,CN0044,Loan Against Property,Ganesh S.,4050000,2026-10-06,Login,,3
+LD00400,CN0044,Home Loan,Deepa A.,8840000,2026-09-18,Disbursed,,6
+LD00401,CN0045,Two-Wheeler Loan,Nikhil K.,200000,2026-09-28,Login,,7
+LD00402,CN0045,Used Car Loan,Fatima R.,870000,2026-09-23,Disbursed,,5
+LD00403,CN0045,Used Car Loan,Harish R.,670000,2026-09-30,Rejected,,5
+LD00404,CN0046,Loan Against Property,Rizwan M.,4340000,2026-10-09,Documents pending,Last 3 months bank statement,7
+LD00405,CN0046,Business Loan,Prakash A.,870000,2026-10-17,Disbursed,,8
+LD00406,CN0046,Professional Loan,Sunita M.,1300000,2026-10-11,Sanctioned,,10
+LD00407,CN0047,Education Loan,Karthik R.,1200000,2026-04-03,Disbursed,,10
+LD00408,CN0047,Education Loan,Mahesh K.,1170000,2026-06-15,Disbursed,,8
+LD00409,CN0047,Education Loan,Deepa K.,1400000,2026-05-12,Disbursed,,11
+LD00410,CN0047,Education Loan,Deepa K.,1930000,2026-09-26,Login,,2
+LD00411,CN0047,Personal Loan,Vikram N.,1000000,2026-08-27,Disbursed,,3
+LD00412,CN0047,Education Loan,Lakshmi G.,1480000,2026-04-10,Disbursed,,8
+LD00413,CN0047,Education Loan,Manoj J.,400000,2026-08-25,Disbursed,,5
+LD00414,CN0047,Personal Loan,Mahesh S.,1150000,2026-04-22,Rejected,,8
+LD00415,CN0047,Education Loan,Sachin V.,360000,2026-08-13,Disbursed,,4
+LD00416,CN0047,Personal Loan,Prakash P.,270000,2026-07-12,Disbursed,,0
+LD00417,CN0047,Personal Loan,Venkat R.,590000,2026-06-25,Disbursed,,2
+LD00418,CN0048,Education Loan,Deepa J.,2130000,2026-07-30,Rejected,,6
+LD00419,CN0048,Education Loan,Rohit S.,2490000,2026-05-18,Disbursed,,0
+LD00420,CN0048,Education Loan,Karthik J.,1510000,2026-05-08,Disbursed,,5
+LD00421,CN0048,Education Loan,Sameer S.,990000,2026-05-29,Rejected,,2
+LD00422,CN0048,Education Loan,Usha M.,2260000,2026-10-03,Sanctioned,,4
+LD00423,CN0048,Personal Loan,Kavita K.,220000,2026-05-03,Disbursed,,5
+LD00424,CN0048,Education Loan,Imran S.,1320000,2026-10-15,Sanctioned,,9
+LD00425,CN0048,Education Loan,Deepa I.,1360000,2026-06-21,Rejected,,4
+LD00426,CN0048,Education Loan,Meera N.,310000,2026-10-01,Documents pending,Last 3 months bank statement,1
+LD00427,CN0048,Education Loan,Kavita S.,2120000,2026-09-21,Login,,6
+LD00428,CN0048,Education Loan,Harish S.,2410000,2026-09-23,Rejected,,9
+LD00429,CN0048,Education Loan,Nikhil A.,2350000,2026-04-11,Disbursed,,2
+LD00430,CN0048,Education Loan,Suresh P.,1080000,2026-10-29,Documents pending,Last 3 months bank statement,1
+LD00431,CN0048,Personal Loan,Mahesh K.,640000,2026-04-13,Disbursed,,9
+LD00432,CN0048,Education Loan,Jyoti I.,1970000,2026-09-13,Disbursed,,6
+LD00433,CN0048,Personal Loan,Meera K.,540000,2026-11-01,Login,,10
+LD00434,CN0048,Education Loan,Rekha K.,510000,2026-05-24,Sanctioned,,11
+LD00435,CN0048,Education Loan,Deepa K.,1950000,2026-07-04,Disbursed,,0
+LD00436,CN0048,Education Loan,Karthik J.,2010000,2026-08-30,Rejected,,0
+LD00437,CN0049,Business Loan,Sameer R.,3470000,2026-08-04,Disbursed,,11
+LD00438,CN0049,Professional Loan,Rizwan M.,1900000,2026-08-29,Rejected,,8
+LD00439,CN0049,Business Loan,Mahesh G.,3640000,2026-09-18,Login,,0
+LD00440,CN0049,Professional Loan,Shabana M.,840000,2026-10-22,Documents pending,Last 3 months bank statement,1
+LD00441,CN0049,Business Loan,Lakshmi G.,1150000,2026-10-19,Sanctioned,,9
+LD00442,CN0049,Professional Loan,Harish K.,1520000,2026-09-05,Sanctioned,,2
+LD00443,CN0049,Business Loan,Meera I.,2210000,2026-03-19,Disbursed,,3
+LD00444,CN0049,Personal Loan,Sunita K.,790000,2026-09-15,Disbursed,,7
+LD00445,CN0049,Personal Loan,Sameer K.,810000,2026-07-18,Disbursed,,0
+LD00446,CN0049,Business Loan,Rekha S.,3540000,2026-06-01,Rejected,,10
+LD00447,CN0050,Professional Loan,Anita K.,2080000,2026-10-16,Disbursed,,7
+LD00448,CN0050,Personal Loan,Venkat R.,620000,2026-05-24,Disbursed,,6
+LD00449,CN0050,Personal Loan,Kavita N.,790000,2026-10-31,Submitted,,10
+LD00450,CN0050,Professional Loan,Nandini S.,1500000,2026-09-11,Disbursed,,8
+LD00451,CN0050,Personal Loan,Fatima N.,1000000,2026-07-07,Rejected,,10
+LD00452,CN0052,Education Loan,Rizwan P.,1720000,2026-08-25,Rejected,,6
+LD00453,CN0052,Education Loan,Manoj M.,2340000,2026-05-01,Disbursed,,3
+LD00454,CN0052,Personal Loan,Deepa J.,730000,2026-03-15,Disbursed,,0
+LD00455,CN0052,Education Loan,Sunita A.,790000,2026-10-21,Documents pending,Last 3 months bank statement,7
+LD00456,CN0052,Personal Loan,Jyoti R.,440000,2026-09-21,Sanctioned,,4
+LD00457,CN0052,Education Loan,Pooja S.,1590000,2026-10-06,Rejected,,4
+LD00458,CN0052,Personal Loan,Ganesh K.,940000,2026-07-13,Disbursed,,6
+LD00459,CN0052,Personal Loan,Sameer M.,1160000,2026-03-09,Disbursed,,2
+LD00460,CN0052,Personal Loan,Karthik I.,740000,2026-11-01,Sanctioned,,11
+LD00461,CN0052,Education Loan,Nandini J.,2310000,2026-10-09,Rejected,,6
+LD00462,CN0052,Education Loan,Lakshmi V.,1070000,2026-08-30,Rejected,,8
+LD00463,CN0052,Education Loan,Ganesh R.,1050000,2026-08-23,Rejected,,5
+LD00464,CN0052,Education Loan,Deepa K.,1930000,2026-05-22,Disbursed,,10
+LD00465,CN0053,Used Car Loan,Venkat J.,880000,2026-08-29,Sanctioned,,11
+LD00466,CN0053,Used Car Loan,Srinivas N.,1030000,2026-09-14,Disbursed,,9
+LD00467,CN0053,Used Car Loan,Nikhil K.,470000,2026-04-27,Disbursed,,5
+LD00468,CN0053,Two-Wheeler Loan,Srinivas A.,190000,2026-07-17,Disbursed,,3
+LD00469,CN0053,Used Car Loan,Ganesh K.,1020000,2026-05-27,Sanctioned,,3
+LD00470,CN0053,Used Car Loan,Nandini S.,500000,2026-09-17,Rejected,,4
+LD00471,CN0053,Used Car Loan,Ganesh J.,920000,2026-04-29,Disbursed,,4
+LD00472,CN0053,Two-Wheeler Loan,Jyoti P.,110000,2026-09-30,Submitted,,5
+LD00473,CN0053,Used Car Loan,Manoj S.,950000,2026-10-31,Login,,9
+LD00474,CN0053,Personal Loan,Prakash M.,1120000,2026-07-11,Sanctioned,,6
+LD00475,CN0053,Two-Wheeler Loan,Prakash V.,170000,2026-09-12,Disbursed,,8
+LD00476,CN0053,Used Car Loan,Sunita P.,1170000,2026-08-08,Sanctioned,,9
+LD00477,CN0053,Used Car Loan,Rizwan S.,690000,2026-09-16,Rejected,,1
+LD00478,CN0053,Used Car Loan,Fatima M.,970000,2026-04-11,Disbursed,,2
+LD00479,CN0053,Two-Wheeler Loan,Venkat K.,60000,2026-06-28,Disbursed,,0
+LD00480,CN0053,Used Car Loan,Imran K.,1060000,2026-09-29,Sanctioned,,10
+LD00481,CN0053,Two-Wheeler Loan,Deepa N.,110000,2026-09-06,Disbursed,,1
+LD00482,CN0053,Used Car Loan,Sunita M.,910000,2026-08-27,Disbursed,,3
+LD00483,CN0053,Two-Wheeler Loan,Nikhil I.,90000,2026-04-20,Disbursed,,8
+LD00484,CN0053,Used Car Loan,Rekha S.,880000,2026-10-01,Login,,4
+LD00485,CN0053,Used Car Loan,Rohit K.,610000,2026-06-07,Disbursed,,8
+LD00486,CN0053,Two-Wheeler Loan,Imran V.,160000,2026-05-11,Disbursed,,10
+LD00487,CN0053,Used Car Loan,Suresh J.,580000,2026-10-28,Submitted,,7
+LD00488,CN0053,Used Car Loan,Sunita R.,970000,2026-05-25,Disbursed,,6
+LD00489,CN0053,Used Car Loan,Rizwan R.,1000000,2026-06-03,Disbursed,,9
+LD00490,CN0054,Personal Loan,Venkat A.,480000,2026-07-03,Rejected,,3
+LD00491,CN0054,Two-Wheeler Loan,Kavita K.,170000,2026-05-02,Rejected,,10
+LD00492,CN0054,Used Car Loan,Manoj P.,770000,2026-05-08,Rejected,,2
+LD00493,CN0054,Used Car Loan,Pooja G.,1100000,2026-07-28,Disbursed,,8
+LD00494,CN0054,Personal Loan,Sameer P.,540000,2026-10-10,Rejected,,11
+LD00495,CN0054,Used Car Loan,Sameer R.,650000,2026-08-17,Disbursed,,3
+LD00496,CN0054,Used Car Loan,Imran K.,910000,2026-09-19,Login,,1
+LD00497,CN0054,Used Car Loan,Karthik K.,760000,2026-07-27,Rejected,,9
+LD00498,CN0054,Used Car Loan,Suresh S.,1150000,2026-06-13,Disbursed,,2
+LD00499,CN0054,Personal Loan,Lakshmi R.,340000,2026-09-05,Rejected,,5
+LD00500,CN0054,Used Car Loan,Mahesh M.,800000,2026-03-20,Disbursed,,4
+LD00501,CN0054,Two-Wheeler Loan,Kavita I.,160000,2026-08-07,Disbursed,,1
+LD00502,CN0054,Two-Wheeler Loan,Fatima P.,200000,2026-08-26,Sanctioned,,7
+LD00503,CN0054,Two-Wheeler Loan,Nikhil N.,140000,2026-03-20,Rejected,,10
+LD00504,CN0054,Used Car Loan,Prakash S.,850000,2026-08-10,Rejected,,11
+LD00505,CN0054,Used Car Loan,Prakash K.,740000,2026-10-10,Rejected,,6
+LD00506,CN0054,Two-Wheeler Loan,Sachin S.,80000,2026-10-24,Submitted,,11
+LD00507,CN0054,Used Car Loan,Jyoti V.,360000,2026-05-27,Disbursed,,5
+LD00508,CN0054,Used Car Loan,Sachin K.,450000,2026-05-21,Disbursed,,4
+LD00509,CN0054,Two-Wheeler Loan,Suresh N.,150000,2026-08-27,Disbursed,,1
+LD00510,CN0054,Used Car Loan,Rohit N.,750000,2026-05-08,Disbursed,,7
+LD00511,CN0054,Used Car Loan,Vikram K.,320000,2026-06-13,Disbursed,,4
+LD00512,CN0054,Two-Wheeler Loan,Ganesh N.,160000,2026-06-22,Sanctioned,,4
+LD00513,CN0055,Credit Card,Prakash N.,0,2026-06-05,Sanctioned,,4
+LD00514,CN0055,Personal Loan,Rohit M.,1130000,2026-09-27,Login,,10
+LD00515,CN0055,Education Loan,Sunita M.,1190000,2026-06-26,Disbursed,,10
+LD00516,CN0055,Credit Card,Vikram I.,0,2026-07-04,Disbursed,,3
+LD00517,CN0055,Personal Loan,Pooja K.,900000,2026-03-15,Sanctioned,,6
+LD00518,CN0055,Education Loan,Nandini M.,370000,2026-08-18,Disbursed,,10
+LD00519,CN0055,Credit Card,Anita G.,0,2026-09-25,Sanctioned,,1
+LD00520,CN0056,Used Car Loan,Prakash I.,1110000,2026-06-12,Disbursed,,3
+LD00521,CN0056,Used Car Loan,Prakash V.,680000,2026-08-15,Disbursed,,3
+LD00522,CN0056,Used Car Loan,Vikram K.,680000,2026-05-25,Disbursed,,9
+LD00523,CN0056,Personal Loan,Pooja R.,450000,2026-07-12,Disbursed,,3
+LD00524,CN0056,Used Car Loan,Jyoti R.,620000,2026-07-23,Disbursed,,8
+LD00525,CN0056,Two-Wheeler Loan,Harish M.,120000,2026-03-30,Disbursed,,6
+LD00526,CN0056,Two-Wheeler Loan,Rizwan P.,70000,2026-06-29,Disbursed,,4
+LD00527,CN0056,Two-Wheeler Loan,Nikhil K.,140000,2026-05-16,Disbursed,,11
+LD00528,CN0056,Two-Wheeler Loan,Suresh J.,100000,2026-05-15,Disbursed,,1
+LD00529,CN0056,Two-Wheeler Loan,Venkat M.,120000,2026-05-09,Disbursed,,2
+LD00530,CN0056,Used Car Loan,Manoj I.,720000,2026-07-10,Disbursed,,2
+LD00531,CN0056,Used Car Loan,Suresh P.,620000,2026-04-13,Disbursed,,0
+LD00532,CN0056,Used Car Loan,Vikram R.,1060000,2026-04-08,Disbursed,,11
+LD00533,CN0056,Used Car Loan,Srinivas K.,1020000,2026-08-09,Disbursed,,8
+LD00534,CN0056,Two-Wheeler Loan,Kavita K.,110000,2026-06-27,Rejected,,3
+LD00535,CN0056,Used Car Loan,Mahesh S.,820000,2026-08-21,Rejected,,8
+LD00536,CN0056,Used Car Loan,Imran K.,730000,2026-10-24,Documents pending,Last 3 months bank statement,2
+LD00537,CN0056,Two-Wheeler Loan,Lakshmi A.,150000,2026-07-25,Disbursed,,0
+LD00538,CN0056,Used Car Loan,Sunita S.,390000,2026-04-07,Rejected,,8
+LD00539,CN0056,Two-Wheeler Loan,Prakash S.,120000,2026-09-08,Disbursed,,7
+LD00540,CN0056,Used Car Loan,Lakshmi R.,710000,2026-09-22,Disbursed,,0
+LD00541,CN0056,Used Car Loan,Nikhil N.,1150000,2026-08-06,Disbursed,,11
+LD00542,CN0056,Two-Wheeler Loan,Sachin J.,190000,2026-07-16,Disbursed,,9
+LD00543,CN0057,Home Loan,Imran K.,5320000,2026-03-20,Rejected,,11
+LD00544,CN0057,Personal Loan,Shabana N.,890000,2026-05-27,Sanctioned,,11
+LD00545,CN0057,Home Loan,Ganesh S.,3670000,2026-05-15,Disbursed,,0
+LD00546,CN0058,Personal Loan,Sachin J.,360000,2026-10-09,Sanctioned,,1
+LD00547,CN0058,Education Loan,Arvind I.,2000000,2026-10-29,Login,,3
+LD00548,CN0058,Education Loan,Mahesh M.,600000,2026-10-21,Documents pending,Last 3 months bank statement,7
+LD00549,CN0059,Used Car Loan,Sameer A.,800000,2026-09-27,Disbursed,,10
+LD00550,CN0059,Used Car Loan,Nandini S.,1130000,2026-04-14,Disbursed,,8
+LD00551,CN0059,Personal Loan,Lakshmi R.,400000,2026-05-19,Rejected,,10
+LD00552,CN0059,Used Car Loan,Usha G.,1170000,2026-08-27,Disbursed,,4
+LD00553,CN0059,Used Car Loan,Imran N.,1170000,2026-09-29,Login,,0
+LD00554,CN0059,Two-Wheeler Loan,Sachin M.,90000,2026-06-07,Sanctioned,,4
+LD00555,CN0059,Two-Wheeler Loan,Suresh J.,180000,2026-05-23,Sanctioned,,0
+LD00556,CN0059,Used Car Loan,Imran R.,760000,2026-03-24,Sanctioned,,4
+LD00557,CN0059,Used Car Loan,Meera G.,1070000,2026-09-12,Disbursed,,2
+LD00558,CN0059,Used Car Loan,Shabana N.,1030000,2026-05-07,Rejected,,7
+LD00559,CN0059,Two-Wheeler Loan,Harish K.,170000,2026-03-25,Disbursed,,10
+LD00560,CN0059,Two-Wheeler Loan,Fatima P.,110000,2026-08-07,Rejected,,5
+LD00561,CN0059,Two-Wheeler Loan,Sunita I.,80000,2026-05-31,Rejected,,7
+LD00562,CN0060,Personal Loan,Fatima S.,800000,2026-11-02,Rejected,,0
+LD00563,CN0061,Loan Against Property,Rekha K.,6730000,2026-03-08,Rejected,,9
+LD00564,CN0061,Loan Against Property,Vikram K.,2980000,2026-04-05,Disbursed,,8
+LD00565,CN0061,Business Loan,Jyoti K.,1510000,2026-08-20,Disbursed,,6
+LD00566,CN0061,Loan Against Property,Rekha J.,5940000,2026-07-23,Disbursed,,7
+LD00567,CN0061,Business Loan,Venkat P.,2550000,2026-09-26,Documents pending,Last 3 months bank statement,2
+LD00568,CN0061,Loan Against Property,Suresh N.,3180000,2026-07-25,Disbursed,,2
+LD00569,CN0061,Business Loan,Rekha R.,2540000,2026-06-07,Disbursed,,7
+LD00570,CN0061,Business Loan,Nandini A.,760000,2026-07-11,Disbursed,,2
+LD00571,CN0061,Loan Against Property,Mahesh S.,4920000,2026-08-19,Disbursed,,1
+LD00572,CN0061,Business Loan,Rohit M.,700000,2026-10-12,Rejected,,11
+LD00573,CN0061,Business Loan,Fatima K.,3920000,2026-07-18,Disbursed,,0
+LD00574,CN0061,Professional Loan,Lakshmi K.,2270000,2026-09-27,Login,,5
+LD00575,CN0061,Business Loan,Sameer M.,2290000,2026-05-08,Disbursed,,10
+LD00576,CN0061,Personal Loan,Arvind A.,410000,2026-09-04,Disbursed,,9
+LD00577,CN0061,Business Loan,Harish K.,2880000,2026-05-22,Disbursed,,2
+LD00578,CN0061,Loan Against Property,Rizwan S.,5230000,2026-07-26,Disbursed,,4
+LD00579,CN0061,Loan Against Property,Rohit A.,1750000,2026-03-08,Disbursed,,1
+LD00580,CN0062,Two-Wheeler Loan,Suresh G.,130000,2026-08-21,Disbursed,,10
+LD00581,CN0062,Business Loan,Arvind S.,1260000,2026-09-06,Rejected,,0
+LD00582,CN0062,Two-Wheeler Loan,Deepa R.,160000,2026-06-21,Rejected,,8
+LD00583,CN0062,Business Loan,Fatima N.,560000,2026-04-02,Rejected,,6
+LD00584,CN0063,Professional Loan,Srinivas M.,2670000,2026-10-10,Login,,4
+LD00585,CN0063,Business Loan,Arvind K.,2600000,2026-06-16,Disbursed,,5
+LD00586,CN0063,Business Loan,Nikhil K.,2260000,2026-04-06,Disbursed,,1
+LD00587,CN0063,Professional Loan,Suresh P.,1510000,2026-10-06,Login,,1
+LD00588,CN0063,Loan Against Property,Rekha S.,3600000,2026-06-13,Disbursed,,11
+LD00589,CN0063,Loan Against Property,Harish N.,5310000,2026-03-19,Disbursed,,0
+LD00590,CN0063,Business Loan,Pooja N.,1110000,2026-09-13,Disbursed,,6
+LD00591,CN0063,Professional Loan,Manoj P.,1060000,2026-07-14,Rejected,,2
+LD00592,CN0063,Business Loan,Meera R.,3170000,2026-07-30,Rejected,,9
+LD00593,CN0063,Business Loan,Fatima M.,3400000,2026-08-04,Rejected,,7
+LD00594,CN0063,Business Loan,Anita M.,2800000,2026-07-11,Disbursed,,3
+LD00595,CN0063,Personal Loan,Rekha N.,630000,2026-06-06,Disbursed,,7
+LD00596,CN0063,Business Loan,Lakshmi G.,3940000,2026-09-03,Disbursed,,6
+LD00597,CN0063,Professional Loan,Karthik K.,2190000,2026-09-19,Disbursed,,4
+LD00598,CN0064,Education Loan,Nandini K.,1360000,2026-04-06,Disbursed,,8
+LD00599,CN0064,Education Loan,Ganesh N.,1260000,2026-07-18,Disbursed,,6
+LD00600,CN0064,Education Loan,Imran G.,1670000,2026-06-21,Disbursed,,7
+LD00601,CN0064,Education Loan,Rizwan I.,800000,2026-06-25,Disbursed,,3
+LD00602,CN0064,Personal Loan,Sachin J.,920000,2026-10-10,Documents pending,Last 3 months bank statement,9
+LD00603,CN0064,Education Loan,Srinivas M.,550000,2026-04-01,Disbursed,,8
+LD00604,CN0064,Education Loan,Manoj M.,1640000,2026-06-18,Disbursed,,0
+LD00605,CN0064,Education Loan,Rohit N.,870000,2026-07-27,Disbursed,,0
+LD00606,CN0064,Education Loan,Lakshmi K.,1140000,2026-06-27,Rejected,,9
+LD00607,CN0065,Home Loan,Mahesh V.,3860000,2026-10-30,Submitted,,6
+LD00608,CN0066,Two-Wheeler Loan,Rohit R.,140000,2026-07-25,Disbursed,,11
+LD00609,CN0066,Two-Wheeler Loan,Jyoti G.,110000,2026-03-19,Rejected,,6
+LD00610,CN0066,Two-Wheeler Loan,Nikhil P.,190000,2026-08-13,Disbursed,,10
+LD00611,CN0066,Used Car Loan,Suresh N.,860000,2026-08-28,Sanctioned,,0
+LD00612,CN0067,Two-Wheeler Loan,Usha M.,90000,2026-10-21,Login,,5
+LD00613,CN0067,Two-Wheeler Loan,Meera S.,130000,2026-04-30,Disbursed,,2
+LD00614,CN0067,Used Car Loan,Kavita M.,680000,2026-05-19,Disbursed,,5
+LD00615,CN0067,Two-Wheeler Loan,Manoj M.,130000,2026-03-11,Disbursed,,7
+LD00616,CN0067,Two-Wheeler Loan,Meera S.,140000,2026-03-12,Disbursed,,10
+LD00617,CN0067,Two-Wheeler Loan,Rekha N.,140000,2026-05-19,Disbursed,,8
+LD00618,CN0067,Used Car Loan,Rekha R.,320000,2026-03-20,Disbursed,,7
+LD00619,CN0068,Loan Against Property,Rekha S.,5730000,2026-11-02,Documents pending,Last 3 months bank statement,3
+LD00620,CN0069,Professional Loan,Rekha K.,2310000,2026-10-28,Rejected,,10
+LD00621,CN0069,Loan Against Property,Prakash M.,7540000,2026-10-24,Documents pending,Last 3 months bank statement,10
+LD00622,CN0069,Loan Against Property,Manoj M.,7190000,2026-09-30,Rejected,,0
+LD00623,CN0069,Loan Against Property,Prakash M.,6170000,2026-05-04,Rejected,,11
+LD00624,CN0069,Business Loan,Srinivas R.,2060000,2026-09-29,Login,,6
+LD00625,CN0069,Loan Against Property,Rekha J.,5790000,2026-08-01,Rejected,,4
+LD00626,CN0070,Education Loan,Shabana S.,660000,2026-09-25,Disbursed,,6
+LD00627,CN0070,Education Loan,Sachin P.,1990000,2026-04-01,Disbursed,,11
+LD00628,CN0070,Education Loan,Anita J.,2310000,2026-05-11,Disbursed,,0
+LD00629,CN0070,Education Loan,Rekha A.,2300000,2026-07-11,Rejected,,10
+LD00630,CN0070,Education Loan,Lakshmi P.,1070000,2026-07-01,Disbursed,,0
+LD00631,CN0070,Education Loan,Sameer J.,740000,2026-04-23,Disbursed,,4
+LD00632,CN0070,Personal Loan,Fatima K.,500000,2026-06-24,Rejected,,7
+LD00633,CN0070,Education Loan,Usha P.,1870000,2026-05-14,Disbursed,,6
+LD00634,CN0070,Personal Loan,Pooja R.,870000,2026-03-14,Disbursed,,4
+LD00635,CN0070,Education Loan,Ganesh K.,1990000,2026-06-12,Disbursed,,6
+LD00636,CN0070,Education Loan,Anita M.,2450000,2026-05-02,Rejected,,10
+LD00637,CN0070,Education Loan,Jyoti K.,1700000,2026-09-20,Sanctioned,,7
+LD00638,CN0070,Education Loan,Sachin I.,2360000,2026-08-09,Disbursed,,3
+LD00639,CN0071,Credit Card,Manoj V.,0,2026-10-20,Documents pending,Last 3 months bank statement,10
+LD00640,CN0071,Business Loan,Srinivas A.,3830000,2026-11-01,Rejected,,7
+LD00641,CN0071,Two-Wheeler Loan,Ganesh K.,110000,2026-10-08,Sanctioned,,0
+LD00642,CN0071,Business Loan,Nandini N.,1420000,2026-10-27,Documents pending,Last 3 months bank statement,10
+LD00643,CN0071,Business Loan,Suresh P.,2290000,2026-05-15,Rejected,,0
+LD00644,CN0071,Two-Wheeler Loan,Rizwan J.,160000,2026-10-24,Disbursed,,7
+LD00645,CN0071,Two-Wheeler Loan,Meera I.,130000,2026-09-11,Disbursed,,1
+LD00646,CN0071,Personal Loan,Rekha P.,650000,2026-05-08,Rejected,,4
+LD00647,CN0071,Personal Loan,Deepa M.,970000,2026-06-19,Sanctioned,,2
+LD00648,CN0071,Business Loan,Usha N.,3270000,2026-03-12,Disbursed,,2
+LD00649,CN0071,Personal Loan,Imran P.,950000,2026-07-19,Sanctioned,,7
+LD00650,CN0071,Business Loan,Jyoti P.,2180000,2026-09-24,Documents pending,Last 3 months bank statement,0
+LD00651,CN0071,Credit Card,Pooja K.,0,2026-05-14,Disbursed,,4
+LD00652,CN0071,Business Loan,Ganesh K.,610000,2026-08-29,Rejected,,0
+LD00653,CN0071,Two-Wheeler Loan,Mahesh S.,170000,2026-08-31,Disbursed,,1
+LD00654,CN0071,Business Loan,Vikram S.,1760000,2026-06-03,Rejected,,1
+LD00655,CN0072,Professional Loan,Meera M.,1820000,2026-06-08,Rejected,,6
+LD00656,CN0072,Business Loan,Vikram K.,950000,2026-05-11,Rejected,,6
+LD00657,CN0072,Professional Loan,Nikhil J.,2310000,2026-07-18,Disbursed,,4
+LD00658,CN0072,Business Loan,Shabana S.,2820000,2026-09-25,Login,,6
+LD00659,CN0072,Professional Loan,Nandini R.,2160000,2026-04-16,Rejected,,10
+LD00660,CN0072,Business Loan,Meera N.,3630000,2026-09-13,Disbursed,,7
+LD00661,CN0072,Personal Loan,Ganesh J.,870000,2026-06-06,Disbursed,,4
+LD00662,CN0072,Professional Loan,Deepa K.,2110000,2026-03-23,Rejected,,6
+LD00663,CN0073,Education Loan,Prakash V.,660000,2026-10-31,Sanctioned,,4
+LD00664,CN0074,Personal Loan,Arvind R.,550000,2026-10-27,Login,,3
+LD00665,CN0074,Personal Loan,Deepa R.,680000,2026-10-11,Disbursed,,5
+LD00666,CN0074,Personal Loan,Sunita P.,600000,2026-09-20,Rejected,,1
+LD00667,CN0074,Credit Card,Manoj R.,0,2026-08-12,Disbursed,,0
+LD00668,CN0074,Education Loan,Mahesh N.,1900000,2026-10-01,Submitted,,3
+LD00669,CN0074,Personal Loan,Rekha G.,520000,2026-09-16,Rejected,,2
+LD00670,CN0074,Personal Loan,Nandini P.,640000,2026-08-29,Rejected,,9
+LD00671,CN0074,Education Loan,Rekha M.,1750000,2026-10-29,Documents pending,Last 3 months bank statement,6
+LD00672,CN0075,Used Car Loan,Arvind N.,1180000,2026-04-11,Disbursed,,1
+LD00673,CN0075,Used Car Loan,Nandini P.,640000,2026-10-13,Rejected,,5
+LD00674,CN0075,Two-Wheeler Loan,Srinivas P.,190000,2026-03-15,Rejected,,11
+LD00675,CN0075,Personal Loan,Ganesh P.,530000,2026-05-19,Rejected,,7
+LD00676,CN0075,Two-Wheeler Loan,Harish N.,110000,2026-03-25,Disbursed,,2
+LD00677,CN0075,Two-Wheeler Loan,Deepa G.,100000,2026-06-17,Sanctioned,,0
+LD00678,CN0076,Personal Loan,Srinivas I.,260000,2026-09-10,Sanctioned,,3
+LD00679,CN0076,Education Loan,Suresh V.,370000,2026-10-25,Login,,10
+LD00680,CN0076,Personal Loan,Mahesh A.,880000,2026-05-23,Disbursed,,3
+LD00681,CN0076,Education Loan,Vikram K.,890000,2026-06-29,Disbursed,,2
+LD00682,CN0076,Personal Loan,Rizwan K.,710000,2026-07-24,Sanctioned,,4
+LD00683,CN0076,Education Loan,Ganesh M.,2160000,2026-05-14,Disbursed,,10
+LD00684,CN0076,Education Loan,Sameer G.,350000,2026-10-22,Submitted,,0
+LD00685,CN0076,Education Loan,Pooja J.,1320000,2026-04-23,Disbursed,,1
+LD00686,CN0076,Education Loan,Rohit R.,1530000,2026-04-18,Rejected,,7
+LD00687,CN0076,Personal Loan,Rizwan S.,700000,2026-05-10,Disbursed,,11
+LD00688,CN0077,Education Loan,Venkat J.,1470000,2026-08-08,Rejected,,0
+LD00689,CN0077,Education Loan,Sachin R.,610000,2026-08-13,Disbursed,,6
+LD00690,CN0077,Education Loan,Nikhil S.,1560000,2026-08-14,Disbursed,,8
+LD00691,CN0077,Education Loan,Mahesh R.,400000,2026-10-14,Documents pending,Last 3 months bank statement,4
+LD00692,CN0077,Education Loan,Suresh K.,1270000,2026-06-21,Disbursed,,2
+LD00693,CN0077,Personal Loan,Shabana G.,950000,2026-06-09,Disbursed,,10
+LD00694,CN0077,Education Loan,Sameer J.,1920000,2026-08-19,Disbursed,,10
+LD00695,CN0077,Education Loan,Shabana S.,1020000,2026-08-04,Disbursed,,1
+LD00696,CN0077,Education Loan,Rekha G.,1320000,2026-10-02,Disbursed,,2
+LD00697,CN0078,Home Loan,Karthik J.,4320000,2026-10-07,Documents pending,Last 3 months bank statement,2
+LD00698,CN0078,Home Loan,Sachin A.,8710000,2026-10-02,Sanctioned,,8
+LD00699,CN0080,Personal Loan,Meera R.,800000,2026-08-02,Rejected,,5
+LD00700,CN0081,Loan Against Property,Venkat P.,6600000,2026-10-11,Disbursed,,1
+LD00701,CN0081,Professional Loan,Mahesh I.,1640000,2026-05-06,Rejected,,10
+LD00702,CN0082,Credit Card,Sachin M.,0,2026-09-02,Disbursed,,11
+LD00703,CN0082,Education Loan,Venkat P.,710000,2026-10-29,Submitted,,6
+LD00704,CN0082,Education Loan,Harish S.,2220000,2026-10-16,Login,,1
+LD00705,CN0082,Credit Card,Sunita J.,0,2026-05-01,Disbursed,,10
+LD00706,CN0082,Education Loan,Venkat G.,420000,2026-03-23,Sanctioned,,9
+LD00707,CN0082,Education Loan,Suresh R.,2230000,2026-10-11,Login,,11
+LD00708,CN0082,Home Loan,Sunita S.,5930000,2026-08-22,Rejected,,11
+LD00709,CN0082,Credit Card,Sameer P.,0,2026-03-11,Rejected,,7
+LD00710,CN0083,Personal Loan,Harish A.,810000,2026-07-23,Disbursed,,0
+LD00711,CN0083,Home Loan,Jyoti V.,6520000,2026-06-02,Sanctioned,,7
+LD00712,CN0083,Personal Loan,Nandini K.,260000,2026-06-09,Disbursed,,0
+LD00713,CN0083,Loan Against Property,Rohit I.,5690000,2026-08-02,Disbursed,,7
+LD00714,CN0083,Home Loan,Sachin P.,5450000,2026-07-08,Disbursed,,3
+LD00715,CN0085,Professional Loan,Usha J.,2180000,2026-06-26,Disbursed,,7
+LD00716,CN0085,Professional Loan,Venkat K.,1650000,2026-07-04,Disbursed,,2
+LD00717,CN0085,Professional Loan,Vikram J.,1720000,2026-06-07,Rejected,,11
+LD00718,CN0085,Professional Loan,Rohit N.,580000,2026-10-26,Submitted,,11
+LD00719,CN0085,Professional Loan,Rekha R.,2750000,2026-08-13,Disbursed,,9
+LD00720,CN0085,Professional Loan,Sameer I.,1180000,2026-04-08,Rejected,,10
+LD00721,CN0085,Personal Loan,Mahesh R.,290000,2026-10-12,Documents pending,Last 3 months bank statement,0
+LD00722,CN0085,Professional Loan,Sunita R.,1720000,2026-04-21,Disbursed,,5
+LD00723,CN0085,Business Loan,Srinivas M.,2950000,2026-08-11,Rejected,,8
+LD00724,CN0085,Business Loan,Nikhil I.,3510000,2026-06-23,Disbursed,,7
+LD00725,CN0085,Professional Loan,Pooja M.,1310000,2026-10-22,Documents pending,Last 3 months bank statement,0
+LD00726,CN0085,Professional Loan,Sachin K.,2610000,2026-04-07,Disbursed,,9
+LD00727,CN0085,Business Loan,Jyoti K.,1560000,2026-03-14,Disbursed,,4
+LD00728,CN0085,Professional Loan,Meera M.,2670000,2026-09-15,Disbursed,,0
+LD00729,CN0085,Business Loan,Karthik J.,3110000,2026-10-15,Disbursed,,6
+LD00730,CN0086,Business Loan,Manoj K.,820000,2026-08-14,Rejected,,11
+LD00731,CN0086,Personal Loan,Vikram J.,930000,2026-07-06,Sanctioned,,11
+LD00732,CN0086,Two-Wheeler Loan,Sachin M.,200000,2026-07-28,Rejected,,5
+LD00733,CN0086,Personal Loan,Imran K.,230000,2026-04-03,Rejected,,2
+LD00734,CN0087,Professional Loan,Prakash R.,2920000,2026-06-23,Disbursed,,2
+LD00735,CN0087,Professional Loan,Sameer I.,780000,2026-05-11,Disbursed,,1
+LD00736,CN0087,Professional Loan,Kavita P.,1130000,2026-10-05,Documents pending,Last 3 months bank statement,0
+LD00737,CN0087,Business Loan,Venkat K.,1710000,2026-09-25,Disbursed,,7
+LD00738,CN0087,Business Loan,Rohit P.,1920000,2026-07-07,Rejected,,0
+LD00739,CN0088,Home Loan,Nikhil N.,6550000,2026-04-28,Disbursed,,1
+LD00740,CN0088,Home Loan,Venkat A.,8780000,2026-10-24,Sanctioned,,6
+LD00741,CN0088,Home Loan,Pooja N.,7560000,2026-10-07,Disbursed,,8
+LD00742,CN0088,Home Loan,Sunita J.,7180000,2026-09-20,Rejected,,6
+LD00743,CN0088,Home Loan,Sachin R.,7950000,2026-07-04,Rejected,,5
+LD00744,CN0088,Home Loan,Anita V.,8520000,2026-08-01,Disbursed,,4
+LD00745,CN0088,Home Loan,Pooja J.,4510000,2026-06-12,Disbursed,,2
+LD00746,CN0088,Personal Loan,Manoj G.,830000,2026-08-08,Disbursed,,4
+LD00747,CN0088,Home Loan,Nikhil P.,4200000,2026-08-06,Disbursed,,1
+LD00748,CN0088,Home Loan,Venkat M.,3370000,2026-07-02,Rejected,,6
+LD00749,CN0088,Loan Against Property,Rohit K.,5850000,2026-10-06,Sanctioned,,4
+LD00750,CN0088,Home Loan,Harish I.,5880000,2026-07-28,Rejected,,1
+LD00751,CN0089,Professional Loan,Srinivas M.,3000000,2026-07-25,Disbursed,,3
+LD00752,CN0089,Business Loan,Kavita K.,2770000,2026-10-16,Sanctioned,,4
+LD00753,CN0089,Personal Loan,Rekha R.,1080000,2026-03-09,Disbursed,,6
+LD00754,CN0089,Professional Loan,Nikhil M.,2300000,2026-09-19,Disbursed,,1
+LD00755,CN0089,Personal Loan,Ganesh J.,790000,2026-10-14,Sanctioned,,4
+LD00756,CN0089,Professional Loan,Karthik M.,1510000,2026-03-18,Disbursed,,10
+LD00757,CN0089,Personal Loan,Sachin I.,420000,2026-09-03,Disbursed,,10
+LD00758,CN0089,Business Loan,Anita R.,2450000,2026-06-20,Rejected,,11
+LD00759,CN0089,Professional Loan,Sunita K.,880000,2026-08-18,Rejected,,10
+LD00760,CN0089,Personal Loan,Prakash S.,340000,2026-05-06,Disbursed,,5
+LD00761,CN0089,Professional Loan,Sunita G.,2810000,2026-08-20,Rejected,,1
+LD00762,CN0089,Professional Loan,Srinivas K.,2150000,2026-10-28,Rejected,,5
+LD00763,CN0089,Professional Loan,Rekha M.,1690000,2026-03-28,Disbursed,,9
+LD00764,CN0089,Professional Loan,Ganesh N.,2320000,2026-04-25,Rejected,,3
+LD00765,CN0089,Professional Loan,Nandini M.,1790000,2026-10-16,Sanctioned,,8
+LD00766,CN0089,Business Loan,Nikhil K.,3280000,2026-07-13,Disbursed,,9
+LD00767,CN0089,Personal Loan,Nikhil P.,840000,2026-09-28,Login,,7
+LD00768,CN0089,Personal Loan,Mahesh S.,1130000,2026-03-26,Disbursed,,11
+LD00769,CN0090,Used Car Loan,Harish K.,820000,2026-10-12,Sanctioned,,6
+LD00770,CN0090,Used Car Loan,Imran K.,1070000,2026-09-02,Rejected,,0
+LD00771,CN0091,Business Loan,Nandini G.,3540000,2026-09-21,Documents pending,Last 3 months bank statement,5
+LD00772,CN0091,Professional Loan,Karthik P.,1060000,2026-08-05,Rejected,,9
+LD00773,CN0091,Professional Loan,Mahesh K.,1460000,2026-09-04,Disbursed,,2
+LD00774,CN0091,Professional Loan,Suresh I.,1670000,2026-10-10,Sanctioned,,11
+LD00775,CN0091,Professional Loan,Harish M.,2960000,2026-09-30,Submitted,,6
+LD00776,CN0091,Business Loan,Karthik J.,2180000,2026-08-22,Rejected,,3
+LD00777,CN0091,Personal Loan,Vikram K.,580000,2026-08-10,Disbursed,,7
+LD00778,CN0091,Personal Loan,Pooja N.,1190000,2026-10-07,Sanctioned,,9
+LD00779,CN0092,Business Loan,Prakash M.,1220000,2026-08-04,Disbursed,,3
+LD00780,CN0092,Business Loan,Suresh M.,2690000,2026-09-15,Sanctioned,,10
+LD00781,CN0092,Business Loan,Sachin S.,3470000,2026-10-04,Rejected,,1
+LD00782,CN0092,Loan Against Property,Rekha N.,4600000,2026-09-30,Disbursed,,7
+LD00783,CN0093,Professional Loan,Deepa K.,1060000,2026-05-20,Disbursed,,2
+LD00784,CN0093,Professional Loan,Arvind V.,1590000,2026-08-16,Disbursed,,10
+LD00785,CN0093,Professional Loan,Rohit S.,2590000,2026-10-05,Sanctioned,,7
+LD00786,CN0093,Professional Loan,Vikram R.,2320000,2026-06-21,Disbursed,,5
+LD00787,CN0093,Business Loan,Pooja I.,1150000,2026-03-27,Sanctioned,,4
+LD00788,CN0093,Professional Loan,Suresh R.,1060000,2026-08-30,Disbursed,,10
+LD00789,CN0093,Business Loan,Deepa N.,2300000,2026-06-09,Disbursed,,8
+LD00790,CN0093,Personal Loan,Mahesh G.,630000,2026-05-31,Rejected,,11
+LD00791,CN0093,Loan Against Property,Lakshmi P.,2730000,2026-03-24,Sanctioned,,8
+LD00792,CN0093,Professional Loan,Mahesh S.,1500000,2026-10-01,Sanctioned,,10
+LD00793,CN0093,Loan Against Property,Anita J.,2460000,2026-08-14,Disbursed,,5
+LD00794,CN0093,Business Loan,Rohit J.,2230000,2026-04-01,Disbursed,,1
+LD00795,CN0093,Business Loan,Rizwan S.,3930000,2026-04-27,Rejected,,3
+LD00796,CN0093,Business Loan,Deepa J.,1290000,2026-08-01,Disbursed,,3
+LD00797,CN0093,Business Loan,Prakash N.,3280000,2026-07-24,Rejected,,6
+LD00798,CN0093,Professional Loan,Arvind M.,900000,2026-03-17,Rejected,,3
+LD00799,CN0094,Two-Wheeler Loan,Sameer G.,170000,2026-08-05,Rejected,,10
+LD00800,CN0094,Two-Wheeler Loan,Nandini A.,160000,2026-06-14,Rejected,,8
+LD00801,CN0094,Business Loan,Srinivas J.,1460000,2026-06-30,Disbursed,,7
+LD00802,CN0094,Business Loan,Sachin M.,1590000,2026-05-21,Disbursed,,7
+LD00803,CN0094,Personal Loan,Venkat K.,990000,2026-08-19,Disbursed,,10
+LD00804,CN0094,Business Loan,Rizwan J.,3740000,2026-06-04,Rejected,,3
+LD00805,CN0094,Credit Card,Meera K.,0,2026-03-28,Disbursed,,2
+LD00806,CN0094,Business Loan,Suresh R.,3680000,2026-08-12,Disbursed,,3
+LD00807,CN0094,Business Loan,Mahesh J.,1070000,2026-03-17,Rejected,,1
+LD00808,CN0094,Two-Wheeler Loan,Kavita V.,70000,2026-10-23,Documents pending,Last 3 months bank statement,2
+LD00809,CN0094,Personal Loan,Rohit R.,560000,2026-03-16,Sanctioned,,5
+LD00810,CN0094,Credit Card,Deepa K.,0,2026-03-27,Sanctioned,,2
+LD00811,CN0094,Two-Wheeler Loan,Sameer I.,140000,2026-06-30,Disbursed,,8
+LD00812,CN0094,Credit Card,Prakash N.,0,2026-08-16,Disbursed,,1
+LD00813,CN0094,Personal Loan,Rohit A.,600000,2026-07-14,Disbursed,,3
+LD00814,CN0095,Loan Against Property,Vikram M.,1590000,2026-09-19,Documents pending,Last 3 months bank statement,10
+LD00815,CN0095,Home Loan,Nandini A.,4050000,2026-08-19,Disbursed,,7
+LD00816,CN0095,Home Loan,Imran M.,7400000,2026-05-07,Disbursed,,11
+LD00817,CN0095,Loan Against Property,Rohit S.,4510000,2026-04-11,Sanctioned,,3
+LD00818,CN0095,Home Loan,Sachin M.,3600000,2026-03-28,Rejected,,8
+LD00819,CN0095,Home Loan,Suresh R.,8140000,2026-06-22,Sanctioned,,0
+LD00820,CN0095,Home Loan,Usha M.,8550000,2026-10-17,Disbursed,,0
+LD00821,CN0095,Loan Against Property,Deepa K.,7420000,2026-08-03,Disbursed,,0
+LD00822,CN0095,Loan Against Property,Meera K.,1510000,2026-07-01,Disbursed,,9
+LD00823,CN0095,Loan Against Property,Rizwan P.,4240000,2026-04-08,Disbursed,,1
+LD00824,CN0095,Home Loan,Lakshmi R.,6080000,2026-06-10,Rejected,,6
+LD00825,CN0095,Loan Against Property,Usha A.,1700000,2026-08-10,Rejected,,3
+LD00826,CN0096,Loan Against Property,Sunita P.,2930000,2026-10-30,Disbursed,,7
+LD00827,CN0096,Home Loan,Imran K.,4770000,2026-11-01,Sanctioned,,4
+LD00828,CN0096,Home Loan,Fatima M.,2560000,2026-11-01,Submitted,,8
+LD00829,CN0097,Two-Wheeler Loan,Arvind N.,140000,2026-05-27,Disbursed,,2
+LD00830,CN0097,Used Car Loan,Shabana S.,1010000,2026-08-29,Disbursed,,8
+LD00831,CN0097,Used Car Loan,Vikram V.,740000,2026-09-13,Disbursed,,7
+LD00832,CN0097,Two-Wheeler Loan,Anita I.,150000,2026-08-16,Disbursed,,1
+LD00833,CN0097,Used Car Loan,Jyoti V.,1020000,2026-08-26,Sanctioned,,7
+LD00834,CN0097,Used Car Loan,Prakash G.,960000,2026-03-27,Disbursed,,11
+LD00835,CN0097,Used Car Loan,Karthik G.,850000,2026-08-30,Disbursed,,7
+LD00836,CN0097,Used Car Loan,Suresh J.,930000,2026-04-11,Disbursed,,6
+LD00837,CN0097,Used Car Loan,Rekha K.,940000,2026-09-22,Sanctioned,,4
+LD00838,CN0097,Used Car Loan,Sachin N.,810000,2026-11-02,Submitted,,2
+LD00839,CN0097,Used Car Loan,Arvind J.,710000,2026-04-03,Disbursed,,5
+LD00840,CN0097,Used Car Loan,Pooja M.,1010000,2026-04-21,Rejected,,8
+LD00841,CN0097,Used Car Loan,Rizwan M.,1180000,2026-10-08,Disbursed,,9
+LD00842,CN0097,Used Car Loan,Rohit K.,1170000,2026-03-15,Rejected,,3
+LD00843,CN0097,Used Car Loan,Sachin P.,400000,2026-07-16,Rejected,,4
+LD00844,CN0097,Two-Wheeler Loan,Rizwan P.,200000,2026-05-03,Disbursed,,2
+LD00845,CN0097,Two-Wheeler Loan,Pooja S.,160000,2026-07-21,Disbursed,,1
+LD00846,CN0098,Loan Against Property,Shabana A.,5990000,2026-07-19,Sanctioned,,7
+LD00847,CN0099,Business Loan,Ganesh P.,2780000,2026-05-11,Sanctioned,,1
+LD00848,CN0099,Professional Loan,Nikhil R.,1680000,2026-08-25,Rejected,,2
+LD00849,CN0099,Professional Loan,Nikhil R.,640000,2026-06-01,Disbursed,,2
+LD00850,CN0099,Personal Loan,Nandini M.,860000,2026-06-03,Disbursed,,11
+LD00851,CN0099,Business Loan,Rohit K.,1210000,2026-07-07,Sanctioned,,8
+LD00852,CN0099,Professional Loan,Nandini N.,1660000,2026-07-27,Sanctioned,,5
+LD00853,CN0099,Personal Loan,Srinivas A.,430000,2026-08-02,Disbursed,,1
+LD00854,CN0100,Loan Against Property,Mahesh M.,2180000,2026-10-16,Login,,10
+LD00855,CN0100,Professional Loan,Karthik I.,1180000,2026-07-02,Disbursed,,11
+LD00856,CN0100,Professional Loan,Jyoti S.,590000,2026-05-25,Rejected,,8
+LD00857,CN0100,Business Loan,Anita I.,880000,2026-08-04,Rejected,,0
+LD00858,CN0100,Business Loan,Sameer P.,1540000,2026-07-04,Disbursed,,4
+LD00859,CN0100,Loan Against Property,Anita A.,7020000,2026-07-15,Rejected,,2
+LD00860,CN0100,Professional Loan,Ganesh K.,1960000,2026-10-07,Sanctioned,,10
+LD00861,CN0100,Personal Loan,Rekha R.,1000000,2026-07-08,Disbursed,,5
+LD00862,CN0100,Business Loan,Meera S.,3470000,2026-09-05,Rejected,,5
+LD00863,CN0100,Personal Loan,Suresh M.,460000,2026-08-04,Rejected,,1
+LD00864,CN0101,Professional Loan,Harish K.,1700000,2026-06-19,Rejected,,11
+LD00865,CN0101,Personal Loan,Manoj V.,580000,2026-05-28,Rejected,,6
+LD00866,CN0101,Professional Loan,Suresh S.,2230000,2026-07-08,Disbursed,,9
+LD00867,CN0101,Professional Loan,Imran R.,690000,2026-03-14,Rejected,,4
+LD00868,CN0101,Professional Loan,Anita S.,2740000,2026-03-15,Disbursed,,6
+LD00869,CN0101,Loan Against Property,Prakash M.,5510000,2026-08-31,Disbursed,,4
+LD00870,CN0101,Personal Loan,Deepa S.,380000,2026-09-21,Sanctioned,,11
+LD00871,CN0101,Business Loan,Meera J.,3460000,2026-06-04,Disbursed,,2
+LD00872,CN0101,Loan Against Property,Usha K.,6330000,2026-06-06,Disbursed,,8
+LD00873,CN0101,Business Loan,Fatima M.,920000,2026-08-24,Disbursed,,10
+LD00874,CN0101,Loan Against Property,Rekha K.,3600000,2026-07-19,Disbursed,,10
+LD00875,CN0101,Personal Loan,Harish S.,1150000,2026-08-01,Rejected,,3
+LD00876,CN0101,Business Loan,Arvind S.,3490000,2026-07-25,Disbursed,,7
+LD00877,CN0101,Personal Loan,Nikhil M.,800000,2026-03-09,Rejected,,6
+LD00878,CN0101,Business Loan,Rekha I.,1350000,2026-08-18,Disbursed,,4
+LD00879,CN0101,Loan Against Property,Usha G.,5020000,2026-05-25,Rejected,,7
+LD00880,CN0101,Professional Loan,Anita K.,1310000,2026-08-22,Rejected,,3
+LD00881,CN0101,Professional Loan,Nandini J.,1820000,2026-06-06,Disbursed,,5
+LD00882,CN0102,Business Loan,Rohit M.,1550000,2026-10-18,Login,,1
+LD00883,CN0102,Personal Loan,Harish M.,890000,2026-05-26,Sanctioned,,11
+LD00884,CN0102,Business Loan,Harish J.,570000,2026-09-20,Disbursed,,0
+LD00885,CN0103,Two-Wheeler Loan,Rizwan M.,180000,2026-09-22,Documents pending,Last 3 months bank statement,5
+LD00886,CN0103,Two-Wheeler Loan,Lakshmi M.,150000,2026-04-20,Disbursed,,0
+LD00887,CN0103,Business Loan,Vikram I.,1080000,2026-07-21,Disbursed,,11
+LD00888,CN0103,Personal Loan,Karthik S.,960000,2026-04-28,Disbursed,,9
+LD00889,CN0103,Personal Loan,Usha J.,820000,2026-07-12,Disbursed,,3
+LD00890,CN0103,Credit Card,Jyoti M.,0,2026-05-31,Disbursed,,1
+LD00891,CN0103,Credit Card,Pooja V.,0,2026-04-23,Disbursed,,5
+LD00892,CN0103,Two-Wheeler Loan,Srinivas P.,150000,2026-07-07,Disbursed,,11
+LD00893,CN0103,Business Loan,Usha R.,1140000,2026-10-16,Sanctioned,,6
+LD00894,CN0103,Personal Loan,Rohit J.,990000,2026-09-12,Disbursed,,1
+LD00895,CN0103,Personal Loan,Sachin M.,700000,2026-05-15,Rejected,,2
+LD00896,CN0103,Business Loan,Harish K.,920000,2026-07-17,Rejected,,9
+LD00897,CN0103,Business Loan,Lakshmi J.,2430000,2026-08-24,Disbursed,,8
+LD00898,CN0103,Two-Wheeler Loan,Rizwan J.,80000,2026-06-27,Disbursed,,1
+LD00899,CN0103,Two-Wheeler Loan,Arvind A.,160000,2026-06-09,Disbursed,,1
+LD00900,CN0103,Business Loan,Mahesh K.,3090000,2026-06-03,Rejected,,3
+LD00901,CN0103,Business Loan,Harish G.,3720000,2026-07-13,Rejected,,11
+LD00902,CN0103,Business Loan,Jyoti R.,690000,2026-06-25,Rejected,,10
+LD00903,CN0103,Business Loan,Kavita N.,1090000,2026-09-28,Documents pending,Last 3 months bank statement,7
+LD00904,CN0104,Home Loan,Pooja J.,7110000,2026-07-13,Rejected,,0
+LD00905,CN0104,Personal Loan,Sunita N.,210000,2026-09-21,Login,,10
+LD00906,CN0104,Loan Against Property,Karthik N.,3270000,2026-10-31,Documents pending,Last 3 months bank statement,1
+LD00907,CN0104,Loan Against Property,Fatima K.,6780000,2026-06-01,Disbursed,,1
+LD00908,CN0104,Home Loan,Deepa I.,5060000,2026-04-20,Disbursed,,0
+LD00909,CN0104,Personal Loan,Imran K.,910000,2026-07-21,Rejected,,8
+LD00910,CN0104,Loan Against Property,Manoj N.,5380000,2026-03-31,Disbursed,,11
+LD00911,CN0105,Loan Against Property,Sameer K.,7700000,2026-09-22,Submitted,,4
+LD00912,CN0105,Loan Against Property,Rekha P.,7490000,2026-05-21,Disbursed,,0
+LD00913,CN0105,Home Loan,Harish S.,4480000,2026-08-06,Disbursed,,8
+LD00914,CN0105,Home Loan,Sameer J.,6020000,2026-10-29,Submitted,,5
+LD00915,CN0105,Loan Against Property,Usha V.,4190000,2026-10-24,Login,,3
+LD00916,CN0105,Loan Against Property,Deepa M.,3570000,2026-05-28,Disbursed,,9
+LD00917,CN0105,Loan Against Property,Lakshmi I.,7590000,2026-04-18,Rejected,,9
+LD00918,CN0105,Personal Loan,Meera M.,220000,2026-07-29,Rejected,,2
+LD00919,CN0105,Personal Loan,Anita M.,270000,2026-04-19,Sanctioned,,0
+LD00920,CN0105,Home Loan,Anita G.,5840000,2026-06-14,Disbursed,,3
+LD00921,CN0105,Home Loan,Ganesh K.,3890000,2026-04-14,Disbursed,,1
+LD00922,CN0105,Loan Against Property,Prakash J.,6500000,2026-08-22,Rejected,,11
+LD00923,CN0106,Personal Loan,Mahesh A.,1190000,2026-05-25,Disbursed,,11
+LD00924,CN0106,Professional Loan,Rohit K.,2690000,2026-10-04,Login,,5
+LD00925,CN0106,Professional Loan,Mahesh P.,2060000,2026-03-28,Disbursed,,6
+LD00926,CN0106,Personal Loan,Shabana S.,1180000,2026-03-11,Disbursed,,9
+LD00927,CN0106,Personal Loan,Sachin N.,640000,2026-03-21,Disbursed,,1
+LD00928,CN0106,Business Loan,Lakshmi K.,2060000,2026-03-19,Disbursed,,6
+LD00929,CN0106,Professional Loan,Jyoti V.,2620000,2026-10-24,Disbursed,,6
+LD00930,CN0106,Personal Loan,Lakshmi N.,1120000,2026-07-20,Disbursed,,9
+LD00931,CN0106,Professional Loan,Sunita M.,1830000,2026-05-02,Disbursed,,2
+LD00932,CN0106,Professional Loan,Ganesh I.,1450000,2026-04-23,Disbursed,,5
+LD00933,CN0106,Business Loan,Manoj R.,3100000,2026-07-20,Disbursed,,4
+LD00934,CN0106,Personal Loan,Ganesh K.,790000,2026-07-08,Disbursed,,9
+LD00935,CN0107,Personal Loan,Sunita M.,1080000,2026-07-15,Disbursed,,4
+LD00936,CN0107,Education Loan,Lakshmi P.,1780000,2026-03-18,Disbursed,,10
+LD00937,CN0107,Education Loan,Usha P.,1080000,2026-10-02,Rejected,,1
+LD00938,CN0107,Credit Card,Sunita K.,0,2026-05-08,Rejected,,8
+LD00939,CN0107,Personal Loan,Lakshmi J.,500000,2026-05-30,Disbursed,,4
+LD00940,CN0108,Business Loan,Rizwan R.,1150000,2026-08-16,Disbursed,,7
+LD00941,CN0108,Business Loan,Karthik J.,510000,2026-03-31,Disbursed,,9
+LD00942,CN0109,Used Car Loan,Prakash P.,720000,2026-07-15,Disbursed,,5
+LD00943,CN0109,Used Car Loan,Nikhil M.,520000,2026-09-09,Disbursed,,5
+LD00944,CN0109,Used Car Loan,Vikram N.,1040000,2026-07-07,Disbursed,,5
+LD00945,CN0109,Two-Wheeler Loan,Vikram R.,160000,2026-08-04,Disbursed,,5
+LD00946,CN0109,Two-Wheeler Loan,Anita K.,160000,2026-08-07,Disbursed,,10
+LD00947,CN0109,Personal Loan,Imran A.,840000,2026-04-03,Disbursed,,6
+LD00948,CN0109,Used Car Loan,Nandini K.,870000,2026-10-06,Disbursed,,11
+LD00949,CN0109,Used Car Loan,Vikram S.,960000,2026-04-10,Sanctioned,,6
+LD00950,CN0109,Used Car Loan,Lakshmi R.,1180000,2026-07-24,Disbursed,,4
+LD00951,CN0109,Used Car Loan,Rekha I.,1000000,2026-03-27,Rejected,,5
+LD00952,CN0109,Two-Wheeler Loan,Imran S.,140000,2026-03-25,Rejected,,11
+LD00953,CN0109,Used Car Loan,Pooja P.,1060000,2026-07-25,Sanctioned,,10
+LD00954,CN0109,Two-Wheeler Loan,Rohit P.,90000,2026-07-14,Rejected,,10
+LD00955,CN0109,Personal Loan,Vikram A.,800000,2026-03-20,Disbursed,,7
+LD00956,CN0109,Two-Wheeler Loan,Ganesh R.,100000,2026-06-17,Disbursed,,0
+LD00957,CN0109,Used Car Loan,Vikram G.,770000,2026-04-21,Rejected,,10
+LD00958,CN0109,Used Car Loan,Kavita A.,660000,2026-05-06,Disbursed,,11
+LD00959,CN0109,Used Car Loan,Vikram S.,410000,2026-04-27,Disbursed,,7
+LD00960,CN0110,Professional Loan,Vikram A.,960000,2026-09-27,Disbursed,,5
+LD00961,CN0110,Professional Loan,Suresh J.,1950000,2026-04-07,Rejected,,3
+LD00962,CN0110,Professional Loan,Venkat A.,2830000,2026-07-16,Rejected,,7
+LD00963,CN0110,Business Loan,Manoj K.,1200000,2026-10-15,Submitted,,3
+LD00964,CN0110,Business Loan,Imran I.,2010000,2026-09-03,Disbursed,,5
+LD00965,CN0110,Business Loan,Arvind G.,3290000,2026-03-23,Disbursed,,4
+LD00966,CN0110,Loan Against Property,Rohit P.,2710000,2026-07-25,Disbursed,,3
+LD00967,CN0110,Business Loan,Rekha I.,1800000,2026-05-23,Disbursed,,6
+LD00968,CN0110,Business Loan,Fatima G.,2550000,2026-04-05,Rejected,,2
+LD00969,CN0110,Loan Against Property,Lakshmi K.,3680000,2026-07-18,Disbursed,,8
+LD00970,CN0110,Loan Against Property,Fatima R.,1840000,2026-08-30,Disbursed,,2
+LD00971,CN0111,Professional Loan,Sunita K.,1040000,2026-09-16,Sanctioned,,1
+LD00972,CN0111,Professional Loan,Rizwan V.,2370000,2026-07-12,Disbursed,,9
+LD00973,CN0111,Professional Loan,Mahesh K.,1050000,2026-09-05,Disbursed,,1
+LD00974,CN0111,Professional Loan,Mahesh I.,1880000,2026-09-20,Login,,4
+LD00975,CN0111,Personal Loan,Prakash V.,1120000,2026-09-26,Documents pending,Last 3 months bank statement,10
+LD00976,CN0111,Professional Loan,Srinivas A.,1880000,2026-05-25,Disbursed,,2
+LD00977,CN0111,Professional Loan,Karthik P.,2540000,2026-08-26,Disbursed,,10
+LD00978,CN0111,Professional Loan,Pooja M.,1290000,2026-06-22,Rejected,,4
+LD00979,CN0111,Professional Loan,Fatima R.,860000,2026-06-26,Sanctioned,,11
+LD00980,CN0111,Business Loan,Sachin J.,2290000,2026-03-16,Disbursed,,6
+LD00981,CN0112,Two-Wheeler Loan,Nandini V.,140000,2026-04-03,Disbursed,,4
+LD00982,CN0112,Two-Wheeler Loan,Rekha R.,150000,2026-09-19,Disbursed,,8
+LD00983,CN0112,Two-Wheeler Loan,Rekha S.,70000,2026-05-05,Sanctioned,,3
+LD00984,CN0112,Used Car Loan,Rohit S.,600000,2026-10-05,Documents pending,Last 3 months bank statement,1
+LD00985,CN0112,Used Car Loan,Deepa K.,410000,2026-08-24,Rejected,,2
+LD00986,CN0112,Two-Wheeler Loan,Harish K.,150000,2026-09-13,Disbursed,,8
+LD00987,CN0112,Used Car Loan,Fatima P.,560000,2026-08-11,Rejected,,11
+LD00988,CN0112,Two-Wheeler Loan,Mahesh V.,120000,2026-08-28,Disbursed,,0
+LD00989,CN0112,Used Car Loan,Venkat A.,500000,2026-04-05,Disbursed,,2
+LD00990,CN0112,Used Car Loan,Usha S.,680000,2026-07-23,Disbursed,,9
+LD00991,CN0112,Personal Loan,Pooja R.,1200000,2026-10-01,Login,,8
+LD00992,CN0112,Personal Loan,Arvind R.,690000,2026-04-02,Rejected,,11
+LD00993,CN0112,Two-Wheeler Loan,Rohit S.,130000,2026-04-10,Rejected,,9
+LD00994,CN0112,Used Car Loan,Meera K.,960000,2026-08-06,Disbursed,,10
+LD00995,CN0112,Used Car Loan,Rohit S.,960000,2026-07-13,Disbursed,,1
+LD00996,CN0112,Personal Loan,Imran J.,1120000,2026-06-28,Rejected,,8
+LD00997,CN0112,Used Car Loan,Fatima K.,940000,2026-09-19,Sanctioned,,4
+LD00998,CN0113,Professional Loan,Karthik S.,2000000,2026-03-20,Disbursed,,3
+LD00999,CN0113,Business Loan,Rizwan I.,1030000,2026-04-06,Sanctioned,,4
+LD01000,CN0113,Professional Loan,Suresh S.,2630000,2026-03-09,Disbursed,,1
+LD01001,CN0113,Professional Loan,Suresh R.,1560000,2026-06-06,Disbursed,,3
+LD01002,CN0113,Professional Loan,Shabana S.,2160000,2026-08-04,Disbursed,,2
+LD01003,CN0113,Loan Against Property,Rekha K.,2220000,2026-05-22,Rejected,,5
+LD01004,CN0113,Business Loan,Deepa P.,3880000,2026-03-17,Disbursed,,9
+LD01005,CN0113,Loan Against Property,Pooja S.,5890000,2026-09-18,Documents pending,Last 3 months bank statement,6
+LD01006,CN0113,Professional Loan,Nandini M.,1970000,2026-06-21,Disbursed,,2
+LD01007,CN0113,Loan Against Property,Shabana K.,5730000,2026-06-18,Disbursed,,0
+LD01008,CN0113,Professional Loan,Deepa P.,820000,2026-03-16,Rejected,,11
+LD01009,CN0113,Professional Loan,Nikhil N.,900000,2026-04-08,Disbursed,,7
+LD01010,CN0113,Business Loan,Anita J.,1610000,2026-04-28,Disbursed,,3
+LD01011,CN0113,Loan Against Property,Harish M.,1810000,2026-08-17,Disbursed,,3
+LD01012,CN0113,Business Loan,Harish P.,810000,2026-04-02,Rejected,,10
+LD01013,CN0113,Business Loan,Pooja P.,1190000,2026-10-20,Submitted,,10
+LD01014,CN0113,Business Loan,Harish K.,2770000,2026-04-15,Disbursed,,9
+LD01015,CN0113,Loan Against Property,Anita I.,6570000,2026-09-14,Disbursed,,7
+LD01016,CN0113,Personal Loan,Ganesh M.,330000,2026-07-02,Rejected,,1
+LD01017,CN0113,Professional Loan,Sachin P.,980000,2026-05-11,Rejected,,9
+LD01018,CN0113,Personal Loan,Nikhil N.,740000,2026-08-22,Rejected,,0
+LD01019,CN0113,Professional Loan,Suresh S.,2630000,2026-07-24,Disbursed,,3
+LD01020,CN0113,Business Loan,Kavita P.,2460000,2026-03-25,Rejected,,11
+LD01021,CN0113,Professional Loan,Nikhil G.,1960000,2026-03-24,Rejected,,7
+LD01022,CN0113,Business Loan,Fatima K.,1670000,2026-10-25,Documents pending,Last 3 months bank statement,10
+LD01023,CN0114,Professional Loan,Vikram J.,750000,2026-05-17,Disbursed,,9
+LD01024,CN0114,Professional Loan,Sachin P.,570000,2026-04-23,Disbursed,,11
+LD01025,CN0114,Professional Loan,Sachin M.,1500000,2026-10-22,Submitted,,2
+LD01026,CN0114,Professional Loan,Meera A.,1870000,2026-04-15,Disbursed,,6
+LD01027,CN0114,Professional Loan,Deepa K.,2090000,2026-07-12,Rejected,,2
+LD01028,CN0114,Personal Loan,Sachin R.,1080000,2026-03-28,Disbursed,,11
+LD01029,CN0114,Business Loan,Karthik K.,3140000,2026-04-29,Disbursed,,10
+LD01030,CN0114,Professional Loan,Rohit M.,900000,2026-09-27,Documents pending,Last 3 months bank statement,10
+LD01031,CN0114,Personal Loan,Jyoti K.,360000,2026-09-30,Sanctioned,,9
+LD01032,CN0114,Professional Loan,Vikram R.,1230000,2026-05-01,Disbursed,,9
+LD01033,CN0114,Professional Loan,Pooja J.,2540000,2026-07-23,Rejected,,5
+LD01034,CN0114,Personal Loan,Shabana R.,420000,2026-09-01,Disbursed,,9
+LD01035,CN0114,Business Loan,Harish S.,1940000,2026-03-17,Disbursed,,6
+LD01036,CN0114,Professional Loan,Lakshmi M.,830000,2026-09-01,Rejected,,11
+LD01037,CN0114,Business Loan,Prakash K.,2950000,2026-10-08,Sanctioned,,7
+LD01038,CN0114,Business Loan,Suresh K.,3450000,2026-04-09,Rejected,,5
+LD01039,CN0114,Personal Loan,Karthik P.,1080000,2026-07-03,Disbursed,,6
+LD01040,CN0114,Professional Loan,Arvind K.,2370000,2026-07-07,Rejected,,5
+LD01041,CN0114,Personal Loan,Venkat K.,440000,2026-08-18,Rejected,,6
+LD01042,CN0114,Professional Loan,Kavita A.,510000,2026-03-17,Disbursed,,0
+LD01043,CN0115,Education Loan,Imran S.,2440000,2026-04-17,Sanctioned,,3
+LD01044,CN0115,Education Loan,Prakash K.,2470000,2026-07-21,Rejected,,0
+LD01045,CN0115,Education Loan,Usha K.,1000000,2026-10-12,Disbursed,,9
+LD01046,CN0115,Education Loan,Rizwan G.,1130000,2026-08-29,Disbursed,,5
+LD01047,CN0115,Personal Loan,Sachin K.,990000,2026-05-21,Rejected,,9
+LD01048,CN0115,Education Loan,Deepa S.,560000,2026-10-05,Login,,2
+LD01049,CN0115,Education Loan,Kavita K.,1380000,2026-08-29,Disbursed,,1
+LD01050,CN0115,Education Loan,Venkat R.,1830000,2026-08-07,Rejected,,5
+LD01051,CN0115,Education Loan,Lakshmi I.,1770000,2026-10-07,Disbursed,,8
+LD01052,CN0115,Personal Loan,Lakshmi K.,900000,2026-06-11,Disbursed,,6
+LD01053,CN0116,Loan Against Property,Harish M.,7420000,2026-08-10,Disbursed,,7
+LD01054,CN0116,Home Loan,Deepa S.,8480000,2026-09-29,Disbursed,,7
+LD01055,CN0116,Loan Against Property,Fatima K.,1550000,2026-09-02,Disbursed,,8
+LD01056,CN0116,Home Loan,Rohit N.,2000000,2026-09-04,Disbursed,,5
+LD01057,CN0117,Home Loan,Harish S.,3380000,2026-10-10,Rejected,,1
+LD01058,CN0117,Personal Loan,Meera R.,1000000,2026-05-30,Sanctioned,,5
+LD01059,CN0117,Home Loan,Pooja I.,7550000,2026-03-24,Disbursed,,1
+LD01060,CN0117,Home Loan,Pooja V.,4560000,2026-06-19,Rejected,,6
+LD01061,CN0117,Home Loan,Anita M.,8760000,2026-07-05,Disbursed,,11
+LD01062,CN0117,Home Loan,Sameer K.,8870000,2026-08-02,Rejected,,0
+LD01063,CN0117,Home Loan,Harish S.,6980000,2026-03-25,Disbursed,,11
+LD01064,CN0117,Loan Against Property,Manoj R.,3930000,2026-04-11,Disbursed,,7
+LD01065,CN0117,Loan Against Property,Sameer J.,1510000,2026-05-30,Disbursed,,7
+LD01066,CN0117,Home Loan,Imran J.,3800000,2026-06-24,Rejected,,7
+LD01067,CN0117,Home Loan,Fatima R.,3530000,2026-07-19,Disbursed,,0
+LD01068,CN0117,Home Loan,Rekha K.,4360000,2026-08-23,Disbursed,,8
+LD01069,CN0117,Home Loan,Nandini M.,6830000,2026-07-29,Sanctioned,,4
+LD01070,CN0117,Personal Loan,Usha A.,580000,2026-06-20,Disbursed,,4
+LD01071,CN0117,Home Loan,Imran J.,2140000,2026-09-10,Disbursed,,7
+LD01072,CN0117,Home Loan,Lakshmi N.,8860000,2026-03-21,Disbursed,,2
+LD01073,CN0117,Home Loan,Harish K.,5060000,2026-05-07,Disbursed,,2
+LD01074,CN0117,Loan Against Property,Shabana R.,4750000,2026-10-30,Disbursed,,6
+LD01075,CN0117,Loan Against Property,Kavita N.,5220000,2026-06-13,Disbursed,,7
+LD01076,CN0117,Loan Against Property,Ganesh M.,1920000,2026-08-05,Disbursed,,5
+LD01077,CN0117,Personal Loan,Kavita S.,980000,2026-07-24,Disbursed,,2
+LD01078,CN0117,Personal Loan,Jyoti M.,460000,2026-08-19,Rejected,,3
+LD01079,CN0117,Personal Loan,Arvind S.,780000,2026-08-15,Sanctioned,,6
+LD01080,CN0117,Home Loan,Manoj R.,8600000,2026-08-22,Disbursed,,0
+LD01081,CN0117,Loan Against Property,Usha P.,7620000,2026-05-26,Rejected,,7
+LD01082,CN0117,Loan Against Property,Harish K.,6970000,2026-05-17,Disbursed,,0
+LD01083,CN0118,Credit Card,Anita N.,0,2026-06-17,Sanctioned,,3
+LD01084,CN0118,Education Loan,Manoj S.,1230000,2026-04-10,Disbursed,,1
+LD01085,CN0118,Personal Loan,Manoj P.,210000,2026-08-06,Disbursed,,3
+LD01086,CN0118,Education Loan,Imran R.,1810000,2026-10-03,Sanctioned,,1
+LD01087,CN0118,Credit Card,Karthik K.,0,2026-04-15,Disbursed,,2
+LD01088,CN0118,Education Loan,Rohit N.,790000,2026-05-21,Disbursed,,5
+LD01089,CN0118,Education Loan,Mahesh N.,660000,2026-04-25,Disbursed,,3
+LD01090,CN0118,Personal Loan,Rekha R.,1160000,2026-06-12,Sanctioned,,2
+LD01091,CN0118,Credit Card,Manoj K.,0,2026-10-12,Rejected,,3
+LD01092,CN0118,Personal Loan,Prakash K.,230000,2026-08-07,Disbursed,,0
+LD01093,CN0119,Education Loan,Rizwan V.,1790000,2026-09-08,Disbursed,,2
+LD01094,CN0119,Personal Loan,Fatima G.,580000,2026-10-28,Login,,6
+LD01095,CN0119,Education Loan,Shabana S.,1410000,2026-09-19,Login,,4
+LD01096,CN0119,Personal Loan,Jyoti K.,690000,2026-08-15,Disbursed,,0
+LD01097,CN0119,Education Loan,Imran R.,970000,2026-10-12,Sanctioned,,6
+LD01098,CN0120,Business Loan,Manoj P.,3690000,2026-11-02,Rejected,,3
+LD01099,CN0121,Home Loan,Arvind P.,7800000,2026-03-16,Disbursed,,8
+LD01100,CN0121,Loan Against Property,Rekha G.,1880000,2026-08-04,Rejected,,3
+LD01101,CN0121,Loan Against Property,Usha R.,4320000,2026-04-30,Disbursed,,1
+LD01102,CN0121,Home Loan,Kavita S.,3890000,2026-07-12,Rejected,,10
+LD01103,CN0121,Home Loan,Sunita M.,8850000,2026-10-02,Rejected,,11
+LD01104,CN0121,Home Loan,Ganesh N.,8350000,2026-08-01,Disbursed,,11
+LD01105,CN0121,Home Loan,Meera J.,3880000,2026-03-12,Rejected,,2
+LD01106,CN0121,Home Loan,Harish K.,2560000,2026-06-19,Disbursed,,4
+LD01107,CN0121,Loan Against Property,Usha K.,2870000,2026-03-14,Disbursed,,2
+LD01108,CN0121,Home Loan,Jyoti M.,8400000,2026-08-23,Disbursed,,11
+LD01109,CN0121,Loan Against Property,Arvind I.,6750000,2026-08-21,Disbursed,,7
+LD01110,CN0121,Home Loan,Venkat M.,8280000,2026-07-17,Disbursed,,6
+LD01111,CN0122,Home Loan,Harish R.,8690000,2026-10-17,Disbursed,,2
+LD01112,CN0122,Loan Against Property,Anita S.,7570000,2026-03-11,Disbursed,,11
+LD01113,CN0122,Home Loan,Manoj S.,8460000,2026-08-08,Disbursed,,10
+LD01114,CN0122,Loan Against Property,Anita P.,2130000,2026-10-19,Submitted,,8
+LD01115,CN0122,Loan Against Property,Srinivas K.,4640000,2026-05-19,Disbursed,,11
+LD01116,CN0122,Loan Against Property,Kavita K.,3140000,2026-04-24,Disbursed,,6
+LD01117,CN0123,Professional Loan,Jyoti V.,1110000,2026-10-14,Login,,7
+LD01118,CN0123,Personal Loan,Usha K.,940000,2026-07-15,Disbursed,,8
+LD01119,CN0123,Personal Loan,Nikhil S.,680000,2026-06-18,Disbursed,,9
+LD01120,CN0123,Professional Loan,Jyoti M.,1240000,2026-06-09,Disbursed,,4
+LD01121,CN0123,Professional Loan,Nikhil K.,1410000,2026-06-28,Disbursed,,1
+LD01122,CN0123,Business Loan,Arvind R.,700000,2026-04-21,Rejected,,3
+LD01123,CN0123,Professional Loan,Manoj S.,1890000,2026-08-24,Disbursed,,4
+LD01124,CN0123,Professional Loan,Rizwan M.,2880000,2026-05-16,Disbursed,,6
+LD01125,CN0123,Business Loan,Anita K.,3100000,2026-05-11,Disbursed,,10
+LD01126,CN0123,Business Loan,Imran N.,1410000,2026-09-06,Disbursed,,0
+LD01127,CN0124,Business Loan,Usha P.,1750000,2026-07-30,Disbursed,,9
+LD01128,CN0124,Professional Loan,Venkat J.,2360000,2026-10-23,Rejected,,5
+LD01129,CN0124,Professional Loan,Vikram P.,1730000,2026-05-31,Disbursed,,0
+LD01130,CN0124,Professional Loan,Kavita R.,1690000,2026-10-08,Submitted,,2
+LD01131,CN0124,Personal Loan,Venkat R.,870000,2026-07-27,Sanctioned,,7
+LD01132,CN0124,Personal Loan,Anita I.,780000,2026-06-28,Sanctioned,,11
+LD01133,CN0124,Business Loan,Ganesh V.,620000,2026-03-22,Disbursed,,7
+LD01134,CN0124,Business Loan,Pooja P.,3530000,2026-10-17,Documents pending,Last 3 months bank statement,3
+LD01135,CN0124,Personal Loan,Nikhil P.,1080000,2026-08-01,Disbursed,,6
+LD01136,CN0124,Professional Loan,Jyoti J.,2310000,2026-05-15,Disbursed,,2
+LD01137,CN0124,Professional Loan,Kavita M.,2340000,2026-06-22,Rejected,,10
+LD01138,CN0124,Professional Loan,Sameer G.,1400000,2026-03-21,Disbursed,,0
+LD01139,CN0124,Professional Loan,Ganesh P.,1060000,2026-05-30,Disbursed,,1
+LD01140,CN0124,Business Loan,Shabana K.,2480000,2026-05-07,Disbursed,,9
+LD01141,CN0124,Personal Loan,Pooja M.,850000,2026-03-15,Disbursed,,9
+LD01142,CN0125,Two-Wheeler Loan,Jyoti A.,80000,2026-10-31,Documents pending,Last 3 months bank statement,0
+LD01143,CN0125,Two-Wheeler Loan,Prakash A.,100000,2026-10-27,Documents pending,Last 3 months bank statement,7
+LD01144,CN0125,Used Car Loan,Prakash V.,1050000,2026-08-13,Sanctioned,,11
+LD01145,CN0126,Personal Loan,Harish G.,920000,2026-10-03,Login,,9
+LD01146,CN0126,Education Loan,Suresh A.,2470000,2026-05-27,Rejected,,3
+LD01147,CN0126,Personal Loan,Sameer A.,530000,2026-09-19,Disbursed,,2
+LD01148,CN0126,Personal Loan,Sunita G.,880000,2026-08-01,Disbursed,,3
+LD01149,CN0126,Education Loan,Venkat K.,1010000,2026-06-23,Rejected,,7
+LD01150,CN0126,Education Loan,Nandini J.,1200000,2026-04-10,Rejected,,8
+LD01151,CN0126,Education Loan,Manoj P.,1750000,2026-08-23,Disbursed,,3
+LD01152,CN0126,Personal Loan,Anita P.,630000,2026-06-08,Disbursed,,11
+LD01153,CN0126,Education Loan,Rohit P.,2400000,2026-08-23,Disbursed,,11
+LD01154,CN0126,Education Loan,Rizwan R.,760000,2026-04-02,Disbursed,,4
+LD01155,CN0126,Personal Loan,Rizwan J.,940000,2026-09-09,Disbursed,,1
+LD01156,CN0126,Personal Loan,Manoj R.,810000,2026-09-29,Disbursed,,9
+LD01157,CN0126,Education Loan,Sameer N.,2070000,2026-07-22,Disbursed,,5
+LD01158,CN0126,Education Loan,Rekha N.,1180000,2026-09-18,Login,,11
+LD01159,CN0126,Education Loan,Venkat J.,570000,2026-07-17,Disbursed,,11
+LD01160,CN0126,Personal Loan,Sunita P.,440000,2026-09-22,Disbursed,,7
+LD01161,CN0126,Personal Loan,Rohit K.,260000,2026-03-16,Rejected,,9
+LD01162,CN0126,Education Loan,Rohit J.,1010000,2026-03-08,Sanctioned,,7
+LD01163,CN0126,Education Loan,Kavita K.,1760000,2026-09-21,Login,,2
+LD01164,CN0126,Personal Loan,Nandini I.,530000,2026-05-21,Disbursed,,11
+LD01165,CN0126,Education Loan,Rohit R.,1750000,2026-08-25,Rejected,,2
+LD01166,CN0126,Personal Loan,Meera G.,240000,2026-04-24,Rejected,,6
+LD01167,CN0126,Personal Loan,Fatima S.,1150000,2026-06-30,Disbursed,,10
+LD01168,CN0126,Education Loan,Deepa M.,1490000,2026-03-10,Disbursed,,9
+LD01169,CN0126,Education Loan,Manoj S.,2480000,2026-07-19,Rejected,,8
+LD01170,CN0126,Education Loan,Suresh R.,2050000,2026-08-22,Disbursed,,6
+LD01171,CN0127,Loan Against Property,Venkat N.,3160000,2026-04-21,Disbursed,,10
+LD01172,CN0127,Home Loan,Rohit K.,5400000,2026-09-27,Documents pending,Last 3 months bank statement,1
+LD01173,CN0127,Personal Loan,Sachin K.,410000,2026-05-01,Disbursed,,11
+LD01174,CN0127,Home Loan,Kavita R.,7180000,2026-09-13,Disbursed,,11
+LD01175,CN0127,Home Loan,Harish M.,6410000,2026-06-27,Rejected,,3
+LD01176,CN0127,Loan Against Property,Suresh R.,7610000,2026-05-25,Rejected,,8
+LD01177,CN0127,Loan Against Property,Pooja A.,6870000,2026-06-08,Rejected,,5
+LD01178,CN0127,Personal Loan,Sachin A.,840000,2026-10-19,Login,,1
+LD01179,CN0128,Two-Wheeler Loan,Meera N.,190000,2026-07-16,Disbursed,,6
+LD01180,CN0128,Used Car Loan,Manoj K.,320000,2026-07-21,Sanctioned,,7
+LD01181,CN0128,Used Car Loan,Meera G.,750000,2026-08-12,Rejected,,7
+LD01182,CN0128,Used Car Loan,Pooja I.,400000,2026-04-10,Rejected,,8
+LD01183,CN0128,Two-Wheeler Loan,Manoj P.,190000,2026-03-11,Disbursed,,2
+LD01184,CN0128,Two-Wheeler Loan,Pooja K.,60000,2026-06-21,Sanctioned,,11
+LD01185,CN0128,Used Car Loan,Srinivas P.,890000,2026-04-04,Disbursed,,7
+LD01186,CN0128,Used Car Loan,Meera P.,800000,2026-06-23,Rejected,,4
+LD01187,CN0128,Two-Wheeler Loan,Sameer R.,140000,2026-05-19,Rejected,,5
+LD01188,CN0128,Used Car Loan,Sameer P.,450000,2026-10-19,Login,,7
+LD01189,CN0128,Personal Loan,Nandini J.,580000,2026-08-21,Disbursed,,6
+LD01190,CN0128,Two-Wheeler Loan,Sunita I.,170000,2026-07-22,Disbursed,,0
+LD01191,CN0129,Professional Loan,Ganesh R.,3000000,2026-06-15,Disbursed,,9
+LD01192,CN0129,Professional Loan,Jyoti P.,2320000,2026-04-20,Disbursed,,3
+LD01193,CN0129,Personal Loan,Prakash G.,1110000,2026-08-03,Disbursed,,4
+LD01194,CN0129,Personal Loan,Sameer A.,820000,2026-07-23,Disbursed,,9
+LD01195,CN0129,Professional Loan,Usha M.,1440000,2026-09-02,Rejected,,9
+LD01196,CN0129,Business Loan,Nikhil J.,910000,2026-05-18,Disbursed,,1
+LD01197,CN0129,Professional Loan,Imran A.,2390000,2026-09-21,Disbursed,,0
+LD01198,CN0129,Business Loan,Rizwan R.,3930000,2026-04-22,Disbursed,,2
+LD01199,CN0129,Professional Loan,Nandini S.,560000,2026-04-11,Rejected,,8
+LD01200,CN0129,Professional Loan,Manoj A.,1620000,2026-07-02,Disbursed,,0
+LD01201,CN0130,Home Loan,Usha K.,8880000,2026-09-24,Documents pending,Last 3 months bank statement,11
+LD01202,CN0130,Personal Loan,Ganesh S.,240000,2026-09-06,Disbursed,,4
+LD01203,CN0130,Home Loan,Prakash M.,8700000,2026-05-07,Rejected,,0
+LD01204,CN0130,Home Loan,Mahesh P.,4050000,2026-06-12,Disbursed,,2
+LD01205,CN0130,Credit Card,Ganesh K.,0,2026-08-28,Rejected,,1
+LD01206,CN0130,Personal Loan,Usha M.,1130000,2026-05-27,Rejected,,5
+LD01207,CN0130,Credit Card,Kavita V.,0,2026-03-24,Disbursed,,9
+LD01208,CN0130,Home Loan,Ganesh V.,2900000,2026-05-19,Disbursed,,2
+LD01209,CN0130,Education Loan,Jyoti N.,1580000,2026-05-28,Disbursed,,0
+LD01210,CN0130,Home Loan,Pooja K.,3800000,2026-06-19,Rejected,,1
+LD01211,CN0130,Education Loan,Sameer M.,390000,2026-05-31,Rejected,,2
+LD01212,CN0131,Business Loan,Imran R.,920000,2026-07-10,Rejected,,4
+LD01213,CN0131,Business Loan,Harish R.,2040000,2026-05-29,Rejected,,1
+LD01214,CN0131,Professional Loan,Meera I.,850000,2026-03-12,Rejected,,11
+LD01215,CN0131,Professional Loan,Nikhil K.,1950000,2026-07-19,Rejected,,10
+LD01216,CN0131,Business Loan,Shabana K.,1330000,2026-05-26,Rejected,,1
+LD01217,CN0131,Business Loan,Lakshmi I.,2530000,2026-07-23,Disbursed,,6
+LD01218,CN0131,Personal Loan,Venkat J.,1000000,2026-09-18,Documents pending,Last 3 months bank statement,5
+LD01219,CN0132,Personal Loan,Imran P.,840000,2026-05-25,Disbursed,,10
+LD01220,CN0132,Personal Loan,Imran K.,1170000,2026-07-06,Disbursed,,10
+LD01221,CN0132,Credit Card,Arvind G.,0,2026-08-10,Disbursed,,9
+LD01222,CN0132,Personal Loan,Prakash S.,300000,2026-07-10,Rejected,,11
+LD01223,CN0132,Personal Loan,Ganesh V.,220000,2026-08-09,Sanctioned,,3
+LD01224,CN0132,Credit Card,Shabana G.,0,2026-03-24,Rejected,,5
+LD01225,CN0132,Personal Loan,Imran K.,570000,2026-10-11,Login,,1
+LD01226,CN0132,Credit Card,Sameer M.,0,2026-10-31,Login,,4
+LD01227,CN0132,Credit Card,Fatima S.,0,2026-08-31,Disbursed,,4
+LD01228,CN0132,Home Loan,Kavita P.,2960000,2026-06-20,Disbursed,,7
+LD01229,CN0132,Home Loan,Deepa J.,4740000,2026-08-21,Rejected,,2
+LD01230,CN0132,Credit Card,Anita M.,0,2026-09-30,Documents pending,Last 3 months bank statement,1
+LD01231,CN0132,Home Loan,Harish P.,5360000,2026-08-05,Disbursed,,1
+LD01232,CN0132,Education Loan,Vikram K.,1240000,2026-04-14,Disbursed,,10
+LD01233,CN0132,Credit Card,Nandini I.,0,2026-06-01,Disbursed,,0
+LD01234,CN0132,Education Loan,Ganesh I.,2440000,2026-05-29,Disbursed,,10
+LD01235,CN0132,Personal Loan,Vikram J.,310000,2026-07-09,Disbursed,,3
+LD01236,CN0132,Credit Card,Usha M.,0,2026-05-24,Disbursed,,1
+LD01237,CN0133,Loan Against Property,Harish M.,3190000,2026-07-03,Disbursed,,7
+LD01238,CN0133,Loan Against Property,Harish K.,3380000,2026-06-30,Sanctioned,,0
+LD01239,CN0133,Home Loan,Venkat R.,5840000,2026-06-16,Disbursed,,8
+LD01240,CN0133,Loan Against Property,Srinivas S.,3340000,2026-05-31,Rejected,,10
+LD01241,CN0133,Home Loan,Meera S.,4190000,2026-08-17,Rejected,,11
+LD01242,CN0133,Loan Against Property,Ganesh N.,6940000,2026-06-05,Disbursed,,6
+LD01243,CN0133,Loan Against Property,Sunita M.,4200000,2026-04-26,Disbursed,,4
+LD01244,CN0134,Education Loan,Meera P.,2480000,2026-06-02,Rejected,,11
+LD01245,CN0134,Credit Card,Harish K.,0,2026-05-08,Disbursed,,11
+LD01246,CN0134,Credit Card,Manoj M.,0,2026-08-18,Disbursed,,10
+LD01247,CN0134,Education Loan,Arvind G.,2090000,2026-04-08,Disbursed,,8
+LD01248,CN0134,Credit Card,Shabana M.,0,2026-05-09,Rejected,,9
+LD01249,CN0134,Personal Loan,Fatima K.,360000,2026-06-12,Disbursed,,10
+LD01250,CN0134,Credit Card,Nandini R.,0,2026-05-31,Disbursed,,2
+LD01251,CN0134,Education Loan,Karthik K.,2140000,2026-09-16,Disbursed,,2
+LD01252,CN0134,Personal Loan,Deepa N.,680000,2026-10-14,Disbursed,,9
+LD01253,CN0134,Education Loan,Srinivas A.,760000,2026-05-20,Disbursed,,10
+LD01254,CN0134,Education Loan,Arvind P.,1130000,2026-06-22,Disbursed,,1
+LD01255,CN0134,Personal Loan,Rizwan J.,790000,2026-10-12,Login,,6
+LD01256,CN0134,Education Loan,Sunita I.,760000,2026-03-17,Rejected,,6
+LD01257,CN0134,Personal Loan,Nikhil P.,360000,2026-04-27,Rejected,,5
+LD01258,CN0134,Personal Loan,Meera M.,620000,2026-10-03,Disbursed,,10
+LD01259,CN0134,Credit Card,Harish J.,0,2026-03-11,Disbursed,,2
+LD01260,CN0134,Credit Card,Rohit J.,0,2026-05-04,Disbursed,,5
+LD01261,CN0134,Credit Card,Rekha K.,0,2026-06-27,Sanctioned,,10
+LD01262,CN0134,Education Loan,Kavita M.,1200000,2026-06-11,Disbursed,,7
+LD01263,CN0134,Personal Loan,Venkat P.,200000,2026-07-22,Disbursed,,10
+LD01264,CN0134,Home Loan,Kavita G.,6050000,2026-09-17,Disbursed,,9
+LD01265,CN0134,Credit Card,Shabana I.,0,2026-08-06,Rejected,,8
+LD01266,CN0134,Personal Loan,Karthik P.,440000,2026-04-21,Disbursed,,8
+LD01267,CN0134,Home Loan,Prakash I.,5020000,2026-09-20,Sanctioned,,10
+LD01268,CN0134,Personal Loan,Pooja A.,470000,2026-09-24,Login,,8
+LD01269,CN0134,Personal Loan,Jyoti M.,330000,2026-10-21,Documents pending,Last 3 months bank statement,3
+LD01270,CN0135,Home Loan,Lakshmi J.,3620000,2026-09-27,Disbursed,,3
+LD01271,CN0135,Home Loan,Imran G.,2210000,2026-07-05,Rejected,,2
+LD01272,CN0135,Loan Against Property,Rohit S.,7690000,2026-08-08,Disbursed,,4
+LD01273,CN0135,Loan Against Property,Venkat K.,4370000,2026-07-23,Disbursed,,6
+LD01274,CN0135,Home Loan,Ganesh J.,4490000,2026-07-15,Disbursed,,2
+LD01275,CN0135,Loan Against Property,Manoj I.,3600000,2026-04-17,Disbursed,,4
+LD01276,CN0135,Loan Against Property,Rohit M.,2810000,2026-11-02,Documents pending,Last 3 months bank statement,3
+LD01277,CN0135,Loan Against Property,Sameer K.,2720000,2026-04-07,Disbursed,,8
+LD01278,CN0135,Personal Loan,Sameer K.,1120000,2026-04-08,Disbursed,,2
+LD01279,CN0135,Personal Loan,Mahesh J.,640000,2026-06-12,Disbursed,,6
+LD01280,CN0135,Loan Against Property,Mahesh N.,1880000,2026-08-02,Sanctioned,,11
+LD01281,CN0135,Loan Against Property,Sunita G.,6230000,2026-07-11,Disbursed,,11
+LD01282,CN0135,Home Loan,Arvind G.,4330000,2026-04-25,Rejected,,11
+LD01283,CN0135,Loan Against Property,Fatima P.,2030000,2026-09-07,Disbursed,,7
+LD01284,CN0135,Home Loan,Rizwan R.,5820000,2026-08-09,Rejected,,8
+LD01285,CN0135,Home Loan,Fatima K.,6580000,2026-09-10,Disbursed,,11
+LD01286,CN0135,Loan Against Property,Nikhil A.,6790000,2026-04-14,Disbursed,,8
+LD01287,CN0135,Personal Loan,Suresh N.,1170000,2026-09-15,Rejected,,9
+LD01288,CN0135,Loan Against Property,Rizwan I.,3650000,2026-09-10,Rejected,,11
+LD01289,CN0135,Personal Loan,Kavita R.,350000,2026-03-18,Disbursed,,11
+LD01290,CN0135,Home Loan,Imran M.,8200000,2026-07-20,Disbursed,,6
+LD01291,CN0136,Business Loan,Nandini J.,1470000,2026-10-25,Documents pending,Last 3 months bank statement,6
+LD01292,CN0136,Business Loan,Meera S.,2380000,2026-10-21,Submitted,,7
+LD01293,CN0138,Home Loan,Lakshmi K.,2510000,2026-08-28,Rejected,,4
+LD01294,CN0138,Credit Card,Lakshmi N.,0,2026-08-03,Disbursed,,6
+LD01295,CN0138,Personal Loan,Arvind K.,330000,2026-03-25,Disbursed,,3
+LD01296,CN0138,Personal Loan,Lakshmi K.,860000,2026-08-14,Disbursed,,9
+LD01297,CN0138,Credit Card,Lakshmi S.,0,2026-04-08,Disbursed,,0
+LD01298,CN0138,Credit Card,Ganesh S.,0,2026-04-11,Rejected,,4
+LD01299,CN0138,Education Loan,Rohit R.,660000,2026-07-07,Disbursed,,6
+LD01300,CN0138,Credit Card,Fatima G.,0,2026-04-15,Disbursed,,0
+LD01301,CN0138,Credit Card,Deepa N.,0,2026-09-22,Sanctioned,,1
+LD01302,CN0138,Education Loan,Ganesh M.,1130000,2026-07-06,Disbursed,,11
+LD01303,CN0138,Credit Card,Pooja J.,0,2026-08-03,Disbursed,,5
+LD01304,CN0138,Personal Loan,Suresh K.,940000,2026-05-17,Disbursed,,3
+LD01305,CN0139,Credit Card,Karthik R.,0,2026-07-03,Disbursed,,0
+LD01306,CN0139,Education Loan,Rohit J.,1160000,2026-10-20,Submitted,,6
+LD01307,CN0139,Education Loan,Meera V.,800000,2026-07-14,Disbursed,,8
+LD01308,CN0139,Personal Loan,Shabana A.,1140000,2026-10-26,Login,,0
+LD01309,CN0139,Personal Loan,Nikhil K.,1190000,2026-08-08,Rejected,,4
+LD01310,CN0139,Personal Loan,Deepa G.,610000,2026-04-05,Disbursed,,0
+LD01311,CN0139,Education Loan,Karthik A.,840000,2026-04-16,Rejected,,7
+LD01312,CN0139,Credit Card,Sunita K.,0,2026-10-27,Login,,10
+LD01313,CN0139,Education Loan,Suresh P.,1370000,2026-07-03,Rejected,,8
+LD01314,CN0139,Home Loan,Venkat I.,5830000,2026-10-12,Submitted,,9
+LD01315,CN0139,Personal Loan,Nikhil P.,300000,2026-10-11,Disbursed,,5
+LD01316,CN0139,Education Loan,Kavita S.,1480000,2026-06-05,Disbursed,,6
+LD01317,CN0139,Home Loan,Usha V.,8970000,2026-05-13,Disbursed,,11
+LD01318,CN0139,Credit Card,Rizwan M.,0,2026-06-15,Disbursed,,1
+LD01319,CN0139,Home Loan,Imran I.,2440000,2026-09-11,Rejected,,1
+LD01320,CN0139,Credit Card,Sameer M.,0,2026-04-10,Rejected,,1
+LD01321,CN0139,Credit Card,Suresh J.,0,2026-06-20,Rejected,,5
+LD01322,CN0139,Personal Loan,Nandini K.,680000,2026-04-10,Disbursed,,2
+LD01323,CN0139,Personal Loan,Pooja P.,880000,2026-10-08,Rejected,,6
+LD01324,CN0139,Credit Card,Kavita M.,0,2026-06-27,Disbursed,,3
+LD01325,CN0140,Professional Loan,Meera J.,1420000,2026-08-29,Disbursed,,3
+LD01326,CN0140,Professional Loan,Rizwan I.,1220000,2026-07-11,Disbursed,,11
+LD01327,CN0140,Personal Loan,Anita S.,480000,2026-03-17,Disbursed,,2
+LD01328,CN0140,Personal Loan,Fatima K.,400000,2026-07-27,Disbursed,,8
+LD01329,CN0140,Business Loan,Suresh S.,2750000,2026-08-24,Disbursed,,1
+LD01330,CN0140,Personal Loan,Prakash K.,1110000,2026-08-11,Rejected,,4
+LD01331,CN0140,Personal Loan,Shabana N.,500000,2026-09-08,Rejected,,6
+LD01332,CN0140,Business Loan,Arvind P.,3610000,2026-04-09,Disbursed,,9
+LD01333,CN0141,Education Loan,Kavita K.,1820000,2026-05-21,Sanctioned,,7
+LD01334,CN0141,Education Loan,Nikhil G.,1990000,2026-07-07,Disbursed,,8
+LD01335,CN0141,Personal Loan,Jyoti M.,1050000,2026-05-03,Sanctioned,,2
+LD01336,CN0141,Education Loan,Jyoti K.,920000,2026-04-29,Sanctioned,,3
+LD01337,CN0141,Education Loan,Deepa R.,1690000,2026-04-08,Sanctioned,,9
+LD01338,CN0141,Personal Loan,Sunita J.,880000,2026-07-01,Disbursed,,11
+LD01339,CN0141,Education Loan,Nandini P.,1100000,2026-10-14,Sanctioned,,2
+LD01340,CN0142,Personal Loan,Shabana A.,330000,2026-10-22,Documents pending,Last 3 months bank statement,4
+LD01341,CN0142,Professional Loan,Sunita N.,1190000,2026-03-08,Disbursed,,2
+LD01342,CN0142,Professional Loan,Sameer G.,2470000,2026-06-29,Rejected,,3
+LD01343,CN0142,Business Loan,Srinivas N.,3900000,2026-09-26,Documents pending,Last 3 months bank statement,10
+LD01344,CN0142,Professional Loan,Shabana M.,1270000,2026-05-07,Rejected,,11
+LD01345,CN0142,Personal Loan,Fatima S.,1150000,2026-04-02,Disbursed,,0
+LD01346,CN0142,Professional Loan,Srinivas A.,1740000,2026-05-10,Disbursed,,7
+LD01347,CN0142,Personal Loan,Prakash M.,780000,2026-04-13,Rejected,,2
+LD01348,CN0142,Professional Loan,Mahesh V.,1670000,2026-05-09,Disbursed,,8
+LD01349,CN0142,Professional Loan,Suresh S.,2710000,2026-10-10,Sanctioned,,4
+LD01350,CN0142,Personal Loan,Sunita M.,490000,2026-10-22,Submitted,,0
+LD01351,CN0142,Professional Loan,Anita I.,670000,2026-07-04,Disbursed,,9
+LD01352,CN0142,Professional Loan,Venkat S.,1610000,2026-10-30,Login,,1
+LD01353,CN0142,Professional Loan,Lakshmi M.,2940000,2026-09-13,Disbursed,,7
+LD01354,CN0142,Business Loan,Fatima A.,3620000,2026-08-12,Disbursed,,5
+LD01355,CN0142,Personal Loan,Ganesh S.,700000,2026-10-29,Submitted,,7
+LD01356,CN0142,Professional Loan,Lakshmi A.,2130000,2026-09-03,Rejected,,2
+LD01357,CN0142,Professional Loan,Arvind P.,1980000,2026-05-02,Sanctioned,,2
+LD01358,CN0142,Professional Loan,Meera K.,2870000,2026-10-18,Submitted,,11
+LD01359,CN0143,Credit Card,Sunita S.,0,2026-10-06,Login,,3
+LD01360,CN0143,Two-Wheeler Loan,Rohit M.,100000,2026-07-25,Disbursed,,0
+LD01361,CN0143,Two-Wheeler Loan,Manoj J.,80000,2026-10-15,Disbursed,,1
+LD01362,CN0143,Two-Wheeler Loan,Rizwan G.,120000,2026-10-18,Login,,0
+LD01363,CN0143,Business Loan,Rekha V.,980000,2026-09-22,Documents pending,Last 3 months bank statement,2
+LD01364,CN0143,Personal Loan,Venkat R.,450000,2026-10-10,Disbursed,,10
+LD01365,CN0143,Two-Wheeler Loan,Prakash A.,110000,2026-04-17,Disbursed,,11
+LD01366,CN0143,Personal Loan,Sachin P.,410000,2026-07-06,Disbursed,,5
+LD01367,CN0143,Two-Wheeler Loan,Arvind R.,170000,2026-05-29,Disbursed,,0
+LD01368,CN0143,Credit Card,Srinivas K.,0,2026-06-05,Disbursed,,7
+LD01369,CN0144,Two-Wheeler Loan,Lakshmi I.,170000,2026-05-15,Disbursed,,1
+LD01370,CN0144,Two-Wheeler Loan,Mahesh A.,100000,2026-05-24,Disbursed,,7
+LD01371,CN0144,Business Loan,Meera R.,3430000,2026-11-02,Submitted,,2
+LD01372,CN0144,Business Loan,Venkat K.,1750000,2026-03-21,Disbursed,,7
+LD01373,CN0145,Education Loan,Usha A.,660000,2026-05-13,Disbursed,,0
+LD01374,CN0145,Education Loan,Nandini R.,330000,2026-10-26,Sanctioned,,6
+LD01375,CN0145,Education Loan,Harish R.,1060000,2026-10-18,Documents pending,Last 3 months bank statement,2
+LD01376,CN0145,Education Loan,Rohit R.,2060000,2026-07-13,Disbursed,,11
+LD01377,CN0145,Education Loan,Arvind R.,1720000,2026-10-19,Sanctioned,,3
+LD01378,CN0145,Education Loan,Jyoti R.,2340000,2026-08-10,Sanctioned,,4
+LD01379,CN0146,Personal Loan,Rizwan K.,710000,2026-03-26,Disbursed,,8
+LD01380,CN0146,Business Loan,Prakash A.,3680000,2026-07-17,Rejected,,7
+LD01381,CN0146,Two-Wheeler Loan,Mahesh I.,100000,2026-08-16,Disbursed,,3
+LD01382,CN0146,Personal Loan,Fatima R.,330000,2026-03-14,Sanctioned,,0
+LD01383,CN0146,Credit Card,Arvind M.,0,2026-09-20,Documents pending,Last 3 months bank statement,10
+LD01384,CN0146,Personal Loan,Kavita I.,1080000,2026-09-28,Documents pending,Last 3 months bank statement,11
+LD01385,CN0146,Personal Loan,Meera P.,620000,2026-08-10,Disbursed,,3
+LD01386,CN0146,Personal Loan,Karthik S.,800000,2026-07-29,Disbursed,,10
+LD01387,CN0146,Two-Wheeler Loan,Kavita V.,100000,2026-03-21,Disbursed,,1
+LD01388,CN0146,Credit Card,Prakash J.,0,2026-07-01,Rejected,,7
+LD01389,CN0146,Personal Loan,Rohit K.,1100000,2026-04-19,Disbursed,,7
+LD01390,CN0146,Two-Wheeler Loan,Manoj K.,60000,2026-10-26,Submitted,,5
+LD01391,CN0146,Credit Card,Imran P.,0,2026-07-27,Disbursed,,6
+LD01392,CN0146,Business Loan,Arvind R.,3460000,2026-05-15,Disbursed,,5
+LD01393,CN0147,Business Loan,Lakshmi S.,760000,2026-10-29,Documents pending,Last 3 months bank statement,9
+LD01394,CN0148,Education Loan,Arvind P.,2390000,2026-09-27,Login,,5
+LD01395,CN0148,Education Loan,Jyoti S.,770000,2026-10-02,Sanctioned,,6
+LD01396,CN0149,Personal Loan,Rekha K.,360000,2026-08-16,Disbursed,,7
+LD01397,CN0149,Professional Loan,Meera J.,880000,2026-09-07,Disbursed,,3
+LD01398,CN0149,Business Loan,Usha J.,3040000,2026-09-18,Sanctioned,,9
+LD01399,CN0149,Professional Loan,Lakshmi K.,1480000,2026-10-05,Login,,9
+LD01400,CN0149,Business Loan,Sameer R.,1310000,2026-07-19,Rejected,,7
+LD01401,CN0149,Personal Loan,Rizwan V.,710000,2026-07-09,Disbursed,,9
+LD01402,CN0149,Business Loan,Suresh N.,1450000,2026-10-17,Disbursed,,8
+LD01403,CN0149,Professional Loan,Anita R.,2640000,2026-07-19,Disbursed,,4
+LD01404,CN0150,Home Loan,Manoj J.,4280000,2026-04-22,Disbursed,,1
+LD01405,CN0150,Loan Against Property,Sameer S.,3720000,2026-05-25,Rejected,,8
+LD01406,CN0150,Loan Against Property,Srinivas K.,7100000,2026-07-03,Disbursed,,1
+LD01407,CN0150,Loan Against Property,Karthik J.,4520000,2026-07-02,Disbursed,,4
+LD01408,CN0150,Home Loan,Venkat N.,3900000,2026-04-02,Rejected,,10
+LD01409,CN0150,Loan Against Property,Suresh K.,7620000,2026-09-28,Sanctioned,,7
+LD01410,CN0150,Personal Loan,Arvind K.,1070000,2026-10-28,Login,,0
+LD01411,CN0150,Home Loan,Suresh P.,6780000,2026-04-26,Disbursed,,0
+LD01412,CN0151,Home Loan,Rizwan K.,2530000,2026-06-14,Rejected,,2
+LD01413,CN0151,Home Loan,Imran K.,7010000,2026-09-14,Disbursed,,6
+LD01414,CN0151,Loan Against Property,Deepa R.,6860000,2026-06-16,Sanctioned,,11
+LD01415,CN0151,Personal Loan,Meera V.,600000,2026-07-31,Disbursed,,5
+LD01416,CN0151,Home Loan,Imran S.,3780000,2026-10-27,Sanctioned,,10
+LD01417,CN0151,Loan Against Property,Rohit P.,7540000,2026-03-30,Sanctioned,,4
+LD01418,CN0151,Personal Loan,Vikram J.,930000,2026-09-20,Disbursed,,2
+LD01419,CN0151,Home Loan,Kavita R.,7530000,2026-08-19,Disbursed,,9
+LD01420,CN0151,Home Loan,Rizwan S.,2030000,2026-06-15,Rejected,,9
+LD01421,CN0151,Personal Loan,Pooja S.,210000,2026-06-10,Disbursed,,0
+LD01422,CN0151,Loan Against Property,Pooja N.,6530000,2026-08-17,Rejected,,5
+LD01423,CN0151,Home Loan,Rizwan V.,8670000,2026-07-16,Rejected,,6
+LD01424,CN0151,Loan Against Property,Ganesh K.,5540000,2026-06-13,Rejected,,1
+LD01425,CN0151,Loan Against Property,Nandini R.,7090000,2026-08-02,Disbursed,,6
+LD01426,CN0151,Loan Against Property,Nikhil K.,4500000,2026-08-19,Disbursed,,11
+LD01427,CN0151,Home Loan,Harish M.,8790000,2026-06-11,Disbursed,,4
+LD01428,CN0151,Home Loan,Usha M.,5180000,2026-04-29,Rejected,,11
+LD01429,CN0152,Business Loan,Anita P.,1560000,2026-05-11,Disbursed,,1
+LD01430,CN0152,Personal Loan,Rohit S.,770000,2026-06-05,Disbursed,,10
+LD01431,CN0152,Personal Loan,Vikram J.,890000,2026-03-22,Rejected,,6
+LD01432,CN0152,Business Loan,Vikram J.,1620000,2026-06-27,Disbursed,,0
+LD01433,CN0152,Personal Loan,Nandini S.,1000000,2026-09-25,Disbursed,,11
+LD01434,CN0152,Personal Loan,Srinivas R.,360000,2026-07-28,Disbursed,,4
+LD01435,CN0152,Business Loan,Harish K.,1160000,2026-03-26,Rejected,,8
+LD01436,CN0152,Personal Loan,Rizwan M.,970000,2026-09-23,Disbursed,,3
+LD01437,CN0152,Personal Loan,Rizwan M.,490000,2026-03-26,Disbursed,,11
+LD01438,CN0152,Professional Loan,Nandini M.,740000,2026-03-27,Disbursed,,1
+LD01439,CN0152,Professional Loan,Anita A.,1400000,2026-07-24,Rejected,,9
+LD01440,CN0153,Personal Loan,Ganesh P.,1050000,2026-09-18,Documents pending,Last 3 months bank statement,9
+LD01441,CN0153,Education Loan,Shabana K.,540000,2026-08-20,Disbursed,,3
+LD01442,CN0153,Education Loan,Mahesh K.,510000,2026-06-22,Disbursed,,5
+LD01443,CN0153,Education Loan,Mahesh V.,2180000,2026-08-14,Disbursed,,0
+LD01444,CN0153,Education Loan,Fatima N.,1640000,2026-10-29,Login,,5
+LD01445,CN0153,Education Loan,Rekha R.,2350000,2026-06-23,Rejected,,9
+LD01446,CN0153,Education Loan,Deepa R.,1280000,2026-07-01,Rejected,,11
+LD01447,CN0153,Personal Loan,Harish A.,450000,2026-07-03,Rejected,,2
+LD01448,CN0154,Professional Loan,Meera M.,2450000,2026-07-14,Disbursed,,10
+LD01449,CN0154,Professional Loan,Imran J.,1530000,2026-10-12,Login,,7
+LD01450,CN0154,Loan Against Property,Deepa V.,3020000,2026-05-15,Disbursed,,2
+LD01451,CN0154,Loan Against Property,Venkat M.,5730000,2026-05-23,Disbursed,,1
+LD01452,CN0154,Business Loan,Anita J.,3770000,2026-08-26,Rejected,,1
+LD01453,CN0154,Professional Loan,Nikhil K.,500000,2026-09-12,Disbursed,,5
+LD01454,CN0154,Business Loan,Sunita R.,1050000,2026-03-21,Sanctioned,,5
+LD01455,CN0154,Business Loan,Kavita P.,1100000,2026-04-19,Disbursed,,11
+LD01456,CN0154,Business Loan,Imran I.,910000,2026-05-23,Disbursed,,7
+LD01457,CN0154,Personal Loan,Sachin M.,800000,2026-06-15,Disbursed,,7
+LD01458,CN0154,Business Loan,Mahesh K.,2230000,2026-06-08,Sanctioned,,10
+LD01459,CN0154,Personal Loan,Anita R.,900000,2026-09-22,Documents pending,Last 3 months bank statement,7
+LD01460,CN0154,Business Loan,Kavita R.,1270000,2026-07-19,Rejected,,1
+LD01461,CN0154,Loan Against Property,Fatima A.,6630000,2026-06-13,Disbursed,,9
+LD01462,CN0155,Education Loan,Pooja K.,570000,2026-09-17,Disbursed,,5
+LD01463,CN0155,Personal Loan,Shabana I.,490000,2026-11-01,Login,,9
+LD01464,CN0155,Personal Loan,Prakash V.,870000,2026-10-06,Login,,4
+LD01465,CN0155,Personal Loan,Lakshmi R.,580000,2026-06-12,Disbursed,,5
+LD01466,CN0155,Personal Loan,Anita V.,1020000,2026-11-01,Documents pending,Last 3 months bank statement,9
+LD01467,CN0155,Personal Loan,Usha R.,1020000,2026-05-26,Disbursed,,1
+LD01468,CN0155,Personal Loan,Anita M.,450000,2026-10-30,Rejected,,3
+LD01469,CN0155,Education Loan,Harish I.,2490000,2026-05-20,Disbursed,,11
+LD01470,CN0156,Credit Card,Usha P.,0,2026-04-14,Rejected,,1
+LD01471,CN0156,Credit Card,Arvind M.,0,2026-08-22,Disbursed,,9
+LD01472,CN0156,Home Loan,Fatima R.,2670000,2026-10-20,Documents pending,Last 3 months bank statement,7
+LD01473,CN0156,Credit Card,Sameer P.,0,2026-08-20,Disbursed,,10
+LD01474,CN0156,Education Loan,Lakshmi N.,1530000,2026-10-22,Submitted,,3
+LD01475,CN0156,Home Loan,Lakshmi K.,7460000,2026-04-28,Disbursed,,0
+LD01476,CN0157,Personal Loan,Manoj N.,950000,2026-06-17,Disbursed,,5
+LD01477,CN0157,Credit Card,Mahesh P.,0,2026-09-05,Rejected,,2
+LD01478,CN0157,Credit Card,Venkat J.,0,2026-04-23,Sanctioned,,9
+LD01479,CN0157,Personal Loan,Deepa R.,830000,2026-09-11,Rejected,,7
+LD01480,CN0157,Credit Card,Anita K.,0,2026-04-03,Disbursed,,7
+LD01481,CN0157,Credit Card,Suresh R.,0,2026-10-27,Submitted,,2
+LD01482,CN0158,Personal Loan,Shabana J.,830000,2026-09-03,Disbursed,,5
+LD01483,CN0158,Education Loan,Shabana J.,2270000,2026-03-15,Sanctioned,,4
+LD01484,CN0158,Education Loan,Anita V.,1910000,2026-05-12,Disbursed,,6
+LD01485,CN0159,Personal Loan,Kavita G.,570000,2026-05-30,Disbursed,,0
+LD01486,CN0159,Credit Card,Nikhil K.,0,2026-06-06,Disbursed,,4
+LD01487,CN0159,Credit Card,Ganesh M.,0,2026-08-22,Disbursed,,3
+LD01488,CN0159,Personal Loan,Jyoti R.,840000,2026-07-05,Rejected,,11
+LD01489,CN0159,Education Loan,Meera I.,2430000,2026-08-30,Sanctioned,,2
+LD01490,CN0159,Education Loan,Usha K.,360000,2026-06-29,Disbursed,,9
+LD01491,CN0159,Personal Loan,Kavita P.,730000,2026-08-31,Disbursed,,0
+LD01492,CN0159,Credit Card,Mahesh K.,0,2026-10-02,Sanctioned,,2
+LD01493,CN0159,Credit Card,Sunita S.,0,2026-03-13,Rejected,,7
+LD01494,CN0159,Credit Card,Usha S.,0,2026-03-19,Disbursed,,7
+LD01495,CN0159,Education Loan,Mahesh K.,1910000,2026-07-29,Disbursed,,5
+LD01496,CN0159,Personal Loan,Rizwan P.,970000,2026-04-25,Sanctioned,,5
+LD01497,CN0161,Personal Loan,Usha K.,240000,2026-07-04,Rejected,,1
+LD01498,CN0161,Education Loan,Sachin N.,1510000,2026-06-19,Disbursed,,6
+LD01499,CN0161,Personal Loan,Rekha K.,1180000,2026-03-27,Sanctioned,,9
+LD01500,CN0161,Credit Card,Suresh S.,0,2026-08-25,Disbursed,,7
+LD01501,CN0161,Personal Loan,Sachin S.,1000000,2026-08-13,Disbursed,,1
+LD01502,CN0161,Personal Loan,Nikhil V.,970000,2026-04-24,Disbursed,,6
+LD01503,CN0161,Credit Card,Deepa R.,0,2026-09-15,Disbursed,,4
+LD01504,CN0161,Education Loan,Shabana S.,1830000,2026-04-13,Disbursed,,7
+LD01505,CN0161,Credit Card,Rizwan R.,0,2026-09-15,Rejected,,10
+LD01506,CN0161,Home Loan,Nikhil S.,7750000,2026-05-26,Disbursed,,2
+LD01507,CN0161,Personal Loan,Pooja S.,750000,2026-05-10,Disbursed,,7
+LD01508,CN0161,Credit Card,Pooja S.,0,2026-07-10,Disbursed,,11
+LD01509,CN0161,Education Loan,Manoj P.,1240000,2026-07-26,Disbursed,,11
+LD01510,CN0161,Education Loan,Sachin M.,820000,2026-08-14,Rejected,,9
+LD01511,CN0161,Personal Loan,Ganesh K.,560000,2026-10-14,Submitted,,11
+LD01512,CN0161,Personal Loan,Nandini J.,530000,2026-05-28,Disbursed,,5
+LD01513,CN0162,Education Loan,Lakshmi P.,920000,2026-09-27,Sanctioned,,9
+LD01514,CN0162,Personal Loan,Nandini K.,500000,2026-07-13,Rejected,,5
+LD01515,CN0162,Education Loan,Rekha A.,1900000,2026-03-12,Disbursed,,0
+LD01516,CN0162,Personal Loan,Karthik I.,550000,2026-07-25,Disbursed,,1
+LD01517,CN0162,Personal Loan,Ganesh J.,1040000,2026-09-11,Disbursed,,1
+LD01518,CN0162,Education Loan,Rizwan I.,860000,2026-10-20,Documents pending,Last 3 months bank statement,7
+LD01519,CN0162,Personal Loan,Pooja N.,480000,2026-04-16,Disbursed,,6
+LD01520,CN0162,Personal Loan,Harish G.,1090000,2026-08-18,Disbursed,,8
+LD01521,CN0162,Education Loan,Sachin V.,1130000,2026-08-19,Disbursed,,7
+LD01522,CN0163,Credit Card,Sunita M.,0,2026-05-13,Disbursed,,0
+LD01523,CN0163,Credit Card,Arvind M.,0,2026-10-04,Rejected,,3
+LD01524,CN0163,Business Loan,Shabana K.,900000,2026-07-03,Disbursed,,2
+LD01525,CN0163,Business Loan,Srinivas V.,3300000,2026-05-13,Disbursed,,5
+LD01526,CN0163,Two-Wheeler Loan,Sameer R.,80000,2026-10-23,Login,,10
+LD01527,CN0163,Business Loan,Rizwan M.,1880000,2026-05-14,Sanctioned,,6
+LD01528,CN0163,Two-Wheeler Loan,Shabana M.,140000,2026-09-29,Sanctioned,,1
+LD01529,CN0163,Two-Wheeler Loan,Srinivas K.,180000,2026-09-06,Disbursed,,3
+LD01530,CN0163,Business Loan,Sunita K.,710000,2026-08-12,Rejected,,8
+LD01531,CN0163,Business Loan,Venkat M.,710000,2026-10-25,Submitted,,9
+LD01532,CN0163,Personal Loan,Anita M.,210000,2026-10-31,Documents pending,Last 3 months bank statement,8
+LD01533,CN0163,Two-Wheeler Loan,Sameer G.,100000,2026-06-06,Rejected,,1
+LD01534,CN0163,Personal Loan,Deepa M.,560000,2026-08-28,Rejected,,11
+LD01535,CN0163,Personal Loan,Manoj A.,520000,2026-10-10,Documents pending,Last 3 months bank statement,2
+LD01536,CN0164,Professional Loan,Lakshmi R.,1430000,2026-09-08,Rejected,,11
+LD01537,CN0165,Education Loan,Rizwan J.,2030000,2026-10-27,Sanctioned,,11
+LD01538,CN0165,Personal Loan,Manoj I.,410000,2026-03-29,Disbursed,,0
+LD01539,CN0165,Education Loan,Usha K.,970000,2026-06-25,Rejected,,8
+LD01540,CN0165,Education Loan,Sachin N.,730000,2026-07-08,Disbursed,,3
+LD01541,CN0165,Education Loan,Rohit S.,730000,2026-05-24,Rejected,,7
+LD01542,CN0165,Personal Loan,Mahesh M.,880000,2026-04-27,Disbursed,,7
+LD01543,CN0165,Education Loan,Sunita S.,2470000,2026-03-12,Disbursed,,11
+LD01544,CN0165,Education Loan,Sachin R.,1120000,2026-03-23,Disbursed,,4
+LD01545,CN0165,Education Loan,Imran I.,470000,2026-04-24,Rejected,,5
+LD01546,CN0166,Credit Card,Sachin V.,0,2026-10-27,Submitted,,3
+LD01547,CN0167,Education Loan,Srinivas I.,1390000,2026-07-28,Disbursed,,11
+LD01548,CN0167,Education Loan,Jyoti G.,2320000,2026-08-24,Disbursed,,2
+LD01549,CN0167,Personal Loan,Anita K.,760000,2026-10-14,Sanctioned,,4
+LD01550,CN0167,Personal Loan,Arvind A.,430000,2026-07-25,Rejected,,9
+LD01551,CN0167,Education Loan,Kavita R.,1080000,2026-08-13,Disbursed,,8
+LD01552,CN0167,Education Loan,Vikram G.,1590000,2026-08-01,Rejected,,5
+LD01553,CN0167,Personal Loan,Ganesh M.,1120000,2026-07-31,Sanctioned,,0
+LD01554,CN0168,Personal Loan,Arvind G.,700000,2026-07-07,Rejected,,1
+LD01555,CN0168,Used Car Loan,Sachin K.,680000,2026-06-16,Rejected,,0
+LD01556,CN0168,Used Car Loan,Vikram S.,760000,2026-08-07,Rejected,,1
+LD01557,CN0168,Used Car Loan,Rohit S.,1010000,2026-04-20,Disbursed,,0
+LD01558,CN0168,Two-Wheeler Loan,Deepa R.,200000,2026-05-02,Disbursed,,8
+LD01559,CN0168,Used Car Loan,Usha P.,530000,2026-03-25,Disbursed,,1
+LD01560,CN0168,Used Car Loan,Rohit J.,1060000,2026-10-26,Submitted,,2
+LD01561,CN0168,Personal Loan,Sunita I.,800000,2026-07-14,Disbursed,,11
+LD01562,CN0168,Used Car Loan,Pooja R.,1050000,2026-09-22,Disbursed,,8
+LD01563,CN0168,Used Car Loan,Venkat R.,620000,2026-10-25,Documents pending,Last 3 months bank statement,5
+LD01564,CN0168,Two-Wheeler Loan,Vikram J.,190000,2026-07-29,Disbursed,,8
+LD01565,CN0168,Personal Loan,Meera K.,1120000,2026-06-14,Rejected,,3
+LD01566,CN0168,Personal Loan,Rohit R.,270000,2026-09-11,Rejected,,10
+LD01567,CN0168,Personal Loan,Usha M.,1090000,2026-04-05,Disbursed,,9
+LD01568,CN0168,Used Car Loan,Shabana I.,370000,2026-09-18,Documents pending,Last 3 months bank statement,3
+LD01569,CN0168,Used Car Loan,Meera R.,340000,2026-05-17,Sanctioned,,1
+LD01570,CN0168,Used Car Loan,Rohit K.,630000,2026-03-25,Disbursed,,3
+LD01571,CN0168,Two-Wheeler Loan,Deepa P.,170000,2026-05-25,Disbursed,,1
+LD01572,CN0168,Used Car Loan,Arvind K.,1130000,2026-10-21,Documents pending,Last 3 months bank statement,6
+LD01573,CN0168,Used Car Loan,Arvind K.,910000,2026-06-20,Disbursed,,8
+LD01574,CN0168,Two-Wheeler Loan,Jyoti K.,180000,2026-08-30,Rejected,,10
+LD01575,CN0168,Two-Wheeler Loan,Lakshmi K.,150000,2026-09-07,Disbursed,,11
+LD01576,CN0168,Used Car Loan,Suresh R.,760000,2026-05-08,Disbursed,,6
+LD01577,CN0168,Used Car Loan,Sachin K.,640000,2026-09-01,Disbursed,,7
+LD01578,CN0168,Used Car Loan,Ganesh K.,540000,2026-06-15,Disbursed,,7
+LD01579,CN0169,Personal Loan,Sameer K.,660000,2026-10-27,Submitted,,6
+LD01580,CN0169,Education Loan,Venkat M.,1070000,2026-10-21,Login,,9
+LD01581,CN0169,Personal Loan,Kavita R.,920000,2026-04-12,Rejected,,6
+LD01582,CN0169,Education Loan,Meera K.,960000,2026-10-12,Disbursed,,10
+LD01583,CN0170,Personal Loan,Anita R.,1140000,2026-08-17,Disbursed,,8
+LD01584,CN0170,Business Loan,Nikhil A.,3770000,2026-04-05,Disbursed,,1
+LD01585,CN0170,Personal Loan,Nandini J.,300000,2026-05-17,Disbursed,,3
+LD01586,CN0170,Two-Wheeler Loan,Harish S.,90000,2026-05-18,Rejected,,11
+LD01587,CN0170,Personal Loan,Lakshmi J.,1150000,2026-09-11,Disbursed,,1
+LD01588,CN0171,Education Loan,Vikram S.,1750000,2026-04-17,Disbursed,,6
+LD01589,CN0171,Credit Card,Manoj V.,0,2026-05-12,Disbursed,,11
+LD01590,CN0172,Business Loan,Suresh K.,2710000,2026-04-02,Disbursed,,7
+LD01591,CN0172,Credit Card,Sachin M.,0,2026-10-06,Login,,3
+LD01592,CN0172,Credit Card,Suresh A.,0,2026-10-23,Submitted,,0
+LD01593,CN0172,Business Loan,Meera J.,1820000,2026-10-13,Disbursed,,4
+LD01594,CN0172,Personal Loan,Manoj J.,770000,2026-06-14,Disbursed,,7
+LD01595,CN0172,Business Loan,Vikram J.,1330000,2026-07-17,Disbursed,,10
+LD01596,CN0172,Business Loan,Kavita I.,940000,2026-04-25,Rejected,,8
+LD01597,CN0172,Credit Card,Ganesh G.,0,2026-03-21,Sanctioned,,7
+LD01598,CN0172,Business Loan,Mahesh A.,1440000,2026-04-07,Rejected,,9
+LD01599,CN0172,Personal Loan,Sameer J.,940000,2026-04-22,Rejected,,4
+LD01600,CN0172,Credit Card,Rohit J.,0,2026-08-02,Rejected,,8
+LD01601,CN0173,Home Loan,Suresh S.,4420000,2026-03-14,Disbursed,,7
+LD01602,CN0173,Loan Against Property,Jyoti V.,4200000,2026-03-23,Disbursed,,3
+LD01603,CN0173,Loan Against Property,Vikram G.,6430000,2026-03-18,Disbursed,,4
+LD01604,CN0173,Home Loan,Arvind V.,5340000,2026-09-28,Sanctioned,,7
+LD01605,CN0174,Personal Loan,Mahesh K.,560000,2026-05-21,Rejected,,7
+LD01606,CN0174,Two-Wheeler Loan,Rekha A.,190000,2026-03-15,Disbursed,,7
+LD01607,CN0174,Business Loan,Usha I.,670000,2026-08-13,Disbursed,,6
+LD01608,CN0174,Credit Card,Sachin M.,0,2026-03-20,Disbursed,,3
+LD01609,CN0174,Personal Loan,Sunita S.,330000,2026-04-11,Disbursed,,3
+LD01610,CN0174,Business Loan,Sachin A.,3120000,2026-05-16,Rejected,,10
+LD01611,CN0174,Personal Loan,Imran P.,1010000,2026-07-01,Disbursed,,6
+LD01612,CN0174,Business Loan,Shabana K.,2870000,2026-04-21,Disbursed,,1
+LD01613,CN0174,Business Loan,Karthik R.,3760000,2026-06-14,Rejected,,10
+LD01614,CN0174,Business Loan,Mahesh G.,740000,2026-06-21,Rejected,,3
+LD01615,CN0175,Used Car Loan,Jyoti J.,910000,2026-09-25,Disbursed,,2
+LD01616,CN0175,Used Car Loan,Pooja J.,940000,2026-05-27,Rejected,,1
+LD01617,CN0175,Used Car Loan,Sachin S.,620000,2026-05-07,Rejected,,7
+LD01618,CN0175,Used Car Loan,Mahesh K.,560000,2026-08-16,Disbursed,,9
+LD01619,CN0175,Personal Loan,Srinivas N.,280000,2026-08-25,Disbursed,,3
+LD01620,CN0175,Used Car Loan,Ganesh S.,830000,2026-06-02,Rejected,,7
+LD01621,CN0175,Used Car Loan,Rizwan R.,890000,2026-07-28,Disbursed,,9
+LD01622,CN0175,Two-Wheeler Loan,Jyoti A.,100000,2026-07-03,Disbursed,,3
+LD01623,CN0175,Two-Wheeler Loan,Rohit S.,150000,2026-05-09,Disbursed,,7
+LD01624,CN0175,Two-Wheeler Loan,Lakshmi J.,160000,2026-07-02,Rejected,,7
+LD01625,CN0176,Personal Loan,Srinivas M.,870000,2026-08-05,Disbursed,,0
+LD01626,CN0176,Personal Loan,Rohit J.,1160000,2026-10-01,Submitted,,5
+LD01627,CN0176,Education Loan,Rohit P.,1140000,2026-10-20,Submitted,,6
+LD01628,CN0176,Education Loan,Harish J.,1900000,2026-05-08,Disbursed,,11
+LD01629,CN0176,Education Loan,Rekha V.,2330000,2026-03-30,Disbursed,,9
+LD01630,CN0176,Personal Loan,Srinivas V.,560000,2026-04-24,Disbursed,,2
+LD01631,CN0176,Education Loan,Sunita V.,1680000,2026-03-20,Disbursed,,8
+LD01632,CN0176,Education Loan,Vikram J.,2300000,2026-06-21,Rejected,,9
+LD01633,CN0176,Education Loan,Deepa R.,1890000,2026-07-03,Disbursed,,0
+LD01634,CN0176,Education Loan,Kavita I.,1370000,2026-08-08,Sanctioned,,8
+LD01635,CN0176,Education Loan,Anita P.,340000,2026-04-23,Disbursed,,3
+LD01636,CN0176,Education Loan,Karthik S.,590000,2026-08-02,Rejected,,2
+LD01637,CN0176,Education Loan,Pooja K.,510000,2026-06-10,Sanctioned,,4
+LD01638,CN0176,Education Loan,Imran V.,2400000,2026-05-26,Disbursed,,1
+LD01639,CN0177,Home Loan,Suresh S.,3570000,2026-03-20,Disbursed,,3
+LD01640,CN0177,Home Loan,Mahesh K.,5480000,2026-07-30,Disbursed,,10
+LD01641,CN0177,Home Loan,Karthik J.,6160000,2026-07-19,Disbursed,,7
+LD01642,CN0177,Personal Loan,Rizwan K.,660000,2026-07-19,Sanctioned,,11
+LD01643,CN0177,Personal Loan,Sachin K.,350000,2026-06-25,Rejected,,5
+LD01644,CN0177,Home Loan,Ganesh J.,7270000,2026-05-26,Sanctioned,,5
+LD01645,CN0177,Loan Against Property,Rizwan S.,7430000,2026-06-05,Disbursed,,2
+LD01646,CN0177,Personal Loan,Sunita A.,860000,2026-10-05,Sanctioned,,3
+LD01647,CN0177,Home Loan,Anita I.,4390000,2026-05-14,Sanctioned,,5
+LD01648,CN0178,Personal Loan,Suresh M.,1120000,2026-06-30,Disbursed,,9
+LD01649,CN0178,Professional Loan,Srinivas K.,2280000,2026-06-17,Disbursed,,1
+LD01650,CN0179,Business Loan,Sameer V.,3160000,2026-10-19,Submitted,,0
+LD01651,CN0179,Personal Loan,Usha K.,680000,2026-04-11,Rejected,,8
+LD01652,CN0180,Personal Loan,Srinivas J.,340000,2026-10-26,Documents pending,Last 3 months bank statement,1
+LD01653,CN0181,Personal Loan,Manoj M.,410000,2026-03-12,Rejected,,2
+LD01654,CN0181,Personal Loan,Nandini P.,440000,2026-06-05,Rejected,,5
+LD01655,CN0182,Professional Loan,Arvind J.,2080000,2026-09-08,Sanctioned,,7
+LD01656,CN0183,Personal Loan,Jyoti R.,1010000,2026-05-16,Rejected,,3
+LD01657,CN0183,Education Loan,Imran S.,2110000,2026-06-18,Disbursed,,1
+LD01658,CN0183,Education Loan,Sameer N.,1730000,2026-05-21,Disbursed,,6
+LD01659,CN0183,Education Loan,Mahesh G.,810000,2026-06-17,Disbursed,,3
+LD01660,CN0183,Personal Loan,Sameer N.,1050000,2026-05-17,Disbursed,,7
+LD01661,CN0183,Education Loan,Sunita P.,2440000,2026-03-30,Disbursed,,5
+LD01662,CN0183,Education Loan,Nikhil G.,1440000,2026-09-29,Rejected,,11
+LD01663,CN0183,Education Loan,Imran P.,500000,2026-09-18,Rejected,,2
+LD01664,CN0183,Education Loan,Usha K.,480000,2026-07-31,Disbursed,,6
+LD01665,CN0184,Personal Loan,Nikhil J.,1180000,2026-09-14,Disbursed,,7
+LD01666,CN0184,Loan Against Property,Nandini N.,3850000,2026-04-08,Disbursed,,10
+LD01667,CN0184,Home Loan,Sachin R.,7100000,2026-07-10,Rejected,,0
+LD01668,CN0184,Loan Against Property,Sachin R.,1950000,2026-10-27,Documents pending,Last 3 months bank statement,8
+LD01669,CN0184,Loan Against Property,Srinivas I.,6150000,2026-03-24,Rejected,,10
+LD01670,CN0184,Personal Loan,Nikhil I.,400000,2026-06-04,Rejected,,8
+LD01671,CN0184,Loan Against Property,Mahesh M.,7540000,2026-05-21,Disbursed,,1
+LD01672,CN0184,Home Loan,Usha A.,8970000,2026-06-20,Rejected,,10
+LD01673,CN0185,Credit Card,Rekha A.,0,2026-08-04,Disbursed,,6
+LD01674,CN0185,Two-Wheeler Loan,Prakash G.,160000,2026-08-02,Disbursed,,5
+LD01675,CN0185,Business Loan,Karthik N.,2690000,2026-03-16,Disbursed,,10
+LD01676,CN0185,Business Loan,Ganesh R.,610000,2026-09-25,Login,,3
+LD01677,CN0185,Business Loan,Nandini M.,1280000,2026-04-10,Disbursed,,4
+LD01678,CN0185,Business Loan,Harish S.,1240000,2026-04-23,Disbursed,,0
+LD01679,CN0185,Business Loan,Rekha J.,1130000,2026-07-12,Disbursed,,10
+LD01680,CN0185,Two-Wheeler Loan,Shabana S.,100000,2026-07-06,Rejected,,0
+LD01681,CN0186,Education Loan,Srinivas A.,300000,2026-08-06,Disbursed,,3
+LD01682,CN0186,Education Loan,Sachin M.,610000,2026-10-19,Submitted,,10
+LD01683,CN0186,Personal Loan,Vikram G.,510000,2026-07-23,Sanctioned,,6
+LD01684,CN0186,Education Loan,Lakshmi K.,1390000,2026-09-12,Disbursed,,3
+LD01685,CN0186,Personal Loan,Imran A.,260000,2026-08-18,Disbursed,,4
+LD01686,CN0187,Two-Wheeler Loan,Nandini M.,190000,2026-11-01,Login,,9
+LD01687,CN0188,Used Car Loan,Srinivas M.,900000,2026-07-08,Disbursed,,3
+LD01688,CN0188,Two-Wheeler Loan,Nikhil I.,110000,2026-05-04,Disbursed,,4
+LD01689,CN0188,Personal Loan,Arvind S.,700000,2026-06-19,Disbursed,,4
+LD01690,CN0188,Used Car Loan,Pooja K.,950000,2026-04-15,Rejected,,5
+LD01691,CN0188,Used Car Loan,Anita M.,350000,2026-08-09,Disbursed,,0
+LD01692,CN0188,Two-Wheeler Loan,Manoj J.,80000,2026-05-07,Sanctioned,,9
+LD01693,CN0188,Used Car Loan,Suresh K.,940000,2026-08-06,Rejected,,5
+LD01694,CN0189,Credit Card,Nandini K.,0,2026-03-18,Disbursed,,5
+LD01695,CN0189,Credit Card,Vikram M.,0,2026-03-17,Disbursed,,9
+LD01696,CN0189,Personal Loan,Manoj I.,500000,2026-05-15,Disbursed,,4
+LD01697,CN0189,Credit Card,Jyoti M.,0,2026-03-12,Rejected,,7
+LD01698,CN0189,Personal Loan,Imran S.,1060000,2026-05-28,Disbursed,,8
+LD01699,CN0189,Credit Card,Suresh N.,0,2026-10-28,Rejected,,8
+LD01700,CN0189,Credit Card,Lakshmi P.,0,2026-08-14,Disbursed,,8
+LD01701,CN0189,Credit Card,Nandini M.,0,2026-07-13,Disbursed,,8
+LD01702,CN0189,Credit Card,Srinivas K.,0,2026-09-07,Disbursed,,5
+LD01703,CN0190,Two-Wheeler Loan,Mahesh R.,110000,2026-08-21,Disbursed,,6
+LD01704,CN0190,Business Loan,Usha I.,3020000,2026-05-22,Disbursed,,0
+LD01705,CN0190,Business Loan,Anita S.,3610000,2026-10-24,Login,,6
+LD01706,CN0190,Two-Wheeler Loan,Deepa P.,130000,2026-04-05,Disbursed,,9
+LD01707,CN0190,Business Loan,Suresh K.,1920000,2026-05-12,Sanctioned,,5
+LD01708,CN0190,Two-Wheeler Loan,Fatima S.,110000,2026-05-22,Disbursed,,9
+LD01709,CN0190,Personal Loan,Karthik J.,1030000,2026-05-05,Rejected,,3
+LD01710,CN0190,Business Loan,Prakash K.,3100000,2026-09-03,Disbursed,,7
+LD01711,CN0191,Professional Loan,Sunita K.,2210000,2026-09-15,Disbursed,,5
+LD01712,CN0191,Business Loan,Pooja K.,3370000,2026-05-12,Disbursed,,4
+LD01713,CN0191,Personal Loan,Suresh S.,990000,2026-08-21,Rejected,,4
+LD01714,CN0191,Professional Loan,Arvind S.,1280000,2026-10-28,Login,,11
+LD01715,CN0191,Business Loan,Karthik K.,1340000,2026-07-19,Rejected,,2
+LD01716,CN0191,Business Loan,Kavita M.,3000000,2026-11-02,Documents pending,Last 3 months bank statement,10
+LD01717,CN0191,Business Loan,Rekha M.,2950000,2026-09-03,Rejected,,5
+LD01718,CN0191,Business Loan,Usha K.,2550000,2026-05-06,Disbursed,,4
+LD01719,CN0191,Professional Loan,Jyoti M.,1300000,2026-06-05,Rejected,,1
+LD01720,CN0191,Personal Loan,Suresh R.,1170000,2026-07-30,Rejected,,5
+LD01721,CN0191,Professional Loan,Fatima P.,1930000,2026-08-11,Disbursed,,8
+LD01722,CN0191,Professional Loan,Sunita A.,960000,2026-10-01,Sanctioned,,5
+LD01723,CN0192,Home Loan,Vikram R.,5300000,2026-09-21,Sanctioned,,8
+LD01724,CN0192,Credit Card,Kavita G.,0,2026-09-29,Login,,9
+LD01725,CN0192,Personal Loan,Pooja R.,600000,2026-09-26,Sanctioned,,7
+LD01726,CN0192,Personal Loan,Nandini R.,970000,2026-08-28,Rejected,,1
+LD01727,CN0193,Professional Loan,Suresh R.,1450000,2026-10-29,Submitted,,4
+LD01728,CN0193,Loan Against Property,Mahesh S.,6580000,2026-04-06,Rejected,,9
+LD01729,CN0193,Professional Loan,Arvind I.,1950000,2026-09-22,Login,,6
+LD01730,CN0193,Professional Loan,Imran I.,1250000,2026-10-25,Sanctioned,,9
+LD01731,CN0193,Professional Loan,Rohit K.,2960000,2026-08-09,Rejected,,2
+LD01732,CN0193,Business Loan,Sunita G.,3020000,2026-04-05,Rejected,,6
+LD01733,CN0193,Business Loan,Nandini K.,1930000,2026-07-07,Disbursed,,11
+LD01734,CN0193,Professional Loan,Nikhil S.,2280000,2026-05-08,Disbursed,,5
+LD01735,CN0193,Business Loan,Kavita R.,1470000,2026-10-30,Login,,7
+LD01736,CN0193,Professional Loan,Kavita P.,1360000,2026-08-25,Rejected,,7
+LD01737,CN0193,Professional Loan,Sameer R.,2810000,2026-05-01,Disbursed,,3
+LD01738,CN0193,Business Loan,Suresh V.,2310000,2026-09-28,Login,,0
+LD01739,CN0193,Professional Loan,Rizwan A.,1490000,2026-08-28,Rejected,,1
+LD01740,CN0193,Business Loan,Rohit K.,2750000,2026-09-15,Sanctioned,,1
+LD01741,CN0193,Loan Against Property,Arvind K.,3920000,2026-05-30,Disbursed,,8
+LD01742,CN0193,Professional Loan,Suresh N.,630000,2026-06-24,Rejected,,11
+LD01743,CN0194,Education Loan,Rekha K.,900000,2026-11-02,Documents pending,Last 3 months bank statement,10
+LD01744,CN0194,Education Loan,Anita K.,1750000,2026-10-25,Login,,7
+LD01745,CN0194,Personal Loan,Nandini S.,940000,2026-10-21,Documents pending,Last 3 months bank statement,8
+LD01746,CN0194,Personal Loan,Vikram R.,1120000,2026-10-30,Submitted,,1
+LD01747,CN0194,Education Loan,Ganesh S.,1690000,2026-10-24,Documents pending,Last 3 months bank statement,4
+LD01748,CN0195,Two-Wheeler Loan,Ganesh M.,160000,2026-09-14,Disbursed,,7
+LD01749,CN0195,Used Car Loan,Rizwan P.,930000,2026-07-05,Disbursed,,3
+LD01750,CN0195,Used Car Loan,Jyoti J.,910000,2026-08-27,Disbursed,,1
+LD01751,CN0195,Used Car Loan,Mahesh S.,520000,2026-09-02,Disbursed,,6
+LD01752,CN0195,Personal Loan,Lakshmi K.,620000,2026-07-17,Disbursed,,4
+LD01753,CN0195,Two-Wheeler Loan,Nandini G.,170000,2026-10-18,Submitted,,11
+LD01754,CN0195,Used Car Loan,Ganesh P.,850000,2026-08-20,Disbursed,,6
+LD01755,CN0195,Personal Loan,Sunita M.,950000,2026-09-10,Rejected,,10
+LD01756,CN0195,Two-Wheeler Loan,Sameer R.,140000,2026-10-25,Login,,2
+LD01757,CN0195,Used Car Loan,Arvind R.,510000,2026-08-01,Disbursed,,11
+LD01758,CN0195,Personal Loan,Deepa V.,1080000,2026-09-18,Submitted,,9
+LD01759,CN0195,Used Car Loan,Shabana K.,310000,2026-07-10,Rejected,,5
+LD01760,CN0195,Two-Wheeler Loan,Prakash I.,90000,2026-10-08,Submitted,,11
+LD01761,CN0196,Business Loan,Usha S.,2470000,2026-10-26,Login,,9
+LD01762,CN0196,Credit Card,Deepa V.,0,2026-10-25,Rejected,,9
+LD01763,CN0196,Business Loan,Sameer M.,2010000,2026-10-29,Login,,11
+LD01764,CN0197,Business Loan,Srinivas S.,1420000,2026-06-29,Disbursed,,7
+LD01765,CN0197,Business Loan,Karthik G.,3550000,2026-03-10,Disbursed,,5
+LD01766,CN0197,Professional Loan,Sachin M.,2650000,2026-09-28,Submitted,,10
+LD01767,CN0197,Business Loan,Sunita I.,2600000,2026-04-18,Rejected,,5
+LD01768,CN0197,Professional Loan,Deepa I.,1050000,2026-08-04,Disbursed,,9
+LD01769,CN0197,Business Loan,Rohit V.,870000,2026-11-01,Submitted,,10
+LD01770,CN0197,Personal Loan,Prakash R.,470000,2026-05-22,Disbursed,,9
+LD01771,CN0197,Business Loan,Venkat S.,570000,2026-10-26,Documents pending,Last 3 months bank statement,4
+LD01772,CN0197,Professional Loan,Srinivas G.,2240000,2026-06-20,Rejected,,11
+LD01773,CN0197,Loan Against Property,Venkat R.,7590000,2026-05-02,Disbursed,,4
+LD01774,CN0197,Business Loan,Harish P.,2290000,2026-08-01,Disbursed,,1
+LD01775,CN0197,Business Loan,Rizwan P.,3120000,2026-09-28,Disbursed,,9
+LD01776,CN0197,Professional Loan,Anita J.,2350000,2026-07-01,Rejected,,9
+LD01777,CN0197,Business Loan,Pooja V.,560000,2026-11-01,Submitted,,8
+LD01778,CN0197,Personal Loan,Sunita M.,600000,2026-03-10,Disbursed,,9
+LD01779,CN0197,Professional Loan,Usha K.,670000,2026-07-11,Sanctioned,,4
+LD01780,CN0197,Professional Loan,Imran G.,730000,2026-10-24,Rejected,,11
+LD01781,CN0198,Two-Wheeler Loan,Meera S.,120000,2026-10-22,Submitted,,10
+LD01782,CN0198,Two-Wheeler Loan,Imran K.,120000,2026-09-17,Disbursed,,3
+LD01783,CN0198,Business Loan,Sachin V.,1840000,2026-07-15,Rejected,,6
+LD01784,CN0198,Two-Wheeler Loan,Sachin M.,130000,2026-08-12,Sanctioned,,5
+LD01785,CN0198,Credit Card,Karthik J.,0,2026-06-25,Disbursed,,10
+LD01786,CN0198,Business Loan,Anita J.,580000,2026-06-11,Disbursed,,6
+LD01787,CN0198,Business Loan,Anita A.,2270000,2026-08-02,Disbursed,,4
+LD01788,CN0198,Personal Loan,Sachin J.,480000,2026-06-13,Disbursed,,6
+LD01789,CN0198,Personal Loan,Rohit I.,300000,2026-10-23,Documents pending,Last 3 months bank statement,10
+LD01790,CN0198,Business Loan,Lakshmi P.,2480000,2026-06-14,Disbursed,,8
+LD01791,CN0198,Business Loan,Imran K.,880000,2026-08-07,Rejected,,3
+LD01792,CN0198,Personal Loan,Arvind S.,610000,2026-08-05,Disbursed,,9
+LD01793,CN0198,Personal Loan,Sunita K.,1150000,2026-09-18,Login,,7
+LD01794,CN0199,Credit Card,Rizwan S.,0,2026-05-26,Disbursed,,3
+LD01795,CN0199,Credit Card,Sachin A.,0,2026-06-11,Rejected,,5
+LD01796,CN0199,Personal Loan,Pooja M.,500000,2026-04-01,Disbursed,,10
+LD01797,CN0200,Education Loan,Rohit J.,2260000,2026-09-15,Disbursed,,4
+LD01798,CN0200,Education Loan,Usha I.,780000,2026-03-24,Sanctioned,,8
+LD01799,CN0200,Personal Loan,Usha V.,410000,2026-04-01,Disbursed,,6
+LD01800,CN0200,Education Loan,Rekha I.,610000,2026-07-20,Disbursed,,0
+LD01801,CN0203,Credit Card,Imran S.,0,2026-04-09,Rejected,,6
+LD01802,CN0203,Personal Loan,Mahesh K.,410000,2026-04-10,Rejected,,0
+LD01803,CN0203,Credit Card,Anita R.,0,2026-10-18,Login,,11
+LD01804,CN0203,Credit Card,Sachin R.,0,2026-07-26,Disbursed,,9
+LD01805,CN0203,Personal Loan,Srinivas P.,1170000,2026-10-29,Documents pending,Last 3 months bank statement,1
+LD01806,CN0203,Credit Card,Ganesh N.,0,2026-10-17,Documents pending,Last 3 months bank statement,10
+LD01807,CN0204,Home Loan,Rohit P.,5490000,2026-03-26,Rejected,,4
+LD01808,CN0204,Personal Loan,Shabana K.,630000,2026-07-13,Disbursed,,4
+LD01809,CN0204,Education Loan,Arvind K.,1340000,2026-04-13,Disbursed,,11
+LD01810,CN0204,Education Loan,Arvind J.,1420000,2026-08-15,Disbursed,,10
+LD01811,CN0204,Credit Card,Suresh S.,0,2026-06-11,Disbursed,,11
+LD01812,CN0204,Credit Card,Sachin G.,0,2026-10-18,Submitted,,2
+LD01813,CN0204,Credit Card,Prakash K.,0,2026-10-30,Login,,8
+LD01814,CN0204,Home Loan,Srinivas V.,5570000,2026-03-30,Disbursed,,1
+LD01815,CN0204,Credit Card,Usha K.,0,2026-07-28,Rejected,,6
+LD01816,CN0204,Personal Loan,Jyoti J.,450000,2026-05-12,Disbursed,,1
+LD01817,CN0204,Personal Loan,Venkat A.,500000,2026-03-25,Disbursed,,11
+LD01818,CN0204,Credit Card,Pooja A.,0,2026-10-28,Documents pending,Last 3 months bank statement,3
+LD01819,CN0204,Credit Card,Arvind K.,0,2026-10-13,Sanctioned,,6
+LD01820,CN0205,Education Loan,Venkat M.,1260000,2026-04-19,Rejected,,3
+LD01821,CN0205,Education Loan,Prakash A.,690000,2026-04-23,Disbursed,,11
+LD01822,CN0205,Education Loan,Deepa K.,340000,2026-10-23,Login,,8
+LD01823,CN0205,Education Loan,Deepa P.,2330000,2026-04-10,Rejected,,4
+LD01824,CN0205,Education Loan,Sachin S.,2010000,2026-06-20,Disbursed,,7
+LD01825,CN0205,Education Loan,Anita P.,2300000,2026-06-24,Disbursed,,1
+LD01826,CN0205,Education Loan,Sunita N.,1630000,2026-06-05,Disbursed,,7
+LD01827,CN0205,Education Loan,Rizwan R.,2030000,2026-07-15,Sanctioned,,1
+LD01828,CN0205,Education Loan,Imran S.,560000,2026-06-05,Disbursed,,5
+LD01829,CN0205,Personal Loan,Nikhil G.,720000,2026-05-07,Disbursed,,4
+LD01830,CN0205,Education Loan,Usha J.,1420000,2026-10-12,Rejected,,2
+LD01831,CN0205,Education Loan,Sunita J.,580000,2026-10-31,Documents pending,Last 3 months bank statement,6
+LD01832,CN0205,Education Loan,Jyoti V.,1640000,2026-09-14,Sanctioned,,8
+LD01833,CN0205,Education Loan,Usha P.,1680000,2026-03-26,Disbursed,,0
+LD01834,CN0205,Education Loan,Prakash S.,790000,2026-07-25,Rejected,,7
+LD01835,CN0206,Education Loan,Jyoti N.,2340000,2026-06-15,Disbursed,,5
+LD01836,CN0206,Education Loan,Meera K.,1480000,2026-06-09,Disbursed,,1
+LD01837,CN0206,Education Loan,Deepa N.,570000,2026-09-07,Sanctioned,,5
+LD01838,CN0206,Education Loan,Venkat P.,490000,2026-04-07,Disbursed,,2
+LD01839,CN0206,Personal Loan,Imran M.,1160000,2026-03-31,Disbursed,,9
+LD01840,CN0206,Personal Loan,Sameer J.,970000,2026-09-15,Disbursed,,7
+LD01841,CN0206,Education Loan,Ganesh S.,2190000,2026-06-17,Disbursed,,3
+LD01842,CN0206,Education Loan,Sunita K.,1440000,2026-04-05,Sanctioned,,6
+LD01843,CN0207,Credit Card,Ganesh S.,0,2026-07-13,Disbursed,,2
+LD01844,CN0207,Education Loan,Vikram K.,2420000,2026-10-04,Rejected,,0
+LD01845,CN0207,Personal Loan,Sameer I.,470000,2026-07-03,Rejected,,0
+LD01846,CN0207,Education Loan,Sachin K.,800000,2026-10-25,Login,,6
+LD01847,CN0207,Education Loan,Pooja K.,660000,2026-09-04,Disbursed,,3
+LD01848,CN0207,Education Loan,Sameer M.,2290000,2026-04-09,Sanctioned,,8
+LD01849,CN0208,Two-Wheeler Loan,Anita K.,170000,2026-06-06,Disbursed,,7
+LD01850,CN0208,Two-Wheeler Loan,Rekha K.,180000,2026-04-03,Rejected,,7
+LD01851,CN0208,Used Car Loan,Pooja M.,880000,2026-06-03,Disbursed,,4
+LD01852,CN0208,Used Car Loan,Vikram S.,380000,2026-08-16,Disbursed,,1
+LD01853,CN0208,Two-Wheeler Loan,Sameer K.,90000,2026-10-28,Submitted,,8
+LD01854,CN0208,Two-Wheeler Loan,Nikhil P.,70000,2026-08-24,Sanctioned,,10
+LD01855,CN0208,Used Car Loan,Rizwan R.,520000,2026-10-19,Documents pending,Last 3 months bank statement,11
+LD01856,CN0208,Two-Wheeler Loan,Anita K.,180000,2026-03-17,Rejected,,5
+LD01857,CN0208,Used Car Loan,Pooja J.,820000,2026-03-19,Disbursed,,10
+LD01858,CN0208,Used Car Loan,Ganesh S.,420000,2026-10-20,Rejected,,10
+LD01859,CN0208,Personal Loan,Anita J.,650000,2026-04-30,Rejected,,7
+LD01860,CN0208,Used Car Loan,Sachin P.,870000,2026-06-11,Disbursed,,6
+LD01861,CN0208,Used Car Loan,Imran P.,1120000,2026-04-26,Disbursed,,8
+LD01862,CN0208,Used Car Loan,Nandini V.,310000,2026-05-12,Disbursed,,3
+LD01863,CN0209,Personal Loan,Deepa P.,210000,2026-06-12,Sanctioned,,11
+LD01864,CN0209,Education Loan,Anita G.,1220000,2026-05-29,Rejected,,1
+LD01865,CN0209,Credit Card,Venkat N.,0,2026-04-13,Disbursed,,1
+LD01866,CN0209,Credit Card,Vikram N.,0,2026-06-22,Disbursed,,4
+LD01867,CN0209,Credit Card,Srinivas R.,0,2026-05-24,Sanctioned,,6
+LD01868,CN0209,Personal Loan,Mahesh N.,810000,2026-07-30,Disbursed,,2
+LD01869,CN0209,Personal Loan,Suresh K.,460000,2026-08-27,Disbursed,,8
+LD01870,CN0210,Personal Loan,Sachin J.,580000,2026-06-21,Disbursed,,8
+LD01871,CN0210,Professional Loan,Ganesh M.,2210000,2026-09-08,Disbursed,,7
+LD01872,CN0210,Professional Loan,Mahesh S.,1820000,2026-09-12,Disbursed,,2
+LD01873,CN0211,Loan Against Property,Meera M.,6520000,2026-10-05,Sanctioned,,3
+LD01874,CN0211,Loan Against Property,Rizwan J.,6360000,2026-07-26,Rejected,,10
+LD01875,CN0211,Home Loan,Rizwan P.,5780000,2026-03-29,Disbursed,,8
+LD01876,CN0211,Home Loan,Anita K.,4530000,2026-08-15,Disbursed,,5
+LD01877,CN0211,Personal Loan,Sachin A.,850000,2026-07-22,Rejected,,0
+LD01878,CN0211,Loan Against Property,Rekha K.,4170000,2026-06-28,Disbursed,,10
+LD01879,CN0211,Home Loan,Rizwan M.,8410000,2026-03-11,Disbursed,,3
+LD01880,CN0211,Loan Against Property,Rekha J.,2850000,2026-05-02,Disbursed,,7
+LD01881,CN0211,Home Loan,Shabana R.,4650000,2026-03-21,Sanctioned,,1
+LD01882,CN0211,Home Loan,Rizwan K.,5420000,2026-06-08,Rejected,,11
+LD01883,CN0211,Loan Against Property,Prakash K.,3430000,2026-11-01,Submitted,,10
+LD01884,CN0211,Home Loan,Usha V.,2850000,2026-04-04,Rejected,,4
+LD01885,CN0211,Home Loan,Vikram R.,8970000,2026-09-23,Disbursed,,9
+LD01886,CN0211,Home Loan,Vikram S.,7460000,2026-09-11,Disbursed,,5
+LD01887,CN0212,Used Car Loan,Sameer M.,1120000,2026-10-16,Submitted,,7
+LD01888,CN0212,Used Car Loan,Mahesh P.,890000,2026-10-31,Rejected,,10
+LD01889,CN0212,Used Car Loan,Nandini A.,340000,2026-10-27,Documents pending,Last 3 months bank statement,4
+LD01890,CN0212,Used Car Loan,Rohit M.,590000,2026-10-26,Submitted,,0
+LD01891,CN0212,Used Car Loan,Arvind R.,940000,2026-10-29,Submitted,,9
+LD01892,CN0213,Professional Loan,Anita P.,2050000,2026-11-01,Submitted,,9
+LD01893,CN0213,Professional Loan,Vikram K.,520000,2026-04-07,Rejected,,2
+LD01894,CN0213,Business Loan,Rohit G.,3200000,2026-08-03,Rejected,,2
+LD01895,CN0213,Professional Loan,Rekha S.,2880000,2026-07-26,Disbursed,,8
+LD01896,CN0213,Personal Loan,Fatima M.,260000,2026-04-05,Disbursed,,8
+LD01897,CN0213,Business Loan,Lakshmi P.,3670000,2026-10-21,Submitted,,4
+LD01898,CN0213,Business Loan,Rizwan R.,2690000,2026-03-24,Disbursed,,1
+LD01899,CN0213,Business Loan,Venkat P.,580000,2026-04-03,Rejected,,7
+LD01900,CN0213,Loan Against Property,Suresh K.,5270000,2026-03-08,Disbursed,,4
+LD01901,CN0213,Business Loan,Rizwan I.,3140000,2026-08-15,Rejected,,2
+LD01902,CN0213,Business Loan,Nandini J.,2850000,2026-10-25,Documents pending,Last 3 months bank statement,1
+LD01903,CN0213,Loan Against Property,Sachin N.,5480000,2026-10-22,Login,,9
+LD01904,CN0213,Loan Against Property,Fatima M.,5910000,2026-09-03,Disbursed,,2
+LD01905,CN0214,Used Car Loan,Kavita I.,520000,2026-07-21,Rejected,,9
+LD01906,CN0214,Two-Wheeler Loan,Venkat R.,190000,2026-09-30,Disbursed,,9
+LD01907,CN0214,Personal Loan,Rekha I.,760000,2026-08-12,Disbursed,,2
+LD01908,CN0214,Used Car Loan,Ganesh J.,1000000,2026-08-28,Rejected,,5
+LD01909,CN0214,Used Car Loan,Rizwan N.,1190000,2026-06-20,Disbursed,,7
+LD01910,CN0214,Two-Wheeler Loan,Sachin R.,80000,2026-09-06,Disbursed,,7
+LD01911,CN0214,Used Car Loan,Sachin N.,1090000,2026-08-06,Disbursed,,8
+LD01912,CN0214,Two-Wheeler Loan,Lakshmi P.,170000,2026-10-09,Login,,1
+LD01913,CN0214,Two-Wheeler Loan,Manoj V.,170000,2026-08-08,Disbursed,,2
+LD01914,CN0214,Personal Loan,Pooja K.,440000,2026-05-11,Rejected,,10
+LD01915,CN0214,Used Car Loan,Ganesh J.,1010000,2026-06-17,Disbursed,,11
+LD01916,CN0214,Personal Loan,Venkat I.,990000,2026-06-17,Disbursed,,0
+LD01917,CN0214,Used Car Loan,Prakash S.,900000,2026-09-12,Rejected,,11
+LD01918,CN0214,Used Car Loan,Rizwan K.,340000,2026-10-29,Sanctioned,,3
+LD01919,CN0214,Two-Wheeler Loan,Usha A.,80000,2026-07-06,Disbursed,,1
+LD01920,CN0214,Two-Wheeler Loan,Pooja S.,110000,2026-07-10,Disbursed,,8
+LD01921,CN0214,Used Car Loan,Anita S.,470000,2026-05-18,Rejected,,8
+LD01922,CN0215,Professional Loan,Sunita S.,840000,2026-08-12,Disbursed,,5
+LD01923,CN0215,Loan Against Property,Rohit V.,4350000,2026-09-01,Disbursed,,9
+LD01924,CN0215,Loan Against Property,Sachin A.,6410000,2026-05-21,Disbursed,,9
+LD01925,CN0216,Professional Loan,Nikhil V.,700000,2026-04-04,Rejected,,2
+LD01926,CN0216,Professional Loan,Anita K.,2550000,2026-07-26,Disbursed,,4
+LD01927,CN0216,Personal Loan,Rohit P.,340000,2026-08-13,Disbursed,,11
+LD01928,CN0216,Personal Loan,Rizwan N.,470000,2026-04-22,Disbursed,,10
+LD01929,CN0216,Personal Loan,Fatima G.,850000,2026-03-24,Disbursed,,7
+LD01930,CN0216,Professional Loan,Shabana G.,1090000,2026-08-10,Disbursed,,8
+LD01931,CN0216,Professional Loan,Nandini N.,1140000,2026-10-28,Sanctioned,,11
+LD01932,CN0216,Personal Loan,Pooja J.,1050000,2026-05-07,Rejected,,0
+LD01933,CN0216,Business Loan,Shabana I.,3770000,2026-05-05,Disbursed,,3
+LD01934,CN0216,Personal Loan,Venkat R.,1080000,2026-09-27,Login,,4
+LD01935,CN0217,Personal Loan,Venkat G.,600000,2026-08-06,Disbursed,,0
+LD01936,CN0217,Personal Loan,Rohit K.,1000000,2026-08-15,Disbursed,,9
+LD01937,CN0217,Credit Card,Deepa M.,0,2026-09-04,Rejected,,4
+LD01938,CN0217,Personal Loan,Pooja G.,1050000,2026-05-25,Disbursed,,10
+LD01939,CN0217,Credit Card,Sameer P.,0,2026-07-23,Rejected,,10
+LD01940,CN0217,Home Loan,Kavita K.,7900000,2026-09-10,Disbursed,,7
+LD01941,CN0217,Personal Loan,Vikram R.,240000,2026-06-25,Disbursed,,8
+LD01942,CN0218,Credit Card,Pooja M.,0,2026-04-30,Disbursed,,0
+LD01943,CN0218,Education Loan,Nikhil S.,1880000,2026-03-31,Rejected,,9
+LD01944,CN0218,Personal Loan,Prakash S.,980000,2026-10-31,Login,,0
+LD01945,CN0218,Credit Card,Imran P.,0,2026-10-23,Login,,3
+LD01946,CN0218,Credit Card,Arvind M.,0,2026-04-14,Disbursed,,6
+LD01947,CN0219,Loan Against Property,Pooja P.,5430000,2026-08-28,Disbursed,,9
+LD01948,CN0219,Loan Against Property,Ganesh S.,7260000,2026-05-06,Rejected,,11
+LD01949,CN0219,Home Loan,Lakshmi P.,4800000,2026-05-17,Disbursed,,1
+LD01950,CN0219,Personal Loan,Arvind J.,300000,2026-04-14,Disbursed,,5
+LD01951,CN0219,Loan Against Property,Kavita M.,5590000,2026-06-09,Disbursed,,9
+LD01952,CN0220,Business Loan,Rizwan K.,1320000,2026-09-19,Sanctioned,,9
+LD01953,CN0220,Personal Loan,Fatima R.,1040000,2026-07-02,Disbursed,,5
+LD01954,CN0220,Professional Loan,Ganesh V.,2760000,2026-03-21,Sanctioned,,6
+LD01955,CN0220,Loan Against Property,Rekha J.,7540000,2026-09-18,Documents pending,Last 3 months bank statement,1
+LD01956,CN0220,Personal Loan,Harish N.,970000,2026-06-16,Rejected,,0
+LD01957,CN0220,Business Loan,Mahesh A.,3990000,2026-06-01,Disbursed,,6
+LD01958,CN0220,Loan Against Property,Shabana M.,5900000,2026-05-25,Disbursed,,3
+LD01959,CN0220,Professional Loan,Nikhil V.,2990000,2026-08-31,Rejected,,5
+LD01960,CN0220,Professional Loan,Rekha S.,2850000,2026-04-22,Disbursed,,4
+LD01961,CN0220,Business Loan,Manoj J.,2580000,2026-09-29,Sanctioned,,7
+LD01962,CN0220,Professional Loan,Vikram S.,1200000,2026-04-02,Disbursed,,0
+LD01963,CN0220,Professional Loan,Harish V.,910000,2026-08-24,Rejected,,7
+LD01964,CN0220,Loan Against Property,Rohit A.,7210000,2026-10-29,Submitted,,3
+LD01965,CN0220,Professional Loan,Shabana M.,2060000,2026-07-29,Rejected,,5
+LD01966,CN0221,Loan Against Property,Prakash J.,2800000,2026-09-01,Disbursed,,5
+LD01967,CN0221,Business Loan,Harish M.,710000,2026-07-19,Disbursed,,2
+LD01968,CN0221,Personal Loan,Srinivas I.,720000,2026-10-20,Documents pending,Last 3 months bank statement,2
+LD01969,CN0221,Professional Loan,Sachin K.,2760000,2026-07-05,Sanctioned,,6
+LD01970,CN0221,Personal Loan,Fatima J.,690000,2026-08-15,Disbursed,,9
+LD01971,CN0221,Business Loan,Sachin N.,3040000,2026-07-13,Disbursed,,3
+LD01972,CN0221,Business Loan,Srinivas V.,2950000,2026-06-12,Rejected,,10
+LD01973,CN0221,Professional Loan,Jyoti M.,1670000,2026-09-21,Disbursed,,10
+LD01974,CN0221,Professional Loan,Sachin M.,1530000,2026-08-08,Disbursed,,11
+LD01975,CN0222,Home Loan,Srinivas A.,4090000,2026-09-11,Disbursed,,5
+LD01976,CN0222,Personal Loan,Nikhil J.,520000,2026-04-25,Rejected,,5
+LD01977,CN0222,Credit Card,Deepa S.,0,2026-06-17,Disbursed,,1
+LD01978,CN0222,Credit Card,Jyoti S.,0,2026-09-12,Rejected,,8
+LD01979,CN0222,Home Loan,Sachin M.,4890000,2026-05-21,Disbursed,,2
+LD01980,CN0222,Education Loan,Vikram I.,2080000,2026-07-26,Disbursed,,7
+LD01981,CN0222,Education Loan,Nandini R.,1420000,2026-04-30,Rejected,,9
+LD01982,CN0222,Personal Loan,Ganesh R.,420000,2026-08-24,Rejected,,9
+LD01983,CN0222,Personal Loan,Mahesh V.,490000,2026-10-05,Login,,5
+LD01984,CN0222,Credit Card,Ganesh V.,0,2026-05-02,Sanctioned,,6
+LD01985,CN0222,Personal Loan,Rekha M.,990000,2026-10-21,Disbursed,,7
+LD01986,CN0222,Credit Card,Nandini J.,0,2026-03-27,Disbursed,,9
+LD01987,CN0222,Credit Card,Nandini P.,0,2026-04-13,Disbursed,,1
+LD01988,CN0222,Personal Loan,Harish V.,220000,2026-08-16,Disbursed,,2
+LD01989,CN0222,Personal Loan,Srinivas V.,480000,2026-09-20,Rejected,,7
+LD01990,CN0222,Personal Loan,Harish P.,810000,2026-09-16,Disbursed,,8
+LD01991,CN0222,Personal Loan,Rizwan R.,660000,2026-04-12,Disbursed,,2
+LD01992,CN0222,Home Loan,Jyoti M.,3240000,2026-06-26,Disbursed,,11
+LD01993,CN0222,Personal Loan,Rohit K.,470000,2026-07-10,Rejected,,6
+LD01994,CN0222,Personal Loan,Harish S.,430000,2026-05-12,Disbursed,,1
+LD01995,CN0222,Credit Card,Kavita M.,0,2026-11-02,Documents pending,Last 3 months bank statement,5
+LD01996,CN0222,Personal Loan,Usha S.,690000,2026-06-30,Disbursed,,1
+LD01997,CN0222,Credit Card,Imran P.,0,2026-08-16,Disbursed,,3
+LD01998,CN0222,Education Loan,Meera A.,490000,2026-06-11,Disbursed,,10
+LD01999,CN0222,Personal Loan,Arvind N.,350000,2026-07-09,Rejected,,2
+LD02000,CN0222,Credit Card,Harish P.,0,2026-09-12,Disbursed,,8
+LD02001,CN0222,Education Loan,Anita M.,1650000,2026-05-08,Disbursed,,4
+LD02002,CN0222,Home Loan,Sunita N.,3160000,2026-10-15,Disbursed,,8
+LD02003,CN0222,Education Loan,Nikhil R.,1020000,2026-06-18,Disbursed,,5
+LD02004,CN0222,Home Loan,Nikhil K.,7740000,2026-03-31,Rejected,,9
+LD02005,CN0222,Home Loan,Vikram J.,6870000,2026-07-28,Rejected,,10
+LD02006,CN0222,Personal Loan,Manoj N.,660000,2026-08-31,Rejected,,9
+LD02007,CN0223,Personal Loan,Harish K.,790000,2026-07-08,Disbursed,,6
+LD02008,CN0223,Credit Card,Imran S.,0,2026-07-09,Disbursed,,2
+LD02009,CN0223,Two-Wheeler Loan,Usha S.,120000,2026-10-17,Disbursed,,1
+LD02010,CN0223,Business Loan,Manoj I.,3510000,2026-08-16,Disbursed,,2
+LD02011,CN0223,Two-Wheeler Loan,Jyoti M.,70000,2026-09-28,Sanctioned,,10
+LD02012,CN0223,Personal Loan,Vikram V.,260000,2026-08-28,Disbursed,,5
+LD02013,CN0223,Business Loan,Anita V.,3890000,2026-07-29,Disbursed,,4
+LD02014,CN0223,Business Loan,Rohit J.,3380000,2026-06-12,Rejected,,2
+LD02015,CN0223,Two-Wheeler Loan,Harish A.,60000,2026-10-11,Documents pending,Last 3 months bank statement,0
+LD02016,CN0223,Two-Wheeler Loan,Rizwan J.,60000,2026-09-03,Rejected,,8
+LD02017,CN0223,Credit Card,Sachin K.,0,2026-08-12,Rejected,,4
+LD02018,CN0223,Business Loan,Sameer N.,3950000,2026-08-10,Disbursed,,9
+LD02019,CN0224,Home Loan,Lakshmi A.,5400000,2026-04-20,Rejected,,11
+LD02020,CN0224,Home Loan,Nandini R.,8760000,2026-11-02,Submitted,,0
+LD02021,CN0224,Loan Against Property,Mahesh A.,1740000,2026-03-13,Disbursed,,0
+LD02022,CN0224,Home Loan,Nikhil K.,3900000,2026-04-24,Sanctioned,,6
+LD02023,CN0225,Business Loan,Ganesh J.,600000,2026-09-08,Disbursed,,9
+LD02024,CN0225,Personal Loan,Sunita J.,340000,2026-04-27,Disbursed,,3
+LD02025,CN0226,Professional Loan,Nikhil M.,700000,2026-10-19,Documents pending,Last 3 months bank statement,0
+LD02026,CN0226,Business Loan,Srinivas R.,2580000,2026-06-17,Rejected,,5
+LD02027,CN0226,Professional Loan,Arvind M.,1580000,2026-03-29,Rejected,,8
+LD02028,CN0226,Professional Loan,Pooja M.,540000,2026-09-14,Disbursed,,9
+LD02029,CN0226,Personal Loan,Prakash K.,1110000,2026-06-26,Disbursed,,11
+LD02030,CN0226,Professional Loan,Lakshmi M.,2890000,2026-06-17,Rejected,,3
+LD02031,CN0226,Professional Loan,Sachin I.,1940000,2026-09-17,Sanctioned,,1
+LD02032,CN0226,Professional Loan,Suresh K.,610000,2026-05-14,Rejected,,0
+LD02033,CN0227,Personal Loan,Deepa K.,940000,2026-09-27,Rejected,,10
+LD02034,CN0227,Business Loan,Arvind S.,1370000,2026-10-12,Sanctioned,,0
+LD02035,CN0227,Personal Loan,Imran R.,260000,2026-10-09,Sanctioned,,6
+LD02036,CN0227,Professional Loan,Ganesh S.,690000,2026-09-21,Login,,4
+LD02037,CN0228,Professional Loan,Ganesh N.,860000,2026-04-03,Rejected,,0
+LD02038,CN0228,Personal Loan,Rekha S.,740000,2026-10-09,Documents pending,Last 3 months bank statement,4
+LD02039,CN0228,Business Loan,Vikram A.,3860000,2026-05-27,Sanctioned,,3
+LD02040,CN0228,Professional Loan,Imran R.,2050000,2026-07-18,Rejected,,0
+LD02041,CN0228,Professional Loan,Srinivas R.,1900000,2026-03-29,Rejected,,7
+LD02042,CN0228,Business Loan,Meera M.,1290000,2026-04-03,Sanctioned,,6
+LD02043,CN0228,Business Loan,Meera S.,2310000,2026-05-22,Rejected,,11
+LD02044,CN0228,Business Loan,Meera N.,3210000,2026-08-23,Sanctioned,,5
+LD02045,CN0229,Business Loan,Sunita K.,2630000,2026-09-22,Documents pending,Last 3 months bank statement,5
+LD02046,CN0230,Home Loan,Anita P.,3060000,2026-10-17,Documents pending,Last 3 months bank statement,9
+LD02047,CN0230,Home Loan,Meera S.,7350000,2026-10-19,Documents pending,Last 3 months bank statement,0
+LD02048,CN0231,Education Loan,Suresh R.,660000,2026-10-16,Login,,2
+LD02049,CN0231,Education Loan,Sunita S.,600000,2026-09-15,Disbursed,,2
+LD02050,CN0232,Home Loan,Sunita K.,7090000,2026-05-23,Disbursed,,8
+LD02051,CN0232,Loan Against Property,Deepa R.,3710000,2026-07-10,Disbursed,,4
+LD02052,CN0232,Home Loan,Shabana K.,6910000,2026-04-07,Rejected,,1
+LD02053,CN0232,Home Loan,Deepa K.,7530000,2026-09-29,Disbursed,,5
+LD02054,CN0232,Home Loan,Mahesh R.,5810000,2026-05-06,Disbursed,,8
+LD02055,CN0232,Loan Against Property,Manoj S.,5050000,2026-04-16,Disbursed,,1
+LD02056,CN0232,Home Loan,Deepa J.,4050000,2026-06-13,Disbursed,,2
+LD02057,CN0232,Personal Loan,Suresh J.,600000,2026-08-14,Disbursed,,11
+LD02058,CN0232,Loan Against Property,Jyoti I.,5840000,2026-06-14,Disbursed,,2
+LD02059,CN0232,Home Loan,Sunita K.,4160000,2026-03-20,Rejected,,9
+LD02060,CN0232,Loan Against Property,Shabana I.,6280000,2026-08-13,Sanctioned,,11
+LD02061,CN0232,Home Loan,Harish K.,4930000,2026-09-10,Disbursed,,6
+LD02062,CN0232,Home Loan,Lakshmi G.,3200000,2026-03-14,Disbursed,,5
+LD02063,CN0232,Home Loan,Rekha V.,2970000,2026-09-19,Login,,0
+LD02064,CN0232,Loan Against Property,Rekha P.,7610000,2026-04-22,Disbursed,,2
+LD02065,CN0232,Home Loan,Nikhil G.,8580000,2026-10-26,Documents pending,Last 3 months bank statement,4
+LD02066,CN0232,Home Loan,Pooja M.,7880000,2026-09-05,Rejected,,10
+LD02067,CN0232,Loan Against Property,Ganesh S.,4480000,2026-04-18,Disbursed,,6
+LD02068,CN0232,Home Loan,Meera K.,7690000,2026-05-31,Rejected,,10
+LD02069,CN0233,Home Loan,Srinivas P.,4120000,2026-06-01,Rejected,,4
+LD02070,CN0234,Education Loan,Karthik G.,1740000,2026-08-14,Disbursed,,4
+LD02071,CN0235,Education Loan,Sunita V.,1230000,2026-10-31,Documents pending,Last 3 months bank statement,9
+LD02072,CN0235,Education Loan,Rizwan N.,1780000,2026-10-02,Rejected,,10
+LD02073,CN0235,Education Loan,Rohit I.,2270000,2026-10-13,Sanctioned,,1
+LD02074,CN0236,Personal Loan,Arvind M.,1030000,2026-09-11,Rejected,,0
+LD02075,CN0236,Credit Card,Kavita K.,0,2026-08-31,Rejected,,4
+LD02076,CN0236,Education Loan,Kavita A.,480000,2026-07-28,Disbursed,,3
+LD02077,CN0236,Credit Card,Pooja K.,0,2026-10-09,Disbursed,,2
+LD02078,CN0236,Personal Loan,Sunita K.,870000,2026-09-01,Disbursed,,1
+LD02079,CN0236,Credit Card,Vikram M.,0,2026-04-09,Rejected,,1
+LD02080,CN0236,Personal Loan,Venkat K.,920000,2026-07-03,Rejected,,3
+LD02081,CN0236,Credit Card,Sachin S.,0,2026-06-12,Disbursed,,0
+LD02082,CN0236,Credit Card,Deepa G.,0,2026-07-18,Disbursed,,0
+LD02083,CN0236,Education Loan,Nandini P.,1250000,2026-06-16,Rejected,,6
+LD02084,CN0236,Credit Card,Nikhil S.,0,2026-10-11,Documents pending,Last 3 months bank statement,8
+LD02085,CN0236,Personal Loan,Sunita A.,540000,2026-04-20,Rejected,,5
+LD02086,CN0237,Professional Loan,Mahesh M.,670000,2026-10-22,Documents pending,Last 3 months bank statement,10
+LD02087,CN0237,Professional Loan,Venkat G.,570000,2026-10-10,Sanctioned,,0
+LD02088,CN0237,Business Loan,Sachin P.,2190000,2026-10-19,Submitted,,2
+LD02089,CN0238,Loan Against Property,Sameer M.,2330000,2026-08-26,Disbursed,,2
+LD02090,CN0238,Home Loan,Meera R.,4190000,2026-09-21,Sanctioned,,0
+LD02091,CN0238,Loan Against Property,Meera S.,6310000,2026-09-02,Disbursed,,7
+LD02092,CN0238,Home Loan,Karthik V.,8270000,2026-09-06,Sanctioned,,0
+LD02093,CN0239,Professional Loan,Mahesh K.,910000,2026-06-05,Rejected,,10
+LD02094,CN0239,Personal Loan,Sameer P.,240000,2026-10-22,Sanctioned,,6
+LD02095,CN0239,Loan Against Property,Jyoti A.,5860000,2026-08-13,Disbursed,,7
+LD02096,CN0239,Business Loan,Srinivas M.,3870000,2026-06-29,Disbursed,,4
+LD02097,CN0239,Loan Against Property,Pooja J.,3780000,2026-05-13,Rejected,,4
+LD02098,CN0239,Business Loan,Lakshmi A.,900000,2026-06-02,Disbursed,,3
+LD02099,CN0239,Business Loan,Suresh S.,2370000,2026-04-27,Disbursed,,4
+LD02100,CN0239,Professional Loan,Jyoti I.,770000,2026-07-26,Disbursed,,1
+LD02101,CN0239,Business Loan,Vikram K.,2730000,2026-03-28,Disbursed,,1
+LD02102,CN0239,Professional Loan,Harish P.,1060000,2026-08-14,Disbursed,,3
+LD02103,CN0240,Personal Loan,Lakshmi R.,410000,2026-09-01,Rejected,,6
+LD02104,CN0240,Education Loan,Jyoti V.,1550000,2026-03-08,Disbursed,,1
+LD02105,CN0240,Education Loan,Sunita J.,1540000,2026-08-23,Disbursed,,10
+LD02106,CN0240,Education Loan,Sachin P.,450000,2026-09-21,Disbursed,,10
+LD02107,CN0240,Education Loan,Arvind I.,1550000,2026-08-30,Disbursed,,7
+LD02108,CN0240,Education Loan,Lakshmi J.,690000,2026-06-18,Disbursed,,8
+LD02109,CN0240,Education Loan,Imran V.,1320000,2026-06-17,Rejected,,8
+LD02110,CN0240,Personal Loan,Harish G.,900000,2026-04-08,Disbursed,,8
+LD02111,CN0240,Education Loan,Srinivas J.,1860000,2026-06-29,Rejected,,9
+LD02112,CN0240,Education Loan,Rekha A.,620000,2026-04-18,Sanctioned,,10
+LD02113,CN0240,Education Loan,Imran S.,2050000,2026-09-28,Login,,11
+LD02114,CN0240,Education Loan,Anita G.,1650000,2026-10-07,Documents pending,Last 3 months bank statement,8
+LD02115,CN0240,Education Loan,Arvind S.,1040000,2026-08-29,Rejected,,3
+LD02116,CN0240,Education Loan,Sunita G.,450000,2026-10-10,Sanctioned,,9
+LD02117,CN0240,Education Loan,Prakash R.,490000,2026-09-10,Sanctioned,,0
+LD02118,CN0240,Personal Loan,Kavita R.,1090000,2026-05-02,Disbursed,,10
+LD02119,CN0240,Personal Loan,Sameer J.,930000,2026-08-28,Disbursed,,1
+LD02120,CN0240,Personal Loan,Sachin M.,1090000,2026-04-05,Sanctioned,,3
+LD02121,CN0240,Personal Loan,Anita M.,1100000,2026-07-08,Sanctioned,,6
+LD02122,CN0240,Personal Loan,Pooja R.,390000,2026-05-16,Disbursed,,8
+LD02123,CN0240,Education Loan,Nikhil K.,2350000,2026-05-06,Rejected,,8
+LD02124,CN0240,Education Loan,Meera I.,1870000,2026-05-16,Disbursed,,4
+LD02125,CN0240,Education Loan,Manoj N.,1060000,2026-08-07,Disbursed,,1
